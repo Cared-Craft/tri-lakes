@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "finance",
+    "name": "Finance"
+  },
+  {
+    "slug": "home-improvement-services",
+    "name": "Home Improvement Services"
+  },
+  {
+    "slug": "home-warranty",
+    "name": "Home Warranty"
+  },
+  {
+    "slug": "inspection-services",
+    "name": "Inspection Services"
+  },
+  {
+    "slug": "insurance",
+    "name": "Insurance"
+  },
+  {
+    "slug": "junk-removal",
+    "name": "Junk Removal"
+  },
+  {
+    "slug": "miscellaneous",
+    "name": "Miscellaneous"
+  },
+  {
+    "slug": "moving-and-storage",
+    "name": "Moving and Storage"
+  },
+  {
+    "slug": "photography-and-media",
+    "name": "Photography and Media"
+  },
+  {
+    "slug": "radon-inspection",
+    "name": "Radon Inspection"
+  },
+  {
+    "slug": "title",
+    "name": "Title"
+  }
+]

@@ -1,0 +1,1065 @@
+{
+  "title": "Meet GSBOR - Greater Springfield Board of Realtors",
+  "metaDescription": "",
+  "h1": "About GSBOR",
+  "contentTree": {
+    "type": "div",
+    "content": "About GSBOR\n\nThe Greater Springfield Board of REALTORS® assembled on June 12, 1933 as the leading voice in real estate in Greene, Christian and Webster counties.\n\nGSBOR looks to provide the nebulous, often intangible, yet invaluable commodity of service to REALTORS® in the Springfield area.\n\nAll members of the Greater Springfield Board of REALTORS® are pledged to the high standards of our REALTOR® Code of Ethics. The Board, as the vehicle for self-enforcement, promotes ethical conduct among its members and the public — striving always for higher standards for the profession.\n\nThe Vision\n\nTo empower our members to excel in professionalism and ethical standards in real estate.\n\nThe Mission\n\nTo be the trusted real estate voice advocating for the benefit of our members and our communities.\n\nBoards of Directors\n\nView our current MLS and GSBOR board members.\n\nLEARN MORE\nLeadership Academy\n\nGet the latest info about the GSBOR Leadership Academy.\n\nLEARN MORE\nCommittees\n\nCommittees help our board to succeed in its goals. Check out the full list of committees here to see if one is right for you.\n\nLEARN MORE\nAwards\n\nView our past award winners here.\n\nLEARN MORE\nGoverning Docs\n\nView and download important GSBOR member documents.\n\nLEARN MORE\nArchives\n\nLooking for old photos, documents or blueprints? Check our archives.\n\nCOMING SOON\nWant to Learn More About GSBOR?\n\nDon’t hesitate to email, call or fill out a contact form. One of our friendly staff members would be happy to help you.\n\nCONTACT US",
+    "children": [
+      {
+        "type": "h1",
+        "content": "About GSBOR",
+        "html": "<h1 class=\"elementor-heading-title elementor-size-default\">About GSBOR</h1>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "The Greater Springfield Board of REALTORS® assembled on June 12, 1933 as the leading voice in real estate in Greene, Christian and Webster counties.",
+        "html": "<p>The Greater Springfield Board of REALTORS® assembled on June 12, 1933 as the leading voice in real estate in Greene, Christian and Webster counties.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "The Greater Springfield Board of REALTORS® assembled on June 12, 1933 as the leading voice in real estate in Greene, Christian and Webster counties."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "GSBOR looks to provide the nebulous, often intangible, yet invaluable commodity of service to REALTORS® in the Springfield area.",
+        "html": "<p>GSBOR looks to provide the nebulous, often intangible, yet invaluable commodity of service to REALTORS® in the Springfield area.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "GSBOR looks to provide the nebulous, often intangible, yet invaluable commodity of service to REALTORS® in the Springfield area."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "All members of the Greater Springfield Board of REALTORS® are pledged to the high standards of our REALTOR® Code of Ethics. The Board, as the vehicle for self-enforcement, promotes ethical conduct among its members and the public — striving always for higher standards for the profession.",
+        "html": "<p>All members of the Greater Springfield Board of REALTORS® are pledged to the high standards of our REALTOR® Code of Ethics. The Board, as the vehicle for self-enforcement, promotes ethical conduct among its members and the public — striving always for higher standards for the profession.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "All members of the Greater Springfield Board of REALTORS® are pledged to the high standards of our REALTOR® Code of Ethics. The Board, as the vehicle for self-enforcement, promotes ethical conduct among its members and the public — striving always for higher standards for the profession."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "The Vision",
+        "html": "<h2 class=\"elementor-heading-title elementor-size-default\">The Vision</h2>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "To empower our members to excel in professionalism and ethical standards in real estate.",
+        "html": "<p>To empower our members to excel in professionalism and ethical standards in real estate.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "To empower our members to excel in professionalism and ethical standards in real estate."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "The Mission",
+        "html": "<h2 class=\"elementor-heading-title elementor-size-default\">The Mission</h2>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "To be the trusted real estate voice advocating for the benefit of our members and our communities.",
+        "html": "<p>To be the trusted real estate voice advocating for the benefit of our members and our communities.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "To be the trusted real estate voice advocating for the benefit of our members and our communities."
+          }
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Boards of Directors",
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">Boards of Directors</h3>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "View our current MLS and GSBOR board members.",
+        "html": "<p>View our current MLS and GSBOR board members.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "View our current MLS and GSBOR board members."
+          }
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Leadership Academy",
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">Leadership Academy</h3>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "Get the latest info about the GSBOR Leadership Academy.",
+        "html": "<p>Get the latest info about the GSBOR Leadership Academy.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Get the latest info about the GSBOR Leadership Academy."
+          }
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Committees",
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">Committees</h3>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "Committees help our board to succeed in its goals. Check out the full list of committees here to see if one is right for you.",
+        "html": "<p class=\"p1\">Committees help our board to succeed in its goals. Check out the full list of committees here to see if one is right for you.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Committees help our board to succeed in its goals. Check out the full list of committees here to see if one is right for you."
+          }
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Awards",
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">Awards</h3>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "View our past award winners here.",
+        "html": "<p>View our past award winners here.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "View our past award winners here."
+          }
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Governing Docs",
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">Governing Docs </h3>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "View and download important GSBOR member documents.",
+        "html": "<p>View and download important GSBOR member documents.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "View and download important GSBOR member documents."
+          }
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Archives",
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">Archives</h3>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "Looking for old photos, documents or blueprints? Check our archives.",
+        "html": "<p class=\"p1\">Looking for old photos, documents or blueprints? Check our archives.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Looking for old photos, documents or blueprints? Check our archives."
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "content": "Want to Learn More About GSBOR?",
+        "html": "<h1 class=\"elementor-heading-title elementor-size-default\">Want to Learn More About GSBOR?</h1>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "Don’t hesitate to email, call or fill out a contact form. One of our friendly staff members would be happy to help you.",
+        "html": "<p>Don’t hesitate to email, call or fill out a contact form. One of our friendly staff members would be happy to help you.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Don’t hesitate to email, call or fill out a contact form. One of our friendly staff members would be happy to help you."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Web Accessibility",
+        "html": "<p class=\"elementor-heading-title elementor-size-default\"><a href=\"https://gsbor.com/web-accessibility/\">Web Accessibility\n</a></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Web Accessibility"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Greater Springfield Board of Realtors®, Inc. is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying relevant accessibility standards.\n\nIf you have difficulty accessing content, have difficulty viewing a file on the website, or notice any accessibility problems, please contact us to specify the nature of the accessibility issue and any assistive technology you use. We will strive to provide the content you need in the format you require.",
+        "html": "<p><br><strong>Greater Springfield Board of Realtors®, Inc. is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying relevant accessibility standards.</strong><br><br><strong>If you have difficulty accessing content, have difficulty viewing a file on the website, or notice any accessibility problems, please&nbsp;contact us&nbsp;to specify the nature of the accessibility issue and any assistive technology you use. We will strive to provide the content you need in the format you require.</strong></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Greater Springfield Board of Realtors®, Inc. is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying relevant accessibility standards.\n\nIf you have difficulty accessing content, have difficulty viewing a file on the website, or notice any accessibility problems, please contact us to specify the nature of the accessibility issue and any assistive technology you use. We will strive to provide the content you need in the format you require."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "© Copyright 2020. Greater Springfield Board of Realtors®, Inc.",
+        "html": "<p>© Copyright 2020. <br>Greater Springfield Board of Realtors®, Inc.</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "© Copyright 2020. Greater Springfield Board of Realtors®, Inc."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Have You Gotten Our Text Messages?",
+        "html": "<p class=\"elementor-heading-title elementor-size-default\">Have You Gotten Our Text Messages?</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Have You Gotten Our Text Messages?"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Text REALTORS to 30644 to get alerts on CALLS FOR ACTION",
+        "html": "<p class=\"p1\"><span class=\"s1\">Text <b>REALTORS</b> to <b>30644</b> to get alerts on <b>CALLS FOR ACTION</b></span></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Text REALTORS to 30644 to get alerts on CALLS FOR ACTION"
+          }
+        ]
+      }
+    ],
+    "html": "<div class=\"site-content\" id=\"content\">\n\t\t\t\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"8898\" class=\"elementor elementor-8898\" data-elementor-post-type=\"page\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-7fa2a44 about-bg-landscape elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"7fa2a44\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-1c033db\" data-id=\"1c033db\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-d556076 elementor-widget elementor-widget-heading animated fadeIn\" data-id=\"d556076\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeIn&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">About GSBOR</h1>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-35e679f elementor-widget elementor-widget-text-editor animated fadeIn\" data-id=\"35e679f\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeIn&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>The Greater Springfield Board of REALTORS® assembled on June 12, 1933 as the leading voice in real estate in Greene, Christian and Webster counties.</p><p>GSBOR looks to provide the nebulous, often intangible, yet invaluable commodity of service to REALTORS® in the Springfield area.</p><p>All members of the Greater Springfield Board of REALTORS® are pledged to the high standards of our REALTOR® Code of Ethics. The Board, as the vehicle for self-enforcement, promotes ethical conduct among its members and the public — striving always for higher standards for the profession.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5d57f97\" data-id=\"5d57f97\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-68a4864 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"68a4864\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5aca789 add-box-shadow animated fadeInUp\" data-id=\"5aca789\" data-element_type=\"column\" data-settings=\"{&quot;animation&quot;:&quot;fadeInUp&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-45f0b0e elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"45f0b0e\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4b2cd4a\" data-id=\"4b2cd4a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-84bff31 elementor-widget elementor-widget-heading\" data-id=\"84bff31\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">The Vision</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-db9d27e elementor-widget elementor-widget-text-editor\" data-id=\"db9d27e\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>To empower our members to excel in professionalism and ethical standards in real estate.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b871e65\" data-id=\"b871e65\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-26521c0 elementor-widget elementor-widget-heading\" data-id=\"26521c0\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">The Mission</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-86d7d4d elementor-widget elementor-widget-text-editor\" data-id=\"86d7d4d\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>To be the trusted real estate voice advocating for the benefit of our members and our communities.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-d657c70 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"d657c70\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2759a88 add-box-shadow animated fadeInUp\" data-id=\"2759a88\" data-element_type=\"column\" data-settings=\"{&quot;animation&quot;:&quot;fadeInUp&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-0607bc5 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"0607bc5\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8a07468\" data-id=\"8a07468\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-fbdb64e elementor-section-height-min-height elementor-section-boxed elementor-section-height-default\" data-id=\"fbdb64e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-79832e1\" data-id=\"79832e1\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-728131e elementor-widget elementor-widget-image\" data-id=\"728131e\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"113\" height=\"114\" src=\"https://gsbor.com/wp-content/uploads/2020/02/board-of-directors.svg\" class=\"attachment-full size-full wp-image-8903\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f5ad29f blue-line elementor-widget elementor-widget-heading\" data-id=\"f5ad29f\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Boards of Directors</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e8ec5ad elementor-widget elementor-widget-text-editor\" data-id=\"e8ec5ad\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>View our current MLS and GSBOR board members.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1b0baa0 elementor-mobile-align-justify elementor-align-justify elementor-absolute elementor-widget elementor-widget-button\" data-id=\"1b0baa0\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://gsbor.com/about-gsbor/meet-our-board/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Learn More</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c2fe33\" data-id=\"6c2fe33\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-899bddf elementor-section-height-min-height elementor-section-boxed elementor-section-height-default\" data-id=\"899bddf\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ddbdfc7\" data-id=\"ddbdfc7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-e18c816 elementor-widget elementor-widget-image\" data-id=\"e18c816\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"113\" height=\"114\" src=\"https://gsbor.com/wp-content/uploads/2020/02/leadership-academy-icon.svg\" class=\"attachment-full size-full wp-image-8902\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-81a0877 blue-line elementor-widget elementor-widget-heading\" data-id=\"81a0877\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Leadership Academy</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-855341c elementor-widget elementor-widget-text-editor\" data-id=\"855341c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Get the latest info about the GSBOR Leadership Academy.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-97bf852 elementor-mobile-align-justify elementor-align-justify elementor-absolute elementor-widget elementor-widget-button\" data-id=\"97bf852\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://gsbor.com/about-gsbor/leadership-academy/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Learn More</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-731ca4c\" data-id=\"731ca4c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-27bdc58 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default\" data-id=\"27bdc58\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b97b0bd\" data-id=\"b97b0bd\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-f00e759 elementor-widget elementor-widget-image\" data-id=\"f00e759\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"113\" height=\"114\" src=\"https://gsbor.com/wp-content/uploads/2020/02/committees-icon.svg\" class=\"attachment-full size-full wp-image-8906\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ee53bb3 blue-line elementor-widget elementor-widget-heading\" data-id=\"ee53bb3\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Committees</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b4906d2 elementor-widget elementor-widget-text-editor\" data-id=\"b4906d2\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"p1\">Committees help our board to succeed in its goals. Check out the full list of committees here to see if one is right for you.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7642ae5 elementor-mobile-align-justify elementor-align-justify elementor-absolute elementor-widget elementor-widget-button\" data-id=\"7642ae5\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://gsbor.com/about-gsbor/committees/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Learn More</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-1599db7 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"1599db7\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-657d051\" data-id=\"657d051\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-755be60 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"755be60\" data-element_type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-eefdbe3 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"eefdbe3\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0f23278\" data-id=\"0f23278\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-8dc8a6d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default\" data-id=\"8dc8a6d\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b2f40e6\" data-id=\"b2f40e6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-5e2666d elementor-widget elementor-widget-image\" data-id=\"5e2666d\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"113\" height=\"114\" src=\"https://gsbor.com/wp-content/uploads/2020/02/awards-icon.svg\" class=\"attachment-full size-full wp-image-8905\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-3220e29 blue-line elementor-widget elementor-widget-heading\" data-id=\"3220e29\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Awards</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7930742 elementor-widget elementor-widget-text-editor\" data-id=\"7930742\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>View our past award winners here.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-420c966 elementor-mobile-align-justify elementor-align-justify elementor-absolute elementor-widget elementor-widget-button\" data-id=\"420c966\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://gsbor.com/about-gsbor/awards/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Learn More</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f9ccd03\" data-id=\"f9ccd03\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-17664d4 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default\" data-id=\"17664d4\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-279238a\" data-id=\"279238a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-cd4ef2a elementor-widget elementor-widget-image\" data-id=\"cd4ef2a\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"113\" height=\"114\" src=\"https://gsbor.com/wp-content/uploads/2020/02/governing-docs-icon.svg\" class=\"attachment-full size-full wp-image-8901\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-d1b2f72 blue-line elementor-widget elementor-widget-heading\" data-id=\"d1b2f72\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Governing Docs </h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-a62eb70 elementor-widget elementor-widget-text-editor\" data-id=\"a62eb70\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>View and download important GSBOR member documents.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-d52f313 elementor-mobile-align-justify elementor-align-justify elementor-absolute elementor-widget elementor-widget-button\" data-id=\"d52f313\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://gsbor.com/mls/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Learn More</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8fa53a4\" data-id=\"8fa53a4\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-f0626d5 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default\" data-id=\"f0626d5\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7cdbf40\" data-id=\"7cdbf40\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-8351321 elementor-widget elementor-widget-image\" data-id=\"8351321\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"113\" height=\"114\" src=\"https://gsbor.com/wp-content/uploads/2020/02/archives.svg\" class=\"attachment-full size-full wp-image-8904\" alt=\"\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-4e25916 blue-line elementor-widget elementor-widget-heading\" data-id=\"4e25916\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Archives</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-551c073 elementor-widget elementor-widget-text-editor\" data-id=\"551c073\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p class=\"p1\">Looking for old photos, documents or blueprints? Check our archives.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-40fae21 elementor-mobile-align-justify elementor-align-justify elementor-absolute elementor-widget elementor-widget-button\" data-id=\"40fae21\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-size-sm\" role=\"button\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Coming Soon</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-47454f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"47454f8\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22ebb30\" data-id=\"22ebb30\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-4a29b6f elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"4a29b6f\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f350953\" data-id=\"f350953\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4fcc4be elementor-widget elementor-widget-spacer\" data-id=\"4fcc4be\" data-element_type=\"widget\" data-widget_type=\"spacer.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-73d35d2 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"73d35d2\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2f0597e\" data-id=\"2f0597e\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4de0fc2 elementor-widget elementor-widget-spacer\" data-id=\"4de0fc2\" data-element_type=\"widget\" data-widget_type=\"spacer.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-3488840 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"3488840\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"></div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-26802ed\" data-id=\"26802ed\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-5c66be9 elementor-widget elementor-widget-heading animated fadeIn\" data-id=\"5c66be9\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeIn&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Want to Learn More About GSBOR?</h1>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-63e31a3 elementor-widget elementor-widget-text-editor animated fadeIn\" data-id=\"63e31a3\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeIn&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Don’t hesitate to email, call or fill out a contact form. One of our friendly staff members would be happy to help you.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-94256f5 elementor-mobile-align-justify elementor-widget elementor-widget-button animated fadeInUp\" data-id=\"94256f5\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeInUp&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://gsbor.com/contact-us/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Contact Us</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a51a68a\" data-id=\"a51a68a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t</div>\n\t\t\n\t</div>"
+  },
+  "images": [
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/GSBOR-Horz_Full-Color-3.png",
+      "alt": "",
+      "width": 250,
+      "height": 89
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2022/01/GSBOR-Logo.jpg",
+      "alt": "",
+      "width": 1543,
+      "height": 623
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/board-of-directors.svg",
+      "alt": "",
+      "width": 113,
+      "height": 114
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/leadership-academy-icon.svg",
+      "alt": "",
+      "width": 113,
+      "height": 114
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/committees-icon.svg",
+      "alt": "",
+      "width": 113,
+      "height": 114
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/awards-icon.svg",
+      "alt": "",
+      "width": 113,
+      "height": 114
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/governing-docs-icon.svg",
+      "alt": "",
+      "width": 113,
+      "height": 114
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/archives.svg",
+      "alt": "",
+      "width": 113,
+      "height": 114
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/gsbor-landmark-color.svg",
+      "alt": "",
+      "width": 48,
+      "height": 46
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/nar-logo.svg",
+      "alt": "",
+      "width": 48,
+      "height": 13
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/realtor-party.svg",
+      "alt": "",
+      "width": 48,
+      "height": 20
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2022/01/GSBOR-Logo.jpg",
+      "alt": "",
+      "width": 1543,
+      "height": 623
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/nar-logo.svg",
+      "alt": "",
+      "width": 95,
+      "height": 26
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/realtor-party.svg",
+      "alt": "",
+      "width": 64,
+      "height": 26
+    },
+    {
+      "type": "background",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/dotted-pattern.svg",
+      "element": "section",
+      "cssProperty": "background-image",
+      "width": 979,
+      "height": 41
+    },
+    {
+      "type": "background",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/dotted-pattern.svg",
+      "element": "section",
+      "cssProperty": "background-image",
+      "width": 1920,
+      "height": 47
+    },
+    {
+      "type": "background",
+      "src": "https://gsbor.com/wp-content/uploads/2020/02/GSBOR_LOGO_EXTENDED_2560x523_00000.svg",
+      "element": "div",
+      "cssProperty": "background-image",
+      "width": 1920,
+      "height": 425
+    }
+  ],
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "https://gsbor.com/about-gsbor/#content",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Directory",
+      "href": "https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Member Portal",
+      "href": "http://gsborportal.ramcoams.net/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "GSBOR Dashboard",
+      "href": "http://dash.gsbor.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Facebook",
+      "href": "https://www.facebook.com/gsbor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCU8c1r6BK9gwc6bmSv_lDNQ",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Instagram",
+      "href": "https://www.instagram.com/gsbornews/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/gsbornews",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "NEW MEMBERS",
+      "href": "https://gsbor.com/new-members/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/new-members/become-a-member/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/new-members/benefits-of-membership/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/forms/#member-forms",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/new-members/dues-calculator/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/member-faq/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/supra/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "http://support.gsbor.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/forms/#member-forms",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/political-advocacy/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/r-care-fund/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/mls-nxt-tech-suite/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "EDUCATION",
+      "href": "https://gsbor.com/edu/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/education/realtor-education/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/education/realtor-education/courses/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/education/realtor-safety-information/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://live-gsbor.pantheonsite.io/events-calendar/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/market-statistics/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/buyers-and-sellers/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "ABOUT GSBOR",
+      "href": "https://gsbor.com/about-gsbor/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/about-gsbor/meet-our-board/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/about-gsbor/leadership-academy/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/about-gsbor/awards/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/about-gsbor/staff/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/find-an-affiliate/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "QUICK LINKS",
+      "href": "https://gsbor.com/about-gsbor/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.techhelpline.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://help.flexmls.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://somo.flexmls.com/ticket",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://fbs.statuspage.io/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.supraekey.com/CustomerSupport/Pages/CustomerSupport.aspx",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://supraweb.suprakim.com/KimWeb/Showing.mvc/Showing",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.brokerbay.com/mls/gsbor-brokerbay",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "http://support.gsbor.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://pr.mo.gov/realestate-licensee-search.asp",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.theceshop.com/online-education/missouri/real-estate/broker-and-sales-license/continuing-education/courses.html",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://realestatelearninglibrary.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/code-of-ethics-training",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.missourirealtor.org/home",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.missourirealtor.org/risk-management/forms-index",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.missourirealtor.org/advocacy",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://thelanding.missourirealtor.org/home",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.missourirealtor.org/risk-management/professional-standards",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.techhelpline.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.nar.realtor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.nar.realtor/political-advocacy",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://thehub.realtor/home",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.narrpr.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.wcr.org/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Member Portal",
+      "href": "http://gsborportal.ramcoams.net/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "GSBOR Dashboard",
+      "href": "http://dash.gsbor.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Learn More",
+      "href": "https://gsbor.com/the-bottom-line/coronavirus-updates/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/about-gsbor/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk4NzkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "LEARN MORE",
+      "href": "https://gsbor.com/about-gsbor/meet-our-board/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "LEARN MORE",
+      "href": "https://gsbor.com/about-gsbor/leadership-academy/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "LEARN MORE",
+      "href": "https://gsbor.com/about-gsbor/committees/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "LEARN MORE",
+      "href": "https://gsbor.com/about-gsbor/awards/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "LEARN MORE",
+      "href": "https://gsbor.com/mls/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "CONTACT US",
+      "href": "https://gsbor.com/contact-us/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Facebook",
+      "href": "https://www.facebook.com/gsbor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCU8c1r6BK9gwc6bmSv_lDNQ",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Instagram",
+      "href": "https://www.instagram.com/gsbornews/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/gsbornews",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Become A Member",
+      "href": "https://gsbor.com/new-members/become-a-member/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Benefits Of Membership",
+      "href": "https://gsbor.com/new-members/benefits-of-membership/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Forms",
+      "href": "https://gsbor.com/forms/#member-forms",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Dues Calculator",
+      "href": "https://gsbor.com/new-members/dues-calculator/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Member FAQ",
+      "href": "https://gsbor.com/member-faq/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Supra®",
+      "href": "https://gsbor.com/supra/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "GSBOR Help Hub",
+      "href": "http://support.gsbor.com/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Forms",
+      "href": "https://gsbor.com/forms/#member-forms",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Political Advocacy",
+      "href": "https://gsbor.com/political-advocacy/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "R Care Fund",
+      "href": "https://gsbor.com/r-care-fund/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "REALTOR® Education",
+      "href": "https://gsbor.com/education/realtor-education/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "REALTOR® Safety Information",
+      "href": "https://gsbor.com/education/realtor-safety-information/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Events Calendar",
+      "href": "https://gsbor.com/events-calendar/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Market Statistics",
+      "href": "https://gsbor.com/market-statistics/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Homeowners / Buyers & Sellers",
+      "href": "https://gsbor.com/education/realtor-safety-information/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Board of Directors",
+      "href": "https://gsbor.com/about-gsbor/meet-our-board/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Committees",
+      "href": "https://gsbor.com/education/realtor-safety-information/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Leadership Academy",
+      "href": "https://gsbor.com/about-gsbor/committees/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Staff",
+      "href": "https://gsbor.com/about-gsbor/staff/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Past Leadership",
+      "href": "https://gsbor.com/about-gsbor/awards/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Realtor Directory",
+      "href": "https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Affiliate Directory",
+      "href": "https://gsbor.com/find-an-affiliate/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Web Accessibility",
+      "href": "https://gsbor.com/web-accessibility/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.nar.realtor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://realtorparty.realtor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "tel:(417) 883-1226",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.google.com/maps/place/Greater+Springfield+Board+of+REALTORS/@37.1478114,-93.2746075,19.22z/data=!4m5!3m4!1s0x87cf64bf23c9eec7:0xbe06e9b1ae22b391!8m2!3d37.1474574!4d-93.2744227",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "PHONECreated with Sketch.\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t(417) 883-1226",
+      "href": "tel:4178831226",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "EMAILCreated with Sketch.\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tsupport@gsbor.com",
+      "href": "mailto:support@gsbor.com",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "ADDRESSCreated with Sketch.\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t1310 E Primrose St. Springfield, MO 65804",
+      "href": "https://www.google.com/maps/place/Greater+Springfield+Board+of+REALTORS/@37.1478114,-93.2746075,19.22z/data=!4m5!3m4!1s0x87cf64bf23c9eec7:0xbe06e9b1ae22b391!8m2!3d37.1474574!4d-93.2744227",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Facebook",
+      "href": "https://www.facebook.com/gsbor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCkmSSQsG9aoDLMvYRmdTa4g",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Instagram",
+      "href": "https://www.instagram.com/gsbornews/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/gsbornews",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://www.nar.realtor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://realtorparty.realtor/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Sign up today",
+      "href": "sms:30644?&body=REALTORS",
+      "isExternal": true,
+      "isNavigation": false
+    }
+  ],
+  "url": "https://gsbor.com/about-gsbor/",
+  "extractedAt": "2025-05-30T21:15:58.885Z"
+}

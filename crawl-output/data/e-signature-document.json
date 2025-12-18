@@ -1,0 +1,115 @@
+{
+  "title": "WP E-Signature by Approve Me - Sign Documents Using WordPress -",
+  "metaDescription": "",
+  "h1": "",
+  "contentTree": {
+    "type": "div",
+    "content": "I agree to be legally bound by this agreement and eSignature Terms of Use.\n\n            \n\n\n\n            \n\n                                    Print Document\n                Save As PDF\n\n                \n                    Agree & Sign\n                undefined",
+    "children": [
+      {
+        "type": "p",
+        "content": "Well this is embarrassing, but we can't seem to locate the document you're looking to sign online.\nYou may want to send an email to the website owner.\nThank you for using Wordpress Digital E-Signature By Approve Me",
+        "html": "<p align=\"center\" class=\"esig-not-found-page-template\">Well this is embarrassing, but we can't seem to locate the document you're looking to sign online.<br>You may want to send an email to the website owner. <br>Thank you for using Wordpress Digital E-Signature By <a href=\"https://www.approveme.com/wp-e-signature/?e-signature-document\" rel=\"nofollow\" title=\"Document Signing using WP E-ESignature by Approve Me\">Approve Me</a></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Well this is embarrassing, but we can't seem to locate the document you're looking to sign online.\nYou may want to send an email to the website owner.\nThank you for using Wordpress Digital E-Signature By Approve Me"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Get WP E-Signature!",
+        "html": "<p align=\"center\"><img src=\"https://gsbor.com/wp-content/plugins/e-signature/assets/images/search.svg\" alt=\"esignature by Approve Me\" class=\"esig-not-found-search\"><br><a class=\"esig-not-found-btn\" href=\"https://www.approveme.com/wp-e-signature/?e-signature-document\" rel=\"nofollow\">Get WP E-Signature!</a></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Get WP E-Signature!"
+          }
+        ]
+      }
+    ],
+    "html": "<div id=\"esig-footer\" class=\"container footer-agree\" style=\"display: none;\">\n\n        <div class=\"esig-container\">\n\n\n            <div class=\"navbar-header agree-container\">\n\n                <span id=\"esig-iam\"> </span><span class=\"agree-text\">I agree to be legally bound by this agreement and eSignature <a href=\"#\" data-toggle=\"modal\" data-target=\".esig-terms-modal-lg\" id=\"esig-terms\" class=\"doc-terms\" rel=\"nofollow\">Terms of Use.</a></span>\n\n            </div>\n\n\n\n            <div class=\"navbar-right footer-btn\">\n\n                                    <a href=\"javascript:window.print()\" class=\"agree-button\" id=\"esig-print-button\" title=\"\">Print Document</a>\n                <a href=\"https://gsbor.com/e-signature-document/?esigtodo=esigpdf\" class=\"agree-button esig-pdf-button\" id=\"esig-pdf-download\">Save As PDF</a>\n\n                <span id=\"esign_click_submit\" data-tooltip=\"0\">\n                    <a href=\"#\" class=\"agree-button disabled\" id=\"esig-agree-button\" title=\"Agree and submit your signature.\"><span id=\"esig-agreed\">Agree &amp; Sign</span></a>\n                <div class=\"sig-tooltip\" data-tooltip=\"0\" style=\"top: -1px; right: 0px; text-align: left;\">undefined<div class=\"arrow\"></div></div></span>\n\n\n\n            </div>\n\n        </div>\n\n    </div>"
+  },
+  "images": [
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/verified-approveme.svg",
+      "alt": "Verified by Approveme",
+      "width": 140,
+      "height": 54
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/logo.png",
+      "alt": "Sign Documents Online using WordPress E-Signature by Approve Me",
+      "width": 243,
+      "height": 55
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/search.svg",
+      "alt": "esignature by Approve Me",
+      "width": 245,
+      "height": 245
+    }
+  ],
+  "links": [
+    {
+      "text": "Greater Springfield Board of Realtors",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": true
+    },
+    {
+      "text": "",
+      "href": "https://www.approveme.com/security-ueta-e-sign-protection/",
+      "isExternal": true,
+      "isNavigation": true
+    },
+    {
+      "text": "",
+      "href": "https://www.approveme.com/wp-e-signature/?e-signature-document",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Approve Me",
+      "href": "https://www.approveme.com/wp-e-signature/?e-signature-document",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Get WP E-Signature!",
+      "href": "https://www.approveme.com/wp-e-signature/?e-signature-document",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Terms of Use.",
+      "href": "https://gsbor.com/e-signature-document/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Print Document",
+      "href": "javascript:window.print()",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Save As PDF",
+      "href": "https://gsbor.com/e-signature-document/?esigtodo=esigpdf",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Agree & Sign",
+      "href": "https://gsbor.com/e-signature-document/#",
+      "isExternal": false,
+      "isNavigation": false
+    }
+  ],
+  "url": "https://gsbor.com/e-signature-document/",
+  "extractedAt": "2025-05-30T21:12:15.680Z"
+}

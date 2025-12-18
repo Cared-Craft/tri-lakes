@@ -1,0 +1,565 @@
+{
+  "title": "WP E-Signature by Approve Me - Sign Documents Using WordPress -",
+  "metaDescription": "",
+  "h1": "Loading ........",
+  "contentTree": {
+    "type": "div",
+    "content": "Please Confirm full name and signature.\n                                    \n                                    \n                                        \n                                            \n                                                \n                                            \n                                        \n                                    \n                                    Change fonts\n                                    \n                                \n                                \n                                    \n                                        Draw Signature \n                                    \n                                    \n                                        Type In Signature\n                                    \n                                \n                             \n\n\n                            \n\n\n                            \n\n                        \n                                \n                                    \n                                        Draw your signature with your mouse, tablet or smartphone                                    \n                                    Clear\n                                    \n                                    \n                                    \n                                        I agree that I am  and I agree this is a legal representation of my signature for all purposes \n\t\t\t\t\t\tjust the same as a pen-and-paper signature                                    \n                                    Insert Signature\n                                \n                            \n                                \n                                    \n                                    \n                                        \n\n                                                                                    \n                                        \n                                            \n                                                \n                                                    \n                                                        I agree that I am  and                                                        \n                                                             I understand this is a legal representation of my signature                                                        \n                                                    \n                                                \n                                                \n                                                    \n                                                        Adopt & Sign",
+    "children": [
+      {
+        "type": "p",
+        "content": "Designated Broker Application",
+        "html": "<p align=\"left\" class=\"doc_title\" id=\"doc_title1\"> Designated Broker Application</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Designated Broker Application"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Print PDF Version",
+        "html": "<p style=\"text-align: right;\"><a href=\"https://gsbor.com/wp-content/uploads/2020/12/2021-GSBOR-Application.pdf\" target=\"_blank\" rel=\"noopener\">Print PDF Version</a></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Print PDF Version"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Application must be accompanied by a check in the amount of five hundred dollars ($500), made payable to Multilist Service of Springfield REALTORS®, Inc., for the application fee. If for any reason your application is denied your application fee will be refunded.",
+        "html": "<p><em><span style=\"font-weight: 400;\">Application must be accompanied by a check in the amount of five hundred dollars ($500), made payable to Multilist Service of Springfield REALTORS®, Inc., for the application fee. If for any reason your application is denied your application fee will be refunded.</span></em></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Application must be accompanied by a check in the amount of five hundred dollars ($500), made payable to Multilist Service of Springfield REALTORS®, Inc., for the application fee. If for any reason your application is denied your application fee will be refunded."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office Information",
+        "html": "<p style=\"text-align: center;\"><strong>Office Information</strong></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office Information"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office Name:",
+        "html": "<p>Office Name:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office Name:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office Address:",
+        "html": "<p>Office Address:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office Address:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office Phone:",
+        "html": "<p>Office Phone:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office Phone:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office Fax:",
+        "html": "<p>Office Fax:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office Fax:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office NRDS#:",
+        "html": "<p>Office NRDS#:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office NRDS#:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Office License #:",
+        "html": "<p>Office License #:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Office License #:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Primary Board of REALTORS®:",
+        "html": "<p>Primary Board of REALTORS®:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Primary Board of REALTORS®:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Personal Information",
+        "html": "<p class=\"column\" style=\"text-align: center;\"><strong>Personal Information</strong></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Personal Information"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Name (As it appears on license):",
+        "html": "<p>Name (As it appears on license):</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Name (As it appears on license):"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Date of Birth:",
+        "html": "<p>Date of Birth:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Date of Birth:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Full Address:",
+        "html": "<p>Full Address:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Full Address:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Cell Phone:",
+        "html": "<p>Cell Phone:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Cell Phone:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Home Phone:",
+        "html": "<p>Home Phone:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Home Phone:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "E-Mail Address:",
+        "html": "<p>E-Mail Address:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "E-Mail Address:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Are you fluent in any language other than English?",
+        "html": "<p><span> Are you fluent in any language other than English? </span></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Are you fluent in any language other than English?"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Individual License/Work Permit #:",
+        "html": "<p>Individual License/Work Permit #:</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Individual License/Work Permit #:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "I hereby agree as a condition of participation in the Multilist Service of Springfield REALTORS®, Inc., to abide by the Bylaws, Rules and Regulations of the Service, and other obligations of participation including payment of fees. I further agree to be bound by the NATIONAL ASSOCIATION OF REALTORS® Code of Ethics including the obligation to submit to ethics hearings and the duty to arbitrate contractual disputes with other REALTORS® in accordance with the established procedures of the Board/Association. I understand that a violation of  the Code of Ethics may result in termination of my MLS privileges and that I may be assessed an administrative processing fee of up to two hundred fifty ($250), which may be in addition to any discipline, including fines, that may be imposed.",
+        "html": "<p><span style=\"font-weight: 400;\">I hereby agree as a condition of participation in the Multilist Service of Springfield REALTORS®, Inc., to abide by the Bylaws, Rules and Regulations of the Service, and other obligations of participation including payment of fees. I further agree to be bound by the NATIONAL ASSOCIATION OF REALTORS® Code of Ethics including the obligation to submit to ethics hearings and the duty to arbitrate contractual disputes with other REALTORS® in accordance with the established procedures of the Board/Association. I understand that a violation of&nbsp; the Code of Ethics may result in termination of my MLS privileges and that I may be assessed an administrative processing fee of up to two hundred fifty ($250), which may be in addition to any discipline, including fines, that may be imposed.</span></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "I hereby agree as a condition of participation in the Multilist Service of Springfield REALTORS®, Inc., to abide by the Bylaws, Rules and Regulations of the Service, and other obligations of participation including payment of fees. I further agree to be bound by the NATIONAL ASSOCIATION OF REALTORS® Code of Ethics including the obligation to submit to ethics hearings and the duty to arbitrate contractual disputes with other REALTORS® in accordance with the established procedures of the Board/Association. I understand that a violation of  the Code of Ethics may result in termination of my MLS privileges and that I may be assessed an administrative processing fee of up to two hundred fifty ($250), which may be in addition to any discipline, including fines, that may be imposed."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "I irrevocably waive all claims against the Multilist Service or any of its officers, directors, staff, or members for any act in connection with business of the Multilist Service and particularly as to it’s or their acts in electing or failure to elect, advancing, suspending, expelling, or otherwise disciplining me as an applicant or as a member.",
+        "html": "<p><span style=\"font-weight: 400;\">I irrevocably waive all claims against the Multilist Service or any of its officers, directors, staff, or members for any act in connection with business of the Multilist Service and particularly as to it’s or their acts in electing or failure to elect, advancing, suspending, expelling, or otherwise disciplining me as an applicant or as a member.</span></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "I irrevocably waive all claims against the Multilist Service or any of its officers, directors, staff, or members for any act in connection with business of the Multilist Service and particularly as to it’s or their acts in electing or failure to elect, advancing, suspending, expelling, or otherwise disciplining me as an applicant or as a member."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "NOTE: Application Fees and Dues are Non-Refundable and Non-Transferrable. Application must be received within 30 days of License Issue Date",
+        "html": "<p><em>NOTE: Application Fees and Dues are Non-Refundable and Non-Transferrable. Application must be received within 30 days of License Issue Date</em></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "NOTE: Application Fees and Dues are Non-Refundable and Non-Transferrable. Application must be received within 30 days of License Issue Date"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Leave this empty:",
+        "html": "<p class=\"esig-anti-spam\">Leave this empty: <input type=\"hidden\" autocomplete=\"off\" name=\"esig_sp_url\"></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Leave this empty:"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Your legal name",
+        "html": "<p>\n                                <label for=\"legalname\" class=\"esig-visuallyhidden\"> Your legal name </label><input type=\"esiglegalname\" required=\"\" class=\"form-control esig-no-form-integration\" id=\"recipient_first_name\" name=\"recipient_first_name\" value=\"\" placeholder=\"Your legal name\" aria-required=\"true\">\n            </p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Your legal name"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Your email address",
+        "html": "<p>\n\t\t\t\t<label for=\"email\" class=\"esig-visuallyhidden\">Your email address</label><input required=\"\" type=\"email\" class=\"form-control\" placeholder=\"Your email address\" id=\"esig-sad-email\" name=\"esig-sad-email\" value=\"\" aria-required=\"true\">\n\t\t\t</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Your email address"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Click on \"Agree & Sign\" to legally sign this document and agree to the WP E-Signature Terms of Use.\n        If you have questions about the contents of this document, you can email the   document owner.",
+        "html": "<p>\n        Click on \"Agree &amp; Sign\" to legally sign this document and agree to the WP E-Signature <a href=\"#\" data-toggle=\"modal\" data-target=\".esig-terms-modal-lg\" id=\"esig-terms\" class=\"doc-terms\">Terms of Use</a>.\n        If you have questions about the contents of this document, you can email the <span class=\"hint--bottom  hint--rounded hint--bounce\" data-hint=\"membership@dev-gsbor.pantheonsite.io\"> <a href=\"mailto:membership@dev-gsbor.pantheonsite.io\"> document owner.</a>\n    </span></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Click on \"Agree & Sign\" to legally sign this document and agree to the WP E-Signature Terms of Use.\n        If you have questions about the contents of this document, you can email the   document owner."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Document Name: Designated Broker Application",
+        "html": "<p align=\"center\" class=\"doc_title\" id=\"doc_title\"> Document Name: Designated Broker Application</p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Document Name: Designated Broker Application"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Click on \"Agree & Sign\" to legally sign this document and agree to the WP E-Signature Terms of Use.",
+        "html": "<p>\n                Click on \"Agree &amp; Sign\" to legally sign this document and agree to the WP E-Signature <a href=\"https://www.approveme.com/terms-of-use/\" target=\"_blank\" class=\"doc-terms\">Terms of Use</a>.\n            </p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Click on \"Agree & Sign\" to legally sign this document and agree to the WP E-Signature Terms of Use."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Agree & Sign",
+        "html": "<p align=\"center\" id=\"esign_click_mobile_submit rtl-submit\">\n                <a href=\"#\" class=\"agree-button\" title=\"Agree and submit your signature.\">Agree &amp; Sign</a>\n            </p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Agree & Sign"
+          }
+        ]
+      },
+      {
+        "type": "h4",
+        "content": "Terms of Use",
+        "html": "<h4 class=\"modal-title\" id=\"myModalLabel\">Terms of Use</h4>",
+        "children": []
+      },
+      {
+        "type": "h1",
+        "content": "Loading ........",
+        "html": "<h1>Loading ........</h1>",
+        "children": []
+      },
+      {
+        "type": "p",
+        "content": "Click on \"Agree & Sign\" to legally sign this document and agree to the WP E-Signature Terms of Use. If you have questions about the contents of this document, you can email the document owner.",
+        "html": "<p>\n        Click on \"Agree &amp; Sign\" to legally sign this document and agree to the WP E-Signature <a href=\"#\" data-toggle=\"modal\" data-target=\".esig-terms-modal-lg\" id=\"esig-terms\" class=\"doc-terms\">Terms of Use</a>.\n        If you have questions about the contents of this document, you can email the <span class=\"hint--bottom  hint--rounded hint--bounce\" data-hint=\"membership@dev-gsbor.pantheonsite.io\"> <a href=\"mailto:membership@dev-gsbor.pantheonsite.io\"> document owner.</a>\n    </span></p>",
+        "children": [
+          {
+            "type": "text",
+            "content": "Click on \"Agree & Sign\" to legally sign this document and agree to the WP E-Signature Terms of Use. If you have questions about the contents of this document, you can email the document owner."
+          }
+        ]
+      }
+    ],
+    "html": "<div id=\"signer-signature\" style=\"display:none\">\n                        <div id=\"tabs\" class=\"stMain\">\n                            <div class=\"signature-tab\">\n                                <article id=\"adopt\">\n                                    <header class=\"ds-title p\">\n                                        <label for=\"full-name\">Please Confirm full name and signature.</label>\n                                    </header>\n                                    <div class=\"full-name\">\n                                        <div class=\"wrapper\">\n                                            <div class=\"text-input-wrapper\">\n                                                <input id=\"esignature-in-text\" value=\"\" name=\"esignature_in_text\" class=\"esignature-in-text\" maxlength=\"64\" type=\"text\">\n                                            </div>\n                                        </div>\n                                    </div>\n                                    <a href=\"#\" id=\"esig-type-in-change-fonts\" style=\"display:none\">Change fonts</a>\n                                    <div class=\"clear-float\"></div>\n                                </article>\n                                <ul class=\"tabAnchor\">\n                                    <li>\n                                        <a href=\"#tabs-1\" id=\"esig-tab-draw\" class=\"selected sel\">Draw Signature <br></a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#tabs-2\" id=\"esig-tab-type\" class=\"\">Type In Signature<br></a>\n                                    </li>\n                                </ul>\n                            </div> <!-- type signature end here -->\n\n\n                            \n\n\n                            \n\n                        <div class=\"stContainer\" style=\"height: 0px;\"><div id=\"tabs-1\" class=\"tabContent\" style=\"top: 0px;\">\n                                <div class=\"signature-wrapper\">\n                                    <span class=\"instructions\">\n                                        Draw your signature with <strong>your mouse, tablet or smartphone</strong>                                    </span>\n                                    <a href=\"#clear\" id=\"clearSignaturePad\" class=\"clearButton\" style=\"margin-bottom:25px;\">Clear</a>\n                                    <canvas id=\"signatureCanvas\" aria-label=\"Sign here\" class=\"sign-here pad \" width=\"410\" height=\"85\" style=\"touch-action: none;\"></canvas>\n                                    <input type=\"hidden\" name=\"output\" class=\"output\" value=\"\">\n                                    <div class=\"description\">\n                                        I agree that I am <span id=\"esig-iam-draw\"></span> and I agree this is a legal representation of my signature for all purposes \n\t\t\t\t\t\tjust the same as a pen-and-paper signature                                    </div>\n                                    <button class=\"button saveButton\" data-nonce=\"a9be14a701\">Insert Signature</button>\n                                </div>\n                            </div><div id=\"tabs-2\" class=\"tabContent\" style=\"display: none;\">\n                                <div>\n                                    <!-- type esignature start here -->\n                                    <div id=\"type-in-signature\">\n                                        <div id=\"esig-type-in-preview\" class=\"pad esig-signature-type-font1\" width=\"450px\" height=\"100px\">\n\n                                                                                    </div>\n                                        <div id=\"esig-type-in-controls\">\n                                            <div>\n                                                <div id=\"type-in-text-accept-signature-statement\">\n                                                    <label for=\"type-in-text-accept-signature\">\n                                                        I agree that I am <span id=\"esig-iam-type\"></span> and                                                        <span class=\"signature\">\n                                                             I understand this is a legal representation of my signature                                                        </span>\n                                                    </label>\n                                                </div>\n                                                <div>\n                                                    <a id=\"esig-type-in-text-accept-signature\" class=\"blue-sub alt button-appme button\" href=\"#\">\n                                                        <span class=\"esig-signature-type-add\">Adopt &amp; Sign</span>\n                                                    </a>\n                                                </div>\n                                            </div>\n                                        </div>\n                                        <div class=\"clearfix error\"></div>\n\n                                    </div>\n\n                                </div>\n\n                            </div></div></div>\n                        <!-- -->\n                    </div>"
+  },
+  "images": [
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/verified-approveme.svg",
+      "alt": "Verified by Approveme",
+      "width": 140,
+      "height": 54
+    },
+    {
+      "type": "img",
+      "src": "https://live-gsbor.pantheonsite.io/wp-content/uploads/2020/02/GSBOR-Logo.svg",
+      "alt": "Greater Springfield Board of Realtors",
+      "width": 200,
+      "height": 48
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/sign-arrow.svg",
+      "alt": "Signature arrow sign here",
+      "width": 80,
+      "height": 70
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/lock.png",
+      "alt": "lock icon",
+      "width": 22,
+      "height": 28
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/legally-signed.svg",
+      "alt": "Legally signed using wp e-signature",
+      "width": 300,
+      "height": 73
+    },
+    {
+      "type": "img",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAACEAQMAAABrihHkAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAR9JREFUSImllusRwzAIg9lA+2/JBlQScfo7sttr4i93hIfArZnpnuou8MpNZaRLO/6CV21SMr5Bwa/oG4Iiopt1SZpWQXBFFJwDBOqN/Ttx5s/61+Iz0cK6V7vLiKJUvAMXUfcRsQiYdjhns1EHRDlXjIxZhh17RGgQKuKqMybeEs9Y6k5gQuifc8YvVX5BmC70K9OYqFFocNxz2oVEklawajmHGxI72DIqYflRSGhSCvAsQUzsVK8o9KRS0qur7TUnLyJS4ni+SqKn4RKilDNcMb8lJfRO8UEK3VMgIWOX3HZbxJBo0TZ8rJ0uDIgnLdz7sKBC4pMRrxhyovPQE/KZuTfkjBRgbsgzPVRDxGT/LIwTj56UKPP++OhQSSPyA+aW0YVtjCnpAAAAAElFTkSuQmCC",
+      "alt": " Audit trial Qr code ",
+      "width": 132,
+      "height": 132
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/lock.png",
+      "alt": "",
+      "width": 22,
+      "height": 28
+    },
+    {
+      "type": "img",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/approveme-whitelogo.svg",
+      "alt": "",
+      "width": 120,
+      "height": 80
+    },
+    {
+      "type": "background",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/sign-here_small.jpg",
+      "element": "div",
+      "cssProperty": "background-image",
+      "width": 320,
+      "height": 115
+    },
+    {
+      "type": "background",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/sign-here_blank.jpg",
+      "element": "canvas",
+      "cssProperty": "background-image",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "type": "background",
+      "src": "https://gsbor.com/wp-content/plugins/e-signature/assets/images/pen_bullet.svg",
+      "element": "div",
+      "cssProperty": "background-image",
+      "width": 300,
+      "height": 50
+    }
+  ],
+  "links": [
+    {
+      "text": "Greater Springfield Board of Realtors",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": true
+    },
+    {
+      "text": "",
+      "href": "https://www.approveme.com/security-ueta-e-sign-protection/",
+      "isExternal": true,
+      "isNavigation": true
+    },
+    {
+      "text": "",
+      "href": "https://gsbor.com/",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Print PDF Version",
+      "href": "https://gsbor.com/wp-content/uploads/2020/12/2021-GSBOR-Application.pdf",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Change fonts",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Draw Signature",
+      "href": "https://gsbor.com/designated-broker-application-form/#tabs-1",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Type In Signature",
+      "href": "https://gsbor.com/designated-broker-application-form/#tabs-2",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Clear",
+      "href": "https://gsbor.com/designated-broker-application-form/#clear",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Adopt & Sign",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "",
+      "href": "https://aprv.me/audit-trail",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "https://live-gsbor.pantheonsite.io/",
+      "href": "https://live-gsbor.pantheonsite.io/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Terms of Use",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "document owner.",
+      "href": "mailto:membership@dev-gsbor.pantheonsite.io",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Terms of Use",
+      "href": "https://www.approveme.com/terms-of-use/",
+      "isExternal": true,
+      "isNavigation": false
+    },
+    {
+      "text": "Agree & Sign",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Terms of Use.",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Agree & Sign",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "Terms of Use",
+      "href": "https://gsbor.com/designated-broker-application-form/#",
+      "isExternal": false,
+      "isNavigation": false
+    },
+    {
+      "text": "document owner.",
+      "href": "mailto:membership@dev-gsbor.pantheonsite.io",
+      "isExternal": true,
+      "isNavigation": false
+    }
+  ],
+  "url": "https://gsbor.com/designated-broker-application-form/",
+  "extractedAt": "2025-05-30T21:11:45.296Z"
+}

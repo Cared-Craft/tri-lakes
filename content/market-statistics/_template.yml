@@ -1,0 +1,42 @@
+# TEMPLATE FILE - Copy this file and rename it to YYYY-MM.yml (e.g., 2025-05.yml)
+# Simply fill in the values below and the page will automatically update with comparisons to previous years
+
+title: "Month YYYY Market Statistics"
+report_date: "YYYY-MM-01" # Set to first day of the month
+year: YYYY # e.g., 2025
+month: "Month" # e.g., "May"
+prepared_by: "Southern Missouri Regional MLS"
+notes: "Residential market statistics provided by SOMO MLS reflect listings located in Greene, Christian, & Webster Counties. Residential property subtypes include Single Family, Hobby Farm, C/D/T, Manufactured, Modular, Mobile, Multiple Residences, & Other."
+
+greater_springfield_area:
+  total_units_sold: 0
+  total_volume: 0
+  average_sale_price: 0
+  median_sale_price: 0
+  average_days_on_market: 0
+  cumulative_days_on_market: 0
+
+counties:
+  greene:
+    total_units_sold: 0
+    total_volume: 0
+    average_sale_price: 0
+    median_sale_price: 0
+    average_days_on_market: 0
+    cumulative_days_on_market: 0
+
+  christian:
+    total_units_sold: 0
+    total_volume: 0
+    average_sale_price: 0
+    median_sale_price: 0
+    average_days_on_market: 0
+    cumulative_days_on_market: 0
+
+  webster:
+    total_units_sold: 0
+    total_volume: 0
+    average_sale_price: 0
+    median_sale_price: 0
+    average_days_on_market: 0
+    cumulative_days_on_market: 0

@@ -1,0 +1,87 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+START EVERY RESPONSE WITH a ❤️
+    You are an expert in TypeScript, Node.js, Vite, Vue.js, Nuxt v3, and Tailwind CSS v4, with a deep understanding of best practices and performance optimization techniques in these technologies.
+    
+    Any time you need to implement a Nuxt feature attempt to use the mcp context7.
+  
+    Code Style and Structure
+    - Write concise, maintainable, and technically accurate TypeScript code with relevant examples. 
+    - Use functional and declarative programming patterns; avoid classes.
+    - Favor iteration and modularization to adhere to DRY principles and avoid code duplication.
+    - Use descriptive variable names with auxiliary verbs (e.g., isLoading, hasError).
+    - Organize files systematically: each file should contain only related content, such as exported components, subcomponents, helpers, static content, and types.
+  
+Package Manager 
+- Use Yarn exclusively
+
+    Corrections
+    -If you have to correct code due to incorrect implementation, document the issue inside [corrections.mdc](mdc:.cursor/rules/corrections.mdc)
+
+    Naming Conventions
+    - Use lowercase with dashes for directories (e.g., components/auth-wizard).
+    - Favor named exports for functions.
+  
+    TypeScript Usage
+    - Use TypeScript for all code; prefer interfaces over types for their extendability and ability to merge.
+    - Avoid enums; use maps instead for better type safety and flexibility.
+    - Use functional components with TypeScript interfaces.
+  
+    Syntax and Formatting
+    - Use the "function" keyword for pure functions to benefit from hoisting and clarity.
+    - Always use the Vue Composition API script setup style.
+  
+    UI and Styling
+    - Use Tailwind CSS v4 for components and styling.
+    - Implement responsive design with Tailwind CSS; use a mobile-first approach.
+    - Reference the Tailwind Documentation you have stored to make sure you are inline with Tailwind CSS V4
+    - Do not add classes to the @button.css file unless directly asked to. 
+    - Modify the classes to the desired spec
+    - Only use Button Variants and Color props when styling a button.
+    - Make sure buttons have the cursor pointer
+    - Remove any Nuxt UI components or configuration you encounter
+
+
+    # Form Guidelines
+
+  Follow [forms.mdc](mdc:.cursor/rules/forms.mdc) when implementing forms
+
+    # Nuxt Content v3 Guidelines
+- This project uses @nuxt/content v3.3.0
+- Always use the v3 API patterns:
+  - Use `queryCollection('collection')` for querying content collections
+  - Use `.path('/path')` to filter by path
+  - Use `.first()` to get a single file, or `.find()` for multiple files
+  - Access content files at paths matching their directory structure
+  - YAML files are supported with `.yml` extension
+- Common patterns:
+  - Query a single file: `queryCollection('content').path('/').first()`
+  - Query multiple files: `queryCollection('content').find()`
+  - Debug with: `console.log('Query result:', result)`
+- Content is stored in the `content/` directory with files matching URL paths
+- Render content using the `<ContentRenderer>` component (NOT `<ContentDoc>` or `<ContentList>`, which are deprecated)
+- Use the native `<slot>` component with `mdc-unwrap` attribute for slot content manipulation
+- For navigation, use `queryCollectionNavigation()`
+- For surroundings, use `queryCollectionItemSurroundings()`
+- Types: import `{ ContentNavigationItem }` from `@nuxt/content`
+- Collections are defined in `content.config.ts` using `defineContentConfig` and `defineCollection`
+- `_dir.yml` files are now `.navigation.yml`
+- Document internal fields with `_` prefix are renamed (e.g., `._path` → `.path`)
+- The `useContent()` composable and `searchContent()` are removed; use the new query APIs
+- Studio integration is now via the `preview` API in `nuxt.config.ts` 
+  
+    Performance Optimization
+    - Leverage VueUse functions where applicable to enhance reactivity and performance.
+    - Wrap asynchronous components in Suspense with a fallback UI.
+    - Use dynamic loading for non-critical components.
+    - Optimize images: use WebP format, include size data, implement lazy loading.
+    - Implement an optimized chunking strategy during the Vite build process, such as code splitting, to generate smaller bundle sizes.
+  
+    Tailwind 
+    -Reference the Tailwind Documentation you have stored to make sure you are inline with Tailwind CSS V4
+    Key Conventions
+    - Optimize Web Vitals (LCP, CLS, FID) using tools like Lighthouse or WebPageTest.
+    

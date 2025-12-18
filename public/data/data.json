@@ -1,0 +1,3418 @@
+[
+  {
+    "id": "aby-houghton",
+    "title": "Aby Houghton",
+    "organization": "Gershman Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1557 E. Primrose",
+    "addressLine2": "Ste 100",
+    "phoneNumber": "417-881-4739",
+    "emailAddress": "dhoughton@gershman.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285550",
+    "logoUrl": null
+  },
+  {
+    "id": "adam-mcgrath",
+    "title": "Adam McGrath",
+    "organization": "Comparion Insurance Agency",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2870 S. Ingram Mill Rd",
+    "addressLine2": "Suite B",
+    "phoneNumber": "(417) 370-6261",
+    "emailAddress": "adam.mcgrath@comparioninsurance.com",
+    "url": "comparioninsurance.com/insurance-agent/missouri/springfield-0407/adammcgrath",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285549",
+    "logoUrl": null
+  },
+  {
+    "id": "alessandro-de-luca",
+    "title": "Alessandro De Luca",
+    "organization": "Italian Kitchen",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "540 W McDaniel St",
+    "addressLine2": "",
+    "phoneNumber": "417-419-8054",
+    "emailAddress": "contact@italian.kitchen",
+    "url": "italian.kitchen",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285547",
+    "logoUrl": null
+  },
+  {
+    "id": "alex-carriker",
+    "title": "Alex Carriker",
+    "organization": "New American Funding",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4560 S National Ave Ste. D-1",
+    "addressLine2": "Springfield, Missouri 65810",
+    "phoneNumber": "417-209-7463",
+    "emailAddress": "alex.carriker@nafinc.com",
+    "url": "http://www.iwantagreathomeloan.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "286016",
+    "logoUrl": "/images/connections/NAF-Logo-pdf.pdf"
+  },
+  {
+    "id": "alex-soto",
+    "title": "Alex Soto",
+    "organization": "Total Home Analysis",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2012 E. Phelps St.",
+    "addressLine2": "",
+    "phoneNumber": "(417) 987-3414",
+    "emailAddress": "alex@totalhomeanalysis.com",
+    "url": "totalhomeanalysis.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285546",
+    "logoUrl": null
+  },
+  {
+    "id": "ali-hendricks",
+    "title": "Ali Hendricks",
+    "organization": "G &amp; G Independent Insurance",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1649 State Hwy 248",
+    "addressLine2": "",
+    "phoneNumber": "417-512-2234",
+    "emailAddress": "ali.hendricks@gg-insurance.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285543",
+    "logoUrl": null
+  },
+  {
+    "id": "amanda-smarr",
+    "title": "Amanda Smarr",
+    "organization": "Fidelity Title Agency",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1368 E Kingsley",
+    "addressLine2": "Ste A",
+    "phoneNumber": "417-887-8836",
+    "emailAddress": "amanda@ftagency.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285526",
+    "logoUrl": null
+  },
+  {
+    "id": "amber-mueller",
+    "title": "Amber Mueller",
+    "organization": "Harmony House",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-837-7700 ext 240",
+    "emailAddress": "amberm@myharmonyhouse.org",
+    "url": "https://www.myharmonyhouse.org",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285665",
+    "logoUrl": "/images/connections/cropped-Harmony-House-Favicon.png"
+  },
+  {
+    "id": "andrew-chavez",
+    "title": "Andrew Chavez",
+    "organization": "UMortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1911 S National Ave",
+    "addressLine2": "Suite 104",
+    "phoneNumber": "417-209-3339",
+    "emailAddress": "achavez@umortgage.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285539",
+    "logoUrl": null
+  },
+  {
+    "id": "andrew-michael",
+    "title": "Andrew Michael",
+    "organization": "The A Team Pressure Washing LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1827 W Katella St",
+    "addressLine2": "",
+    "phoneNumber": "417-597-2170",
+    "emailAddress": "theateampressurewashingllc@gmail.com",
+    "url": "theateamwash.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285666",
+    "logoUrl": "/images/connections/a-team.jpg"
+  },
+  {
+    "id": "andrew-swearingen",
+    "title": "Andrew Swearingen",
+    "organization": "Hommati Branch #184",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-249-1234",
+    "emailAddress": "acs470s@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285667",
+    "logoUrl": "/images/connections/logo_new_10.webp"
+  },
+  {
+    "id": "andy-simms",
+    "title": "Andy Simms",
+    "organization": "Summit Inspection Services",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "836 Jakes Creek Trail",
+    "addressLine2": "",
+    "phoneNumber": "417-527-8242",
+    "emailAddress": "summitinspectionservices@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285537",
+    "logoUrl": null
+  },
+  {
+    "id": "anna-coroleuski",
+    "title": "Anna Coroleuski",
+    "organization": "Radon Safety Squad LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "PO Box 222",
+    "addressLine2": "",
+    "phoneNumber": "417-NO-RADON",
+    "emailAddress": "anna@radonsafetysquad.com",
+    "url": "radonsafetysquad.com",
+    "categories": [
+      {
+        "slug": "radon-inspection",
+        "name": "Radon Inspection"
+      }
+    ],
+    "logo": "285536",
+    "logoUrl": null
+  },
+  {
+    "id": "annie-griffin",
+    "title": "Annie Griffin",
+    "organization": "Gershman Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1557 E Primrose St, Suite B100",
+    "addressLine2": "",
+    "phoneNumber": "417-888-0320",
+    "emailAddress": "agriffin@gershman.com",
+    "url": "agriffin.gershman.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285550",
+    "logoUrl": null
+  },
+  {
+    "id": "ashley-case",
+    "title": "Ashley Case",
+    "organization": "Prosperity Home Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "590 W. Pacific St.",
+    "addressLine2": "Branson, MO 65616",
+    "phoneNumber": "471-425-9941",
+    "emailAddress": "ashley.case@phmloans.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285668",
+    "logoUrl": "/images/connections/phm.png"
+  },
+  {
+    "id": "austin-sickmyre",
+    "title": "Austin Sickmyre",
+    "organization": "Complete Inspection, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "837 S. Pin Oak Drive",
+    "addressLine2": "",
+    "phoneNumber": "417-849-1973",
+    "emailAddress": "austin@completeinspectionof417.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285669",
+    "logoUrl": "/images/connections/complete_inspection-removebg-preview.png"
+  },
+  {
+    "id": "beth-yount",
+    "title": "Beth Yount",
+    "organization": "First Community Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "262 Robert Rose Dr",
+    "addressLine2": "",
+    "phoneNumber": "417-894-1214",
+    "emailAddress": "beth.yount@fcmhomeloans.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285527",
+    "logoUrl": null
+  },
+  {
+    "id": "bo-guist",
+    "title": "Bo Guist",
+    "organization": "MO Drone Productions, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "357 N. Tierra Dr.",
+    "addressLine2": "",
+    "phoneNumber": "417-288-6946",
+    "emailAddress": "boguist@gmail.com",
+    "url": "modroneproductions.com",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285671",
+    "logoUrl": "/images/connections/MODroneProductions.jpg"
+  },
+  {
+    "id": "bradley-randolph",
+    "title": "Bradley Randolph",
+    "organization": "Total Lending Concepts",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4101 State Hwy NN #103",
+    "addressLine2": "",
+    "phoneNumber": "417-590-8190",
+    "emailAddress": "brad.randolph@tlclender.com",
+    "url": "tlclender.com/brad-randolph",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285672",
+    "logoUrl": "/images/connections/TLC-No-Tagline.png"
+  },
+  {
+    "id": "braedan-hall",
+    "title": "Braedan Hall",
+    "organization": "Watson Media House",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "31 Dorsett Ln",
+    "addressLine2": "",
+    "phoneNumber": "417-824-1894",
+    "emailAddress": "braedan@watsonmediahouse.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285523",
+    "logoUrl": null
+  },
+  {
+    "id": "brandon-fisher",
+    "title": "Brandon Fisher",
+    "organization": "Cadence Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3211 E. Battlefield Road",
+    "addressLine2": "",
+    "phoneNumber": "(417) 730-8016",
+    "emailAddress": "brandon.fisher@bxs.com",
+    "url": "brandonfisher.info",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285157",
+    "logoUrl": "/images/connections/Cadence-Logo-1-061ee538a4db7c389d73bb8f877196f3.jpg"
+  },
+  {
+    "id": "brandon-otzelberger",
+    "title": "Brandon Otzelberger",
+    "organization": "Extra Mile Home Inspection Services",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2061 W. Union Chapel Rd.",
+    "addressLine2": "",
+    "phoneNumber": "(417) 724-0062",
+    "emailAddress": "extramilebrandon@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285674",
+    "logoUrl": "/images/connections/extra-mile.webp"
+  },
+  {
+    "id": "brandy-thomas",
+    "title": "Brandy Thomas",
+    "organization": "Brandy's Clean Sweep",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-818-2362",
+    "emailAddress": "brandyvthomas44@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285799",
+    "logoUrl": "/images/connections/brandys-clean-sweep.png"
+  },
+  {
+    "id": "breanna-foes",
+    "title": "Breanna Foes",
+    "organization": "Southern Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4803 S. National Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-724-5147",
+    "emailAddress": "bfoes@bankwithsouthern.com",
+    "url": "bankwithsouthern.com/lenders/breanna-foes",
+    "categories": [],
+    "logo": "285675",
+    "logoUrl": "/images/connections/Southern-bank.png"
+  },
+  {
+    "id": "brent-hardison",
+    "title": "Brent Hardison",
+    "organization": "Freedom Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4319 S. National #216",
+    "addressLine2": "",
+    "phoneNumber": "(417) 894-1782",
+    "emailAddress": "brent@freedomhomeinspectors.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285676",
+    "logoUrl": "/images/connections/freedom.jpg"
+  },
+  {
+    "id": "brenton-illum",
+    "title": "Brenton Illum",
+    "organization": "Assemblies of God Credit Union",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1776 E. Independence Street",
+    "addressLine2": "",
+    "phoneNumber": "417-447-9204",
+    "emailAddress": "billum@agcu.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285677",
+    "logoUrl": "/images/connections/agcu-assemblies-god-credit-union-independence-branch_0.jpg"
+  },
+  {
+    "id": "brett-peterman",
+    "title": "Brett Peterman",
+    "organization": "Jones &amp; Company Insurors",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3130 S. Fremont Ave. Springfield, MO 65804",
+    "addressLine2": "",
+    "phoneNumber": "417-889-6400",
+    "emailAddress": "brett@jonesinsurors.com",
+    "url": "http://jonesinsurors.com",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285531",
+    "logoUrl": null
+  },
+  {
+    "id": "brett-thompson",
+    "title": "Brett Thompson",
+    "organization": "Strong Hold Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1041 State Road M",
+    "addressLine2": "",
+    "phoneNumber": "417-818-9524",
+    "emailAddress": "inspectbystronghold@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285678",
+    "logoUrl": "/images/connections/cropped-StrongHoldInspectionsLLC-logo.png"
+  },
+  {
+    "id": "bruce-monroe",
+    "title": "Bruce Monroe",
+    "organization": "Gershman Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1557 E. Primrose, Ste 100",
+    "addressLine2": "",
+    "phoneNumber": "(417) 885-0320",
+    "emailAddress": "bmonroe@gershman.com",
+    "url": "brucemonroe.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285550",
+    "logoUrl": null
+  },
+  {
+    "id": "byrian-kramme",
+    "title": "Byrian Kramme",
+    "organization": "ARIS Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1550 W HWY WW",
+    "addressLine2": "",
+    "phoneNumber": "(417) 327-3502",
+    "emailAddress": "byriank64@gmail.com",
+    "url": "arishomeinspection.net",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285680",
+    "logoUrl": "/images/connections/aris-logo-bevel-trans.png"
+  },
+  {
+    "id": "cade-nixon",
+    "title": "Cade Nixon",
+    "organization": "Method",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-830-1201",
+    "emailAddress": "cade@urbanefix.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      },
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285681",
+    "logoUrl": "/images/connections/method.jpg"
+  },
+  {
+    "id": "charles-cook",
+    "title": "Charles Cook",
+    "organization": "Quality General Appraisals &amp; Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-736-0086",
+    "emailAddress": "qghi6219@gmail.com",
+    "url": "https://qgahomeinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285682",
+    "logoUrl": "/images/connections/quality-general.jpg"
+  },
+  {
+    "id": "chris-hazen",
+    "title": "Chris Hazen",
+    "organization": "Regions Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2927 S. Campbell Ave",
+    "addressLine2": "",
+    "phoneNumber": "(417) 693-3470",
+    "emailAddress": "chris.hazen@regions.com",
+    "url": "regions.com/mlo/chrishazen",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285683",
+    "logoUrl": "/images/connections/regions.png"
+  },
+  {
+    "id": "christina-baird",
+    "title": "Christina Baird",
+    "organization": "Titan Title Company",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2925 E. Battlefield St.",
+    "addressLine2": "Ste 115",
+    "phoneNumber": "(417) 882-2100",
+    "emailAddress": "sam@titantitlemo.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285684",
+    "logoUrl": "/images/connections/TTC_Logo.png"
+  },
+  {
+    "id": "christina-ferrante",
+    "title": "Christina Ferrante",
+    "organization": "417 Home Loans at Flat Branch",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4350 S. National Ave.",
+    "addressLine2": "Ste A-100",
+    "phoneNumber": "(417) 877-4000",
+    "emailAddress": "cferrante@fbhl.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285775",
+    "logoUrl": "/images/connections/417-flat-branch.jpg"
+  },
+  {
+    "id": "christina-hankins",
+    "title": "Christina Hankins",
+    "organization": "Christina To The Rescue",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2950 W. Farm Road 112",
+    "addressLine2": "",
+    "phoneNumber": "417-986-5526",
+    "emailAddress": "hello@christinatotherescue.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285687",
+    "logoUrl": "/images/connections/christina-to-the-rescue.png"
+  },
+  {
+    "id": "cindy-slettevold",
+    "title": "Cindy Slettevold",
+    "organization": "Great American Title Company",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "506 W. Battlefield Rd",
+    "addressLine2": "",
+    "phoneNumber": "417-470-1724",
+    "emailAddress": "cslettevold@gatozarks.com",
+    "url": "www.gatozarks.com",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285631",
+    "logoUrl": "/images/connections/Great-American-Title-Logo.png"
+  },
+  {
+    "id": "connor-harris",
+    "title": "Connor Harris",
+    "organization": "Watson Media House",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-824-1894",
+    "emailAddress": "connor@watsonmediahouse.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285523",
+    "logoUrl": null
+  },
+  {
+    "id": "courtney-pruente",
+    "title": "Courtney Pruente",
+    "organization": "BluCurrent Credit Union",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4520 S National Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-851-1507",
+    "emailAddress": "cpruente@blucurrent.org",
+    "url": "blucurrent.org",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285688",
+    "logoUrl": "/images/connections/blucurrent.png"
+  },
+  {
+    "id": "daniel-guin-2",
+    "title": "Daniel Guin",
+    "organization": "DG's Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2169 W. Inman Rd",
+    "addressLine2": "",
+    "phoneNumber": "417-597-5701",
+    "emailAddress": "dgshomeinspections@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285690",
+    "logoUrl": "/images/connections/dg-home.png"
+  },
+  {
+    "id": "daniel-koren",
+    "title": "Daniel Koren",
+    "organization": "Branson/Springfield Roof",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "695 Branson Landing Blvd",
+    "addressLine2": "Suite 220",
+    "phoneNumber": "417-540-2125",
+    "emailAddress": "office@bransonspringfieldroof.com",
+    "url": "bransonspringfieldroof.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285691",
+    "logoUrl": "/images/connections/bSGF-roof.png"
+  },
+  {
+    "id": "danielle-beld",
+    "title": "Danielle Beld",
+    "organization": "Spotless Cleaning Service, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "645 S. Canton Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-818-1948",
+    "emailAddress": "spotclean10@gmail.com",
+    "url": "417spotlesscleaning.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285692",
+    "logoUrl": "/images/connections/spotless-cleaning-service-logo.jpg"
+  },
+  {
+    "id": "dave-jackson",
+    "title": "Dave Jackson",
+    "organization": "Precision Home Home Inspection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4359 W. Forest Ridge Rd",
+    "addressLine2": "",
+    "phoneNumber": "(417) 450-3300",
+    "emailAddress": "precisionhomehi@gmail.com",
+    "url": "precisionhomehi.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285693",
+    "logoUrl": "/images/connections/phhi.jpg"
+  },
+  {
+    "id": "david-gress",
+    "title": "David Gress",
+    "organization": "My Home Inspector Pro",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "920 E. Northfield Road",
+    "addressLine2": "",
+    "phoneNumber": "(417) 693-1084",
+    "emailAddress": "dave@myhomeinspectorpro.com",
+    "url": "myhomeinspectorpro.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285694",
+    "logoUrl": "/images/connections/my-home.png"
+  },
+  {
+    "id": "david-kean-2",
+    "title": "David Kean",
+    "organization": "Edge Home Financing",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1465 E Sunshine St",
+    "addressLine2": "",
+    "phoneNumber": "417-887-0090",
+    "emailAddress": "david.kean@edgehomefinance.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285695",
+    "logoUrl": "/images/connections/edge.jpg"
+  },
+  {
+    "id": "deborah-gould",
+    "title": "Deborah Gould",
+    "organization": "First American Title Insurance",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2820 Arizona Ave.",
+    "addressLine2": "",
+    "phoneNumber": "417-623-1553",
+    "emailAddress": "dgould@firstam.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285696",
+    "logoUrl": "/images/connections/first-american.jpg"
+  },
+  {
+    "id": "debra-yeager",
+    "title": "Debra Yeager",
+    "organization": "Encore Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3820 S Weller Ste 108",
+    "addressLine2": "",
+    "phoneNumber": "417-708-7539",
+    "emailAddress": "debra.yeager@bankencore.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285697",
+    "logoUrl": "/images/connections/encore-bank.png"
+  },
+  {
+    "id": "dee-wilson",
+    "title": "Dee Wilson",
+    "organization": "Meridian Title Corporation",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4121 S Fremont",
+    "addressLine2": "Ste 152",
+    "phoneNumber": "(417) 886-4400",
+    "emailAddress": "dwilson@mtc.llc",
+    "url": "",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285700",
+    "logoUrl": "/images/connections/MTC.jpg"
+  },
+  {
+    "id": "derek-chaney",
+    "title": "Derek Chaney",
+    "organization": "Mid-Missouri Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3546 E Sunshine",
+    "addressLine2": "",
+    "phoneNumber": "(417) 851-4761",
+    "emailAddress": "dchaney@midmobank.com",
+    "url": "applytoderek.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285701",
+    "logoUrl": "/images/connections/midmo-bank.png"
+  },
+  {
+    "id": "doug-fogelquist",
+    "title": "Doug Fogelquist",
+    "organization": "Canopy Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "204 Village Center St.",
+    "addressLine2": "Suite 2",
+    "phoneNumber": "417-292-3075",
+    "emailAddress": "dfogelquist@canopymortgage.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285702",
+    "logoUrl": "/images/connections/canopy.jpg"
+  },
+  {
+    "id": "douglas-boykin",
+    "title": "Douglas Boykin",
+    "organization": "Boykin Home Inspections Inc. ",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "PO Box 27 Mountain Grove, MO 65711",
+    "addressLine2": "",
+    "phoneNumber": "417-926-2822",
+    "emailAddress": "douglas@boykinhomeinspections.com",
+    "url": "boykinhomeinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      },
+      {
+        "slug": "radon-inspection",
+        "name": "Radon Inspection"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "elan-adams",
+    "title": "Elan Adams",
+    "organization": "Hawthorn Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "321 W. Battlefield Rd",
+    "addressLine2": "Springfield, Missouri 65804",
+    "phoneNumber": "417-425-9941",
+    "emailAddress": "eadams@hawthornbank.com",
+    "url": "",
+    "categories": [],
+    "logo": "285705",
+    "logoUrl": "/images/connections/hawthorn-2.jpg"
+  },
+  {
+    "id": "elizabeth-walstrand",
+    "title": "Elizabeth Walstrand",
+    "organization": "Watson Media House",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "11 Quantock Hills Dr",
+    "addressLine2": "",
+    "phoneNumber": "417-815-3308",
+    "emailAddress": "elizabeth@watsonmediahouse.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285523",
+    "logoUrl": null
+  },
+  {
+    "id": "emily-burcham",
+    "title": "Emily Burcham",
+    "organization": "Clear Contract to Close",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1471 W South St",
+    "addressLine2": "",
+    "phoneNumber": "417-887-7681",
+    "emailAddress": "eburcham@mtc.llc",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285706",
+    "logoUrl": "/images/connections/clear-contract.png"
+  },
+  {
+    "id": "eric-meruelo",
+    "title": "Eric Meruelo",
+    "organization": "Central Bank of the Ozarks",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3333 S. National Ave.",
+    "addressLine2": "Suite 201",
+    "phoneNumber": "(417) 841-4229",
+    "emailAddress": "eric.meruelo@centralbank.net",
+    "url": "centralbank.net",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285707",
+    "logoUrl": "/images/connections/centralbank_theozarks_17633.png"
+  },
+  {
+    "id": "erika-obrecht",
+    "title": "Erika Obrecht",
+    "organization": "Radon Safety Squad LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "PO Box 222",
+    "addressLine2": "",
+    "phoneNumber": "417-NO-RADON",
+    "emailAddress": "erika@radonsafetysquad.com",
+    "url": "radonsafetysquad.com",
+    "categories": [
+      {
+        "slug": "radon-inspection",
+        "name": "Radon Inspection"
+      }
+    ],
+    "logo": "285536",
+    "logoUrl": null
+  },
+  {
+    "id": "erin-luttrell",
+    "title": "Erin Luttrell",
+    "organization": "It's So Gouda, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1763 E Lark St",
+    "addressLine2": "",
+    "phoneNumber": "417-616-3122",
+    "emailAddress": "jennifer@itssogouda.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285708",
+    "logoUrl": "/images/connections/gouda.jpg"
+  },
+  {
+    "id": "eva-ramirez",
+    "title": "Eva Ramirez",
+    "organization": "Premier Choice Tax &amp; Accounting",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "947 US Hwy 60E",
+    "addressLine2": "",
+    "phoneNumber": "416-616-3291",
+    "emailAddress": "eva@premierchoicetax.com",
+    "url": "premierchoicetax.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285709",
+    "logoUrl": "/images/connections/premier.png"
+  },
+  {
+    "id": "francetta-wheeler",
+    "title": "Francetta Wheeler",
+    "organization": "Wood &amp; Huston Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "204 W Primrose St",
+    "addressLine2": "Springfield, Missouri 65807",
+    "phoneNumber": "417-268-9375",
+    "emailAddress": "fwheeler@woodhuston.com",
+    "url": "woodhuston.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "286044",
+    "logoUrl": null
+  },
+  {
+    "id": "garrett-dollins",
+    "title": "Garrett Dollins",
+    "organization": "Meridian Title Corporation",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1334 E. Republic Rd",
+    "addressLine2": "",
+    "phoneNumber": "(417) 823-0800",
+    "emailAddress": "",
+    "url": "",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285700",
+    "logoUrl": "/images/connections/MTC.jpg"
+  },
+  {
+    "id": "george-brockman",
+    "title": "George Brockman",
+    "organization": "Achosa Home Warranty",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4750 Pine Haven",
+    "addressLine2": "",
+    "phoneNumber": "",
+    "emailAddress": "georgeb@achosahw.com",
+    "url": "achosahw.com",
+    "categories": [
+      {
+        "slug": "home-warranty",
+        "name": "Home Warranty"
+      }
+    ],
+    "logo": "285710",
+    "logoUrl": "/images/connections/achosa.png"
+  },
+  {
+    "id": "gregory-carter",
+    "title": "Gregory Carter",
+    "organization": "Alpha Omega Home Inspection, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-848-7177",
+    "emailAddress": "aohomeinspect@gmail.com",
+    "url": "https://aohomeinspect.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285711",
+    "logoUrl": "/images/connections/alpha.png"
+  },
+  {
+    "id": "gregory-johnson",
+    "title": "Gregory Johnson",
+    "organization": "ServiceMaster DSI",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "6537 W Independence Dr",
+    "addressLine2": "",
+    "phoneNumber": "417-353-0433",
+    "emailAddress": "gregory.johnson@smdsi.com",
+    "url": "servicemasterdsi.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285712",
+    "logoUrl": "/images/connections/service-master-dsi.avif"
+  },
+  {
+    "id": "gwen-morris",
+    "title": "Gwen Morris",
+    "organization": "Premier Mortgage Resources",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1231 E Walnut St",
+    "addressLine2": "",
+    "phoneNumber": "573-645-3404",
+    "emailAddress": "gemorris100@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285713",
+    "logoUrl": "/images/connections/PMR-Logo.Sq-01-scaled-1.jpg"
+  },
+  {
+    "id": "hannah-mccaig",
+    "title": "Hannah McCaig",
+    "organization": "BluCurrent Credit Union",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4520 S National Ave",
+    "addressLine2": "",
+    "phoneNumber": "(417) 887-1983",
+    "emailAddress": "hmccaig@blucurrent.org",
+    "url": "blucurrent.org",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285688",
+    "logoUrl": "/images/connections/blucurrent.png"
+  },
+  {
+    "id": "heather-carnahan",
+    "title": "Heather Carnahan",
+    "organization": "Mirowski Inspections, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1500 E. St. Louis St",
+    "addressLine2": "",
+    "phoneNumber": "417-873-5917",
+    "emailAddress": "heather@mhi-llc.com",
+    "url": "mirowskiinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285525",
+    "logoUrl": null
+  },
+  {
+    "id": "home-builders-association",
+    "title": "Home Builders Association",
+    "organization": "Home Builders Association",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "636 West Republic Road",
+    "addressLine2": "D-1",
+    "phoneNumber": "417-881-3711",
+    "emailAddress": "",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285715",
+    "logoUrl": "/images/connections/HBA-Header-Logo-250.png"
+  },
+  {
+    "id": "jack-langley",
+    "title": "Jack Langley",
+    "organization": "Gershman Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1557 E. Primrose, Ste 100",
+    "addressLine2": "",
+    "phoneNumber": "(417) 888-0320",
+    "emailAddress": "jlangley@gershman.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285550",
+    "logoUrl": null
+  },
+  {
+    "id": "james-julian",
+    "title": "James Julian",
+    "organization": "Julian's Heating and Air LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "110 Dempsey Dr ",
+    "addressLine2": "Suite G",
+    "phoneNumber": "417-427-7800",
+    "emailAddress": "james@juliansheatingandair.com",
+    "url": "www.juliansheatingandair.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "james-layton",
+    "title": "James Layton",
+    "organization": "Meridian Title Company",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-886-4400",
+    "emailAddress": "llayton@mtc.llc",
+    "url": "http://www.meridiantitlemo.com",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285700",
+    "logoUrl": "/images/connections/MTC.jpg"
+  },
+  {
+    "id": "james-stevens",
+    "title": "James Stevens",
+    "organization": "Dog Gone Mold",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1646 W. Caleb Court",
+    "addressLine2": "",
+    "phoneNumber": "(417) 379-5120",
+    "emailAddress": "james@doggonemoldmo.com",
+    "url": "doggonemoldmo.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285717",
+    "logoUrl": "/images/connections/DGM-Full-Color-Square-Logo-White-Background.jpg"
+  },
+  {
+    "id": "jami-dressler",
+    "title": "Jami Dressler",
+    "organization": "Arvest Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4140 S. Fremont",
+    "addressLine2": "Suite 100",
+    "phoneNumber": "417-576-6928",
+    "emailAddress": "jdressler@arvest.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285718",
+    "logoUrl": "/images/connections/ArvestBank_logo.png"
+  },
+  {
+    "id": "jamie-garrison",
+    "title": "Jamie Garrison",
+    "organization": "Garrison Roofing &amp; Guttering, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2321 E Olive Ct",
+    "addressLine2": "Unit A",
+    "phoneNumber": "417-631-4700",
+    "emailAddress": "office@garrison-roofing.com",
+    "url": "garrison-roofing.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285719",
+    "logoUrl": "/images/connections/garrison-roofing.png"
+  },
+  {
+    "id": "jamie-mattingly",
+    "title": "Jamie Mattingly",
+    "organization": "Solution Consulting, Inc.",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2108 E Cambridge St, Springfield, Missouri 65804",
+    "addressLine2": "",
+    "phoneNumber": "928-533-1208",
+    "emailAddress": "info@solutionconsultingllc.com",
+    "url": "www.solutionconsultingllc.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "jared-mason",
+    "title": "Jared Mason",
+    "organization": "Advanced Restorations",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2633 W College Rd",
+    "addressLine2": "",
+    "phoneNumber": "417-229-0667",
+    "emailAddress": "jaredm.advanced@gmail.com",
+    "url": "advancedrestorationsmo.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285723",
+    "logoUrl": "/images/connections/adv.png"
+  },
+  {
+    "id": "jasmine-hutton",
+    "title": "Jasmine Hutton",
+    "organization": "Hommati Branch #184",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-249-1234",
+    "emailAddress": "jasminemariephotography@outlook.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285667",
+    "logoUrl": "/images/connections/logo_new_10.webp"
+  },
+  {
+    "id": "jason-mccormick",
+    "title": "Jason McCormick",
+    "organization": "Sure Look Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2733 E. Battlefield #330",
+    "addressLine2": "",
+    "phoneNumber": "(417) 827-4954",
+    "emailAddress": "jmccormick@mo.nachi.org",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285724",
+    "logoUrl": "/images/connections/sure-look.jpg"
+  },
+  {
+    "id": "jayson-workman",
+    "title": "Jayson Workman",
+    "organization": "Mouery's Flooring",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2516 W Battlefield",
+    "addressLine2": "",
+    "phoneNumber": "417-883-4720",
+    "emailAddress": "jayson.flooring417@gmail.com",
+    "url": "mouerysflooring.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285726",
+    "logoUrl": "/images/connections/moureys.jpg"
+  },
+  {
+    "id": "jc-loveland",
+    "title": "JC Loveland",
+    "organization": "Phelps County Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "334 E Walnut Street",
+    "addressLine2": "",
+    "phoneNumber": "417-501-7545",
+    "emailAddress": "jc.loveland@ypcb.com",
+    "url": "mypcb.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285727",
+    "logoUrl": "/images/connections/phelps_county_bank_logo.jpg"
+  },
+  {
+    "id": "jeanne-worsham",
+    "title": "Jeanne Worsham",
+    "organization": "O'Bannon Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2150 E. 552nd Road",
+    "addressLine2": "",
+    "phoneNumber": "417-345-2251",
+    "emailAddress": "dworsham@obannonbank.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285728",
+    "logoUrl": "/images/connections/o-bannon-banking-company-logo-68853fb5.png"
+  },
+  {
+    "id": "jennifer-creed",
+    "title": "Jennifer Creed",
+    "organization": "Black Swan Solutions-J Creed Agency",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "106 W Commercial St",
+    "addressLine2": "PO Box 104",
+    "phoneNumber": "417-924-2866",
+    "emailAddress": "jennifer@jcreedagency.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285729",
+    "logoUrl": "/images/connections/Black-Swan-Banner-Image-JPEG-scaled-1.jpg"
+  },
+  {
+    "id": "jennifer-patinsky-pillado",
+    "title": "Jennifer Patinsky-Pillado",
+    "organization": "U.S. Bank, Equal Housing Lender, NMLS # 502328",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1615 S. Glenstone Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-888-2268",
+    "emailAddress": "jennifer.patinsky@usbank.com",
+    "url": "mortgage.usbank.com/mo-springfield-jennifer-n-patinsky",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285730",
+    "logoUrl": "/images/connections/us-bank-equal-housing.png"
+  },
+  {
+    "id": "jennifer-white",
+    "title": "Jennifer White",
+    "organization": "Timeless Moments Photography",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2780 Cobblestone Drive",
+    "addressLine2": "",
+    "phoneNumber": "(417) 224-0118",
+    "emailAddress": "",
+    "url": "jenniferwhitetmphoto.com",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285731",
+    "logoUrl": "/images/connections/jennifer_white_timeless_moments_photography_logo.jpg"
+  },
+  {
+    "id": "jeremy-thomas",
+    "title": "Jeremy Thomas",
+    "organization": "Guaranty Bank - Home Loans",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2006 S. Glenstone Ave",
+    "addressLine2": "",
+    "phoneNumber": "4173739069",
+    "emailAddress": "jthomas@gbankmo.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285732",
+    "logoUrl": "/images/connections/GB-Logo-Blue2193-H-base.png"
+  },
+  {
+    "id": "jerry-riley",
+    "title": "Jerry Riley",
+    "organization": "1st Choice Building Inspection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3369 E. Hoke Dr",
+    "addressLine2": "",
+    "phoneNumber": "(417) 860-5278",
+    "emailAddress": "cbireports@sbcglobal.net",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "jessica-bowman",
+    "title": "Jessica Bowman",
+    "organization": "Bowman Insurance Group",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2733 E. Battlefield St. #136",
+    "addressLine2": "",
+    "phoneNumber": "(417) 895-9511",
+    "emailAddress": "",
+    "url": "bigmissouri.com",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285733",
+    "logoUrl": "/images/connections/Bowman-logo.png"
+  },
+  {
+    "id": "jessica-freeman",
+    "title": "Jessica Freeman",
+    "organization": "Radical Reset",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2211 N Cloverfield Ln",
+    "addressLine2": "",
+    "phoneNumber": "417-501-5093",
+    "emailAddress": "radicalreset417@gmail.com",
+    "url": "facebook.com/radicalreset417",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285734",
+    "logoUrl": "/images/connections/radical-reset.png"
+  },
+  {
+    "id": "jim-payne",
+    "title": "Jim Payne",
+    "organization": "Choice Escrow &amp; Land Title, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1440 E. Primrose",
+    "addressLine2": "",
+    "phoneNumber": "417-447-6090",
+    "emailAddress": "jpayne@choice-escrow.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285735",
+    "logoUrl": "/images/connections/choice-escrow.jpeg"
+  },
+  {
+    "id": "joe-robles",
+    "title": "Joe Robles",
+    "organization": "State Farm",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1329 E Republic Rd",
+    "addressLine2": "Suite A",
+    "phoneNumber": "(417) 882-4040",
+    "emailAddress": "",
+    "url": "",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285524",
+    "logoUrl": null
+  },
+  {
+    "id": "joel-sprague",
+    "title": "Joel Sprague",
+    "organization": "Method",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-830-1201",
+    "emailAddress": "joel@methodinspection.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285681",
+    "logoUrl": "/images/connections/method.jpg"
+  },
+  {
+    "id": "john-dewitt",
+    "title": "John DeWitt",
+    "organization": "D2 Home and Property Inspections, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3989 N. 20th",
+    "addressLine2": "",
+    "phoneNumber": "(417) 501-1823",
+    "emailAddress": "",
+    "url": "D2Inspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285736",
+    "logoUrl": "/images/connections/D2.png"
+  },
+  {
+    "id": "john-george",
+    "title": "John George",
+    "organization": "OakStar Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1020 E. Battlefield",
+    "addressLine2": "",
+    "phoneNumber": "(417) 877-2020",
+    "emailAddress": "jgeorge@oakstarbank.com",
+    "url": "",
+    "categories": [],
+    "logo": "285738",
+    "logoUrl": "/images/connections/OakStarBankLogotransparent.png"
+  },
+  {
+    "id": "john-parker",
+    "title": "John Parker",
+    "organization": "Freedom Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4319 S. National #216",
+    "addressLine2": "",
+    "phoneNumber": "(417) 894-1782",
+    "emailAddress": "john@freedomhomeinspectors.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285676",
+    "logoUrl": "/images/connections/freedom.jpg"
+  },
+  {
+    "id": "jonathan-parker",
+    "title": "Jonathan Parker",
+    "organization": "Freedom Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4319 S. National #216",
+    "addressLine2": "",
+    "phoneNumber": "(417) 894-1782",
+    "emailAddress": "seth@freedomhomeinspectors.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285676",
+    "logoUrl": "/images/connections/freedom.jpg"
+  },
+  {
+    "id": "jonathan-rodhouse",
+    "title": "Jonathan Rodhouse",
+    "organization": "417 Rekey",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2733 E. Battlefield Rd",
+    "addressLine2": "Ste 128",
+    "phoneNumber": "(417) 689-7034",
+    "emailAddress": "jonathan@417rekey.com",
+    "url": "https://www.417rekey.com/",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285739",
+    "logoUrl": "/images/connections/417-rekey.png"
+  },
+  {
+    "id": "joni-watkins",
+    "title": "Joni Watkins",
+    "organization": "Preferred Title of Missouri",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1265 E. Republic Road",
+    "addressLine2": "",
+    "phoneNumber": "(417) 889-2394",
+    "emailAddress": "jwatkins@ptofmo.com",
+    "url": "https://ptofmo.com/",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285740",
+    "logoUrl": "/images/connections/preferred.png"
+  },
+  {
+    "id": "jordan-sterling",
+    "title": "Jordan Sterling",
+    "organization": "Polaris Insurance Solutions",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "721 NE Lakewood Blvd, Lees Summit, Missouri 64064",
+    "addressLine2": "",
+    "phoneNumber": "816-800-2873",
+    "emailAddress": "jordan@thepolarisagency.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "joshua-cole",
+    "title": "Joshua Cole",
+    "organization": "J &amp; J Property Pro's LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "24584 Skipps Run",
+    "addressLine2": "",
+    "phoneNumber": "417-665-9142",
+    "emailAddress": "jandjpropertypros@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "julie-milbauer",
+    "title": "Julie Milbauer",
+    "organization": "Alzheimer's Association",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "901 E St. Louis",
+    "addressLine2": "Suite 702",
+    "phoneNumber": "417-429-0439",
+    "emailAddress": "jumilbauer@alz.org",
+    "url": "alz.org",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285741",
+    "logoUrl": "/images/connections/alz-stacked-rgb.png"
+  },
+  {
+    "id": "katie-bradford",
+    "title": "Katie Bradford",
+    "organization": "Edge Home Financing",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1465 E Sunshine St",
+    "addressLine2": "",
+    "phoneNumber": "417-887-0090",
+    "emailAddress": "katie.bradford@thestockmensbank.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285695",
+    "logoUrl": "/images/connections/edge.jpg"
+  },
+  {
+    "id": "kelly-frieze",
+    "title": "Kelly Frieze",
+    "organization": "The Frieze Agency LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "313 South Ave",
+    "addressLine2": "Ste 303",
+    "phoneNumber": "623-267-6885",
+    "emailAddress": "kelly.frieze@goosehead.com",
+    "url": "goosehead.com/kelly-frieze",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285742",
+    "logoUrl": "/images/connections/goosehead.png"
+  },
+  {
+    "id": "kelly-painter",
+    "title": "Kelly Painter",
+    "organization": "Legal Land Title",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3820 South Weller Avenue Suite 100",
+    "addressLine2": "Springfield, Missouri 65804",
+    "phoneNumber": "417-864-8800",
+    "emailAddress": "kelly@llt.email",
+    "url": "",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "kent-kelso",
+    "title": "Kent Kelso",
+    "organization": "Bank of Little Rock Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3745 S. Fremont Ave, #D",
+    "addressLine2": "",
+    "phoneNumber": "(417) 720-4901",
+    "emailAddress": "kkelso@blrmortgage.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285743",
+    "logoUrl": "/images/connections/rock_mortgage_lending_logo.jpg"
+  },
+  {
+    "id": "kevin-braasch",
+    "title": "Kevin Braasch",
+    "organization": "Precision Home Inspection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "995 S. Natalie Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-414-9512",
+    "emailAddress": "",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285693",
+    "logoUrl": "/images/connections/phhi.jpg"
+  },
+  {
+    "id": "kristina-fisher",
+    "title": "Kristina Fisher",
+    "organization": "Agent Assist, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "207 Ella Street",
+    "addressLine2": "",
+    "phoneNumber": "417-388-1567",
+    "emailAddress": "kristina@agentassistmo.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285744",
+    "logoUrl": "/images/connections/agent_assist_logo-removebg-preview.png"
+  },
+  {
+    "id": "kristy-roach",
+    "title": "Kristy Roach",
+    "organization": "Arvest Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4140 S. Fremont",
+    "addressLine2": "Suite 100",
+    "phoneNumber": "417-576-6928",
+    "emailAddress": "kroach1@arvest.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285718",
+    "logoUrl": "/images/connections/ArvestBank_logo.png"
+  },
+  {
+    "id": "leslie-dawson",
+    "title": "Leslie Dawson",
+    "organization": "HealthMarkets",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3003 E. Chestnut Expressway",
+    "addressLine2": "Suite 700",
+    "phoneNumber": "760-567-7363",
+    "emailAddress": "lmdawson@healthmarkets.com",
+    "url": "healthmarkets.com/lmdawson",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285745",
+    "logoUrl": "/images/connections/HMIA_logo-01.jpg"
+  },
+  {
+    "id": "leslie-dean",
+    "title": "Leslie Dean",
+    "organization": "UMortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1911 S National Ave",
+    "addressLine2": "Suite 104",
+    "phoneNumber": "417-408-8421",
+    "emailAddress": "ldean@umortgage.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285539",
+    "logoUrl": null
+  },
+  {
+    "id": "lexi-coonrod",
+    "title": "Lexi Coonrod",
+    "organization": "Lake Movers",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "573-319-1730",
+    "emailAddress": "alexislcoonrod@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "moving-and-storage",
+        "name": "Moving and Storage"
+      }
+    ],
+    "logo": "285746",
+    "logoUrl": "/images/connections/lake-movers.png"
+  },
+  {
+    "id": "liz-letterman",
+    "title": "Liz Letterman",
+    "organization": "Millennium Brokers",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2100 S. Brentwood Blvd",
+    "addressLine2": "Ste B",
+    "phoneNumber": "417-773-7822",
+    "emailAddress": "liz@insurancenerd.net",
+    "url": "https://www.millenniumbrokers.com/",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285747",
+    "logoUrl": "/images/connections/millennium.jpg"
+  },
+  {
+    "id": "logan-aguirre",
+    "title": "Logan Aguirre",
+    "organization": "417 Magazine",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2111 S. Eastgate",
+    "addressLine2": "Springfield, Missouri 65804",
+    "phoneNumber": "417-849-4433",
+    "emailAddress": "logan@417mag.com",
+    "url": "http://417mag.com",
+    "categories": [],
+    "logo": "285748",
+    "logoUrl": "/images/connections/417Magazine_Circle-Logo_400x400.2e16d0ba.fill-500x500-1.png"
+  },
+  {
+    "id": "lorrie-kleier",
+    "title": "Lorrie Kleier",
+    "organization": "Great Southern Bank Home Loan Center",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1520 E. Primrose",
+    "addressLine2": "",
+    "phoneNumber": "(417) 895-5278",
+    "emailAddress": "lkleier@greatsouthernbank.com",
+    "url": "mortgage.greatsouthernbank.com/lkleier",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285749",
+    "logoUrl": "/images/connections/great-southern.jpg"
+  },
+  {
+    "id": "mackenzie-whitted",
+    "title": "Mackenzie Whitted",
+    "organization": "Arvest Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "505 Northview Rd",
+    "addressLine2": "",
+    "phoneNumber": "417-885-7243",
+    "emailAddress": "mwhitted@arvest.com",
+    "url": "arvest.com/mwhitted",
+    "categories": [],
+    "logo": "285718",
+    "logoUrl": "/images/connections/ArvestBank_logo.png"
+  },
+  {
+    "id": "marcus-yokeley",
+    "title": "Marcus Yokeley",
+    "organization": "Homestead Financial Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "14897 Clayton Road",
+    "addressLine2": "",
+    "phoneNumber": "636-590-7559",
+    "emailAddress": "m.yokeley@hfmloans.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285750",
+    "logoUrl": "/images/connections/Homestead_Financial_Mortgage_logo_1639513726.png"
+  },
+  {
+    "id": "mark-emerick",
+    "title": "Mark Emerick",
+    "organization": "Home Warranty, Inc",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "333 S. Evanston Ave",
+    "addressLine2": "",
+    "phoneNumber": "(877) 977-4949",
+    "emailAddress": "",
+    "url": "homewarrantyinc.com",
+    "categories": [
+      {
+        "slug": "home-warranty",
+        "name": "Home Warranty"
+      }
+    ],
+    "logo": "285751",
+    "logoUrl": "/images/connections/hwi-logo-4color-rev08-15-stacked.png"
+  },
+  {
+    "id": "matt-beaty",
+    "title": "Matt Beaty",
+    "organization": "Freedom Home Inspection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-894-1782",
+    "emailAddress": "matt@freedomhomeinspectors.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285676",
+    "logoUrl": "/images/connections/freedom.jpg"
+  },
+  {
+    "id": "matt-morrow",
+    "title": "Matt Morrow",
+    "organization": "Springfield Area Chamber of Commerce",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-862-5567",
+    "emailAddress": "matt@springfieldchamber.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285752",
+    "logoUrl": "/images/connections/springfield_area_chamber_of_commerce_logo.jpg"
+  },
+  {
+    "id": "matthew-boatright",
+    "title": "Matthew Boatright",
+    "organization": "Bro.Co. Garage Doors",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3425 N 21st Street",
+    "addressLine2": "",
+    "phoneNumber": "417-290-3667",
+    "emailAddress": "matt@brocogaragedoors.com",
+    "url": "brocogaragedoors.com",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285753",
+    "logoUrl": "/images/connections/BroCo-logo.png"
+  },
+  {
+    "id": "matthew-emerick",
+    "title": "Matthew Emerick",
+    "organization": "Home Warranty Inc",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "303 S Second Ave #1",
+    "addressLine2": "",
+    "phoneNumber": "877-977-4949",
+    "emailAddress": "teamemerick@homewarrantyinc.com",
+    "url": "homewarrantyinc.com",
+    "categories": [
+      {
+        "slug": "home-warranty",
+        "name": "Home Warranty"
+      }
+    ],
+    "logo": "285751",
+    "logoUrl": "/images/connections/hwi-logo-4color-rev08-15-stacked.png"
+  },
+  {
+    "id": "matthew-graham",
+    "title": "Matthew Graham",
+    "organization": "Home Mortgage Group",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3608 S. Campbell Ave.",
+    "addressLine2": "",
+    "phoneNumber": "417-209-8532",
+    "emailAddress": "mattgraham@hmglending.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285849",
+    "logoUrl": "/images/connections/Home-Mortgage-Group.png"
+  },
+  {
+    "id": "matthew-racz",
+    "title": "Matthew Racz",
+    "organization": "Solid Rock Septic, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-597-0941",
+    "emailAddress": "matthewracz@yahoo.com",
+    "url": "www.solidrocksepticinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285754",
+    "logoUrl": "/images/connections/solid-rock.jpg"
+  },
+  {
+    "id": "matthew-vickers",
+    "title": "Matthew Vickers",
+    "organization": "MovePerfect",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3425 N 21st Street",
+    "addressLine2": "",
+    "phoneNumber": "417-412-0482",
+    "emailAddress": "matt@moveperfectmovers.com",
+    "url": "moveperfectmovers.com",
+    "categories": [
+      {
+        "slug": "moving-and-storage",
+        "name": "Moving and Storage"
+      }
+    ],
+    "logo": "285755",
+    "logoUrl": "/images/connections/move-perfect.jpg"
+  },
+  {
+    "id": "megan-bise",
+    "title": "Megan Bise",
+    "organization": "Ardellis Estate Sales",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4150 E Crighton Pl",
+    "addressLine2": "",
+    "phoneNumber": "417-209-0872",
+    "emailAddress": "ardellisllc@gmail.com",
+    "url": "",
+    "categories": [],
+    "logo": "285756",
+    "logoUrl": "/images/connections/ardellis-estate.jpeg"
+  },
+  {
+    "id": "melody-gammon",
+    "title": "Melody Gammon",
+    "organization": "Arvest Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4140 S. Fremont",
+    "addressLine2": "Suite 100",
+    "phoneNumber": "417-885-7320",
+    "emailAddress": "mgammon@arvest.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285718",
+    "logoUrl": "/images/connections/ArvestBank_logo.png"
+  },
+  {
+    "id": "michael-frerking",
+    "title": "Michael Frerking",
+    "organization": "Guaranty Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1341 W. Battlefield",
+    "addressLine2": "",
+    "phoneNumber": "(417) 885-0509",
+    "emailAddress": "mfrerking@gbankmo.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285757",
+    "logoUrl": "/images/connections/OMB-Color-NoTag.webp"
+  },
+  {
+    "id": "michael-rodhouse",
+    "title": "Michael Rodhouse",
+    "organization": "417 Rekey",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2733 E. Battlefield Rd",
+    "addressLine2": "Ste. 128",
+    "phoneNumber": "(417) 689-7034",
+    "emailAddress": "",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      },
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285739",
+    "logoUrl": "/images/connections/417-rekey.png"
+  },
+  {
+    "id": "michele-boswell",
+    "title": "Michele Boswell",
+    "organization": "Hogan Land Title",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1605 E Sunshine St",
+    "addressLine2": "",
+    "phoneNumber": "(417) 882-3000",
+    "emailAddress": "mboswell@hogantitle.com",
+    "url": "collegiateawards.com",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285758",
+    "logoUrl": "/images/connections/Hogan-Logo-Evolution.png"
+  },
+  {
+    "id": "mike-sportsman",
+    "title": "Mike Sportsman",
+    "organization": "The House Doctors",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "420 E. Old Bitter Sweet",
+    "addressLine2": "",
+    "phoneNumber": "(417) 209-3640",
+    "emailAddress": "msportsman1070@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285760",
+    "logoUrl": "/images/connections/house-doctors.jpg"
+  },
+  {
+    "id": "myla-picker",
+    "title": "Myla Picker",
+    "organization": "Synergy Wealth Solutions",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3253 E Chestnut Expwy",
+    "addressLine2": "#13",
+    "phoneNumber": "573-263-5979",
+    "emailAddress": "mylapicker@financialguide.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285761",
+    "logoUrl": "/images/connections/synergy.png"
+  },
+  {
+    "id": "nathan-skinner",
+    "title": "Nathan Skinner",
+    "organization": "Skinner Roofing, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1823 W Sunset St",
+    "addressLine2": "",
+    "phoneNumber": "417-848-0088",
+    "emailAddress": "nathan@skinner-roofing.com",
+    "url": "skinnerroofingllc.com",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "285762",
+    "logoUrl": "/images/connections/skinner.png"
+  },
+  {
+    "id": "nathaniel-berry",
+    "title": "Nathaniel Berry",
+    "organization": "Berry Home Inspections, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4192 N. FR 101",
+    "addressLine2": "",
+    "phoneNumber": "417-861-2983",
+    "emailAddress": "scottberryfishing@hotmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285763",
+    "logoUrl": "/images/connections/berry.jpg"
+  },
+  {
+    "id": "nick-calvert",
+    "title": "Nick Calvert",
+    "organization": "Computer Geeks",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "311 E Sunshine St",
+    "addressLine2": "",
+    "phoneNumber": "417-889-4335",
+    "emailAddress": "ncalvert@springfieldgeeks.com",
+    "url": "springfieldgeeks.com",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285764",
+    "logoUrl": "/images/connections/computer-geeks-logo.png"
+  },
+  {
+    "id": "pamela-hernandez",
+    "title": "Pamela Hernandez",
+    "organization": "Better Business Bureau",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "405 N Jefferson Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-380-5074",
+    "emailAddress": "phernandez@springfieldbbb.org",
+    "url": "bbb.org",
+    "categories": [],
+    "logo": "285765",
+    "logoUrl": "/images/connections/BBB.jpg"
+  },
+  {
+    "id": "paul-garrison",
+    "title": "Paul Garrison",
+    "organization": "The Junk Pirates, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-815-5865",
+    "emailAddress": "paul@thejunkpirates.com",
+    "url": "http://www.thejunkpirates.com",
+    "categories": [
+      {
+        "slug": "junk-removal",
+        "name": "Junk Removal"
+      }
+    ],
+    "logo": "285766",
+    "logoUrl": "/images/connections/junk-pirates.png"
+  },
+  {
+    "id": "peter-coss",
+    "title": "Peter Coss",
+    "organization": "Coss Carpet and Air Duct Cleaning",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1928 Stargrass Rd",
+    "addressLine2": "",
+    "phoneNumber": "417-582-0550",
+    "emailAddress": "cosscarpet@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285767",
+    "logoUrl": "/images/connections/coss.png"
+  },
+  {
+    "id": "preston-taylor",
+    "title": "Preston Taylor",
+    "organization": "Beacon Protection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "41 Vreeland Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-553-0600",
+    "emailAddress": "ptaylor@beaconprotection.com",
+    "url": "beaconprotection.com",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285768",
+    "logoUrl": "/images/connections/beacon.jpg"
+  },
+  {
+    "id": "rachel-pharis",
+    "title": "Rachel Pharis",
+    "organization": "Domestic Management Services",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "404 South St",
+    "addressLine2": "",
+    "phoneNumber": "417-871-9641",
+    "emailAddress": "rachel-rae@live.com",
+    "url": "domesticmanagementservices.com",
+    "categories": [
+      {
+        "slug": "miscellaneous",
+        "name": "Miscellaneous"
+      }
+    ],
+    "logo": "285771",
+    "logoUrl": "/images/connections/IMG_4008.jpg"
+  },
+  {
+    "id": "rejeanna-williams",
+    "title": "Rejeanna Williams",
+    "organization": "Renovation Sells Ozarks",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2726 Lawrence 2210, Pierce City, Missouri 65723",
+    "addressLine2": "",
+    "phoneNumber": "417-489-9862",
+    "emailAddress": "rejeanna@renovationsells.com",
+    "url": "https://renovationsells.com/location/ozarks/",
+    "categories": [
+      {
+        "slug": "home-improvement-services",
+        "name": "Home Improvement Services"
+      }
+    ],
+    "logo": "286055",
+    "logoUrl": "/images/connections/RenovationSells_PrimaryLogo_RenoBlue-13.jpg"
+  },
+  {
+    "id": "rick-stein",
+    "title": "Rick Stein",
+    "organization": "R&amp;L Envirocare",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "11767 N. Farm Rd 231",
+    "addressLine2": "",
+    "phoneNumber": "(417) 942-2451",
+    "emailAddress": "rstein@patriotcomfortsystems.com",
+    "url": "",
+    "categories": [],
+    "logo": "285772",
+    "logoUrl": "/images/connections/RL-logo-copy-2-e1641254329686.jpg"
+  },
+  {
+    "id": "robert-mcclernon",
+    "title": "Robert McClernon",
+    "organization": "Extra Mile Home Insp. Services",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2061 W. Union Chapel Rd.",
+    "addressLine2": "",
+    "phoneNumber": "(417) 724-0062",
+    "emailAddress": "extramilerobert@gmail.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285674",
+    "logoUrl": "/images/connections/extra-mile.webp"
+  },
+  {
+    "id": "ruth-daniels",
+    "title": "Ruth Daniels",
+    "organization": "Sixty5 Self Storage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2107 S Eastgate Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-879-6565",
+    "emailAddress": "ruth@sixty5storage.com",
+    "url": "sixty5storage.com",
+    "categories": [
+      {
+        "slug": "moving-and-storage",
+        "name": "Moving and Storage"
+      }
+    ],
+    "logo": "285773",
+    "logoUrl": "/images/connections/sixty5-storage-logo2.png"
+  },
+  {
+    "id": "sandy-thompson",
+    "title": "Sandy Thompson",
+    "organization": "Mid-Missouri Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-851-4761",
+    "emailAddress": "sthompson@midmobank.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285701",
+    "logoUrl": "/images/connections/midmo-bank.png"
+  },
+  {
+    "id": "sarah-cook",
+    "title": "Sarah Cook",
+    "organization": "Mid-Missouri Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-851-4761",
+    "emailAddress": "scook@midmobank.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285701",
+    "logoUrl": "/images/connections/midmo-bank.png"
+  },
+  {
+    "id": "scott-davis",
+    "title": "Scott Davis",
+    "organization": "BancorpSouth, a division of Cadence Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2620 E. Sunshine St.",
+    "addressLine2": "",
+    "phoneNumber": "(417) 823-3135",
+    "emailAddress": "scott.davis@cadencebank.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285157",
+    "logoUrl": "/images/connections/Cadence-Logo-1-061ee538a4db7c389d73bb8f877196f3.jpg"
+  },
+  {
+    "id": "scott-sallee",
+    "title": "Scott Sallee",
+    "organization": "Flat Branch Home Loans",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4350 S. National Ave, Ste A-100",
+    "addressLine2": "",
+    "phoneNumber": "(417) 877-4010",
+    "emailAddress": "ssallee@fbhl.com",
+    "url": "417homeloans.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285775",
+    "logoUrl": "/images/connections/417-flat-branch.jpg"
+  },
+  {
+    "id": "shay-morton",
+    "title": "Shay Morton",
+    "organization": "Lower Local",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "2530 S. Campbell Ave #1 Suit 130",
+    "addressLine2": "",
+    "phoneNumber": "417-849-2430",
+    "emailAddress": "smorton@lower.com",
+    "url": "https://local.lower.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285797",
+    "logoUrl": "/images/connections/lower-local-logo.svg"
+  },
+  {
+    "id": "sonny-koahou",
+    "title": "Sonny Koahou",
+    "organization": "First Command Financial Planning",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "4502 N. 16th St",
+    "addressLine2": "",
+    "phoneNumber": "573-279-3113",
+    "emailAddress": "SAKoahou@firstcommand.com",
+    "url": "advisor.firstcommand.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285776",
+    "logoUrl": "/images/connections/First_Command_logo_RGB_outline.jpg"
+  },
+  {
+    "id": "stephanie-staggs",
+    "title": "Stephanie Staggs",
+    "organization": "Staggs Financial Services",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "5510 S Roanoke Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-501-5450",
+    "emailAddress": "stephanie_staggs@glic.com",
+    "url": "staggsfinancialservices.com",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285777",
+    "logoUrl": "/images/connections/StaggsGoogleLogo.jpg"
+  },
+  {
+    "id": "stephanie-sweet",
+    "title": "Stephanie Sweet",
+    "organization": "Great Southern Bank - Primrose",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1520 E Primrose Ave",
+    "addressLine2": "",
+    "phoneNumber": "417-888-5826",
+    "emailAddress": "ssweet@greatsouthernbank.com",
+    "url": "sweethomelending.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285749",
+    "logoUrl": "/images/connections/great-southern.jpg"
+  },
+  {
+    "id": "steve-mirowski",
+    "title": "Steve Mirowski",
+    "organization": "Mirowski Inspections, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1500 E St Louis St",
+    "addressLine2": "",
+    "phoneNumber": "(417) 873-9517",
+    "emailAddress": "stevemirowski@gmail.com",
+    "url": "mirowskiinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285525",
+    "logoUrl": null
+  },
+  {
+    "id": "steven-greer",
+    "title": "Steven Greer",
+    "organization": "Pillar to Post",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-731-2774",
+    "emailAddress": "steven.greer@pillartopost.com",
+    "url": "http://www.pillartopost.com/stevengreer",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285778",
+    "logoUrl": "/images/connections/pillar-to-post.jpg"
+  },
+  {
+    "id": "steven-scott",
+    "title": "Steven Scott",
+    "organization": "Mirowski Inspections, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-873-9517",
+    "emailAddress": "steves@mhi-llc.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285525",
+    "logoUrl": null
+  },
+  {
+    "id": "tammy-sawyers",
+    "title": "Tammy Sawyers",
+    "organization": "WACO Title",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1517 E. Bradford Parkway",
+    "addressLine2": "",
+    "phoneNumber": "417-889-1818",
+    "emailAddress": "tasawyers@wacotitle.com",
+    "url": "wacotitle.com",
+    "categories": [
+      {
+        "slug": "title",
+        "name": "Title"
+      }
+    ],
+    "logo": "285779",
+    "logoUrl": "/images/connections/waco-title.png"
+  },
+  {
+    "id": "terry-campbell",
+    "title": "Terry Campbell",
+    "organization": "Campbell Pest Control",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "651 W. Brower",
+    "addressLine2": "",
+    "phoneNumber": "(417) 831-0444",
+    "emailAddress": "campbell_pc@yahoo.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285780",
+    "logoUrl": "/images/connections/campbell-pest.png"
+  },
+  {
+    "id": "terry-kent",
+    "title": "Terry Kent",
+    "organization": "Dwell Imaging",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-861-0275",
+    "emailAddress": "info@dwellimaging.com",
+    "url": "http://www.sendingyouhome.com",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285664",
+    "logoUrl": "/images/connections/DwellHeadshot.jpg"
+  },
+  {
+    "id": "thomas-crone",
+    "title": "Thomas Crone",
+    "organization": "Heart Of A Home Inspections",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1517 S. Saint Charles Ave, Springfield, MO 65804",
+    "addressLine2": "",
+    "phoneNumber": "417-340-3633",
+    "emailAddress": "hoahinspections@outlook.com",
+    "url": "hoahinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "tim-prater",
+    "title": "Tim Prater",
+    "organization": "BancorpSouth, a division of Cadence Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3939 S Fremont Ave",
+    "addressLine2": "",
+    "phoneNumber": "(417) 730-8024",
+    "emailAddress": "tim.prater@bxs.com",
+    "url": "timothyprater.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285781",
+    "logoUrl": "/images/connections/bancorpsouth-cadence-bank-logo-920x615-1.jpg"
+  },
+  {
+    "id": "tim-pryor",
+    "title": "Tim Pryor",
+    "organization": "Mirowski Inspections, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-873-9517",
+    "emailAddress": "tim@mhi-llc.com",
+    "url": "http://www.mirowskiinspections.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285525",
+    "logoUrl": null
+  },
+  {
+    "id": "todd-watson",
+    "title": "Todd Watson",
+    "organization": "Watson Media House",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "31 Dorsett Ln",
+    "addressLine2": "",
+    "phoneNumber": "417-824-1894",
+    "emailAddress": "contact@watsonmediahouse.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285523",
+    "logoUrl": null
+  },
+  {
+    "id": "tracy-covarrubias",
+    "title": "Tracy Covarrubias",
+    "organization": "Highlands Residential Mortgage",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "925-595-5096",
+    "emailAddress": "tcovarrubias@highlandsmortgage.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285785",
+    "logoUrl": "/images/connections/HRM-logo-color-2023.webp"
+  },
+  {
+    "id": "travis-atwell",
+    "title": "Travis Atwell",
+    "organization": "The Radon Company",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1424 S. Atlas Ct",
+    "addressLine2": "",
+    "phoneNumber": "(417) 576-1980",
+    "emailAddress": "travis@theradonco.com",
+    "url": "theradonco.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285786",
+    "logoUrl": "/images/connections/radon-llc.png"
+  },
+  {
+    "id": "travis-sullivan",
+    "title": "Travis Sullivan",
+    "organization": "Watson Media House",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "31 Dorsett Ln",
+    "addressLine2": "",
+    "phoneNumber": "4178241894",
+    "emailAddress": "travis@watsonmediahouse.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "photography-and-media",
+        "name": "Photography and Media"
+      }
+    ],
+    "logo": "285523",
+    "logoUrl": null
+  },
+  {
+    "id": "tyler-williams",
+    "title": "Tyler Williams",
+    "organization": "We Move Junk",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1873 State Hwy CC",
+    "addressLine2": "",
+    "phoneNumber": "417-708-3525",
+    "emailAddress": "tyler@wemovejunk.com",
+    "url": "wemovejunk.com",
+    "categories": [
+      {
+        "slug": "junk-removal",
+        "name": "Junk Removal"
+      },
+      {
+        "slug": "moving-and-storage",
+        "name": "Moving and Storage"
+      }
+    ],
+    "logo": "285787",
+    "logoUrl": "/images/connections/WeMoveLogo-1.png"
+  },
+  {
+    "id": "vincent-tantone",
+    "title": "Vincent Tantone",
+    "organization": "Method",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "634 E. Rosewood St.",
+    "addressLine2": "",
+    "phoneNumber": "(417) 830-1201",
+    "emailAddress": "",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285681",
+    "logoUrl": "/images/connections/method.jpg"
+  },
+  {
+    "id": "w-baker",
+    "title": "W. Baker",
+    "organization": "Infinity Commercial Capital, LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "5919 S. Northern Ridge Rd",
+    "addressLine2": "",
+    "phoneNumber": "617-386-7145",
+    "emailAddress": "kbaker@infinitycommcapital.com",
+    "url": "InfinityCommCapital.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285789",
+    "logoUrl": "/images/connections/infinity.jpg"
+  },
+  {
+    "id": "wendy-mccurdy",
+    "title": "Wendy McCurdy",
+    "organization": "Guaranty Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "1341 W. Battlefield Rd",
+    "addressLine2": "",
+    "phoneNumber": "(417) 885-0504",
+    "emailAddress": "wmccurdy@gbankmo.com",
+    "url": "gbankmo.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "285790",
+    "logoUrl": "/images/connections/GB-Logo-Blue2193-H-base-1.png"
+  },
+  {
+    "id": "wesley-smith",
+    "title": "Wesley Smith",
+    "organization": "Coltrane Inspection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "180 Lake Club Drive, 39-21, Branson, Missouri 65616",
+    "addressLine2": "",
+    "phoneNumber": "417-699-1394",
+    "emailAddress": "wes@coltraneinspects.com",
+    "url": "www.coltraneinspects.com",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": null,
+    "logoUrl": null
+  },
+  {
+    "id": "william-jones",
+    "title": "William Jones",
+    "organization": "Handy’s Home Inspection",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "phoneNumber": "417-942-0635",
+    "emailAddress": "",
+    "url": "hhinspection.net",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285791",
+    "logoUrl": "/images/connections/handys-logopng-1614201834.webp"
+  },
+  {
+    "id": "william-mcintosh",
+    "title": "William McIntosh",
+    "organization": "Affordable Property Inspections LLC",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "734 W Kearney St",
+    "addressLine2": "",
+    "phoneNumber": "417-459-7008",
+    "emailAddress": "affordablepropertyinspections@yahoo.com",
+    "url": "affordablepropertyinspections.net",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285792",
+    "logoUrl": "/images/connections/Affordable-Property-Inspections-missouri-logo.png"
+  },
+  {
+    "id": "william-myers",
+    "title": "William Myers",
+    "organization": "Campbell Pest Control",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "651 W. Brower",
+    "addressLine2": "",
+    "phoneNumber": "(417) 831-0444",
+    "emailAddress": "campbell_pc@yahoo.com",
+    "url": "",
+    "categories": [
+      {
+        "slug": "inspection-services",
+        "name": "Inspection Services"
+      }
+    ],
+    "logo": "285780",
+    "logoUrl": "/images/connections/campbell-pest.png"
+  },
+  {
+    "id": "285634",
+    "title": "William Thomas",
+    "organization": "New York Life",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "3250 E. Sunshine St., Ste 300",
+    "addressLine2": "Springfield, Missouri",
+    "phoneNumber": "417-300-4832",
+    "emailAddress": "wdthomas@ft.newyorklife.com",
+    "url": "https://www.newyorklife.com/agent/wdthomas",
+    "categories": [
+      {
+        "slug": "insurance",
+        "name": "Insurance"
+      }
+    ],
+    "logo": "285793",
+    "logoUrl": "/images/connections/William-Thomas-3.pdf"
+  },
+  {
+    "id": "zach-miller",
+    "title": "Zach Miller",
+    "organization": "Wood &amp; Huston Bank",
+    "firstName": "",
+    "lastName": "",
+    "addressLine1": "204 W Primrose St Springfield, MO 65807",
+    "addressLine2": "",
+    "phoneNumber": "(417) 861-0307",
+    "emailAddress": "gozachmiller@gmail.com",
+    "url": "woodhuston.com",
+    "categories": [
+      {
+        "slug": "finance",
+        "name": "Finance"
+      }
+    ],
+    "logo": "286044",
+    "logoUrl": null
+  }
+]

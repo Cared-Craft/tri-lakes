@@ -1,0 +1,247 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# GSBOR Site Design Guide
+
+## Design Philosophy
+
+The Greater Springfield Board of REALTORS® website embodies **professional elegance with approachable warmth**. The design balances corporate credibility with human connection, reflecting the organization's 90+ year legacy while maintaining modern accessibility and user experience standards.
+
+## Visual Identity
+
+### Color Palette
+
+**Primary Colors:**
+- `primary-900`: #000000 (Deep navy/black for high-contrast text)
+- `primary-800`: #111620 (Dark navy for backgrounds)
+- `primary-700`: #18253b (Primary action color)
+- `primary-600`: #1d3557 (Core brand navy)
+- `primary-500`: #1d3557 (Default primary)
+- `primary-400`: #1d3557 (Medium navy)
+- `primary-300`: #55627e (Light navy)
+- `primary-200`: #8b93a7 (Muted blue-gray)
+- `primary-100`: #c4c8d2 (Very light blue-gray)
+- `primary-50`: #ffffff (White)
+
+**Secondary Colors:**
+- `secondary-700`: #24665d (Dark teal)
+- `secondary-500`: #2a9d8f (Core teal - trust and stability)
+- `secondary-400`: #2a9d8f (Medium teal)
+
+**Accent Colors:**
+- `tertiary-500`: #000000 (Pure black for contrast)
+- `accent-500`: #e9c46a (Warm gold for highlights)
+- Green CTA: #139E78 (Vibrant green for primary actions)
+
+### Typography
+
+**Font Stack:**
+- **Headings**: Poppins, Montserrat, Inter (Google Fonts)
+- **Body**: Inter (primary), Poppins (secondary)
+- **Weights**: 400 (normal), 500 (medium), 600 (semibold), 700 (bold)
+
+**Typography Hierarchy:**
+- **Hero Headlines**: 5xl-6xl (48-60px), font-light with font-medium spans
+- **Section Headlines**: 3xl-4xl (30-36px), font-light with font-extrabold spans
+- **Card Titles**: xl-2xl (20-24px), font-medium
+- **Body Text**: base-lg (16-18px), leading-relaxed
+- **Captions**: sm (14px), text-gray-600
+
+## Layout Patterns
+
+### Grid System
+- **Container**: `container mx-auto px-6` (max-width with responsive padding)
+- **Hero Layout**: Two-column grid (`grid-cols-1 lg:grid-cols-2`) with 16-unit gap
+- **Content Sections**: Three-column grid (`md:grid-cols-3`) for cards and features
+- **Apple-style Showcase**: Two-column grid (`md:grid-cols-2`) with minimal gaps
+
+### Spacing Scale
+- **Section Padding**: `py-16` to `py-24` (64-96px vertical)
+- **Component Spacing**: `gap-8` to `gap-16` (32-64px)
+- **Element Margins**: `mb-6` to `mb-16` (24-64px)
+- **Inner Padding**: `p-6` to `p-8` (24-32px)
+
+## Component Patterns
+
+### Hero Section Architecture
+```
+Hero Structure:
+├── Layered Background System
+│   ├── Base gradient (white to primary-50)
+│   ├── Opacity overlay (gray-50/80)
+│   ├── Hero image (opacity-10)
+│   └── Subtle grid pattern (opacity-5)
+├── Content Grid (2-column)
+│   ├── Text Content (order-2 lg:order-1)
+│   └── Visual Content (order-1 lg:order-2)
+└── Stats Bar (backdrop-blur card)
+```
+
+**Key Elements:**
+- **Layered backgrounds** with multiple opacity overlays
+- **Floating decorative elements** with blur effects
+- **Backdrop-blur cards** for modern glass-morphism
+- **Transform hover effects** (scale-[1.02])
+- **Rounded corners** consistently use `rounded-xl` to `rounded-2xl`
+
+### Card Design System
+
+**Standard Card Pattern:**
+```css
+.card-base {
+  @apply bg-white rounded-xl shadow-sm;
+  @apply transform hover:scale-[1.02] transition-all duration-500;
+}
+
+.card-elevated {
+  @apply bg-white/80 backdrop-blur-md rounded-2xl;
+  @apply shadow-xl border border-primary-700/30;
+}
+
+.card-dark {
+  @apply bg-primary-800/40 backdrop-blur-md rounded-2xl;
+  @apply border border-primary-700/30 shadow-xl;
+}
+```
+
+### Button System
+
+**Primary Actions:**
+- Solid primary buttons: `bg-primary-700 hover:bg-primary-800`
+- Rounded corners: `rounded-full` for CTAs, `rounded-md` for forms
+- Consistent padding: `px-8 py-3` for large, `px-4 py-2` for medium
+
+**Secondary Actions:**
+- Outline style with backdrop-blur: `bg-white/80 backdrop-blur-sm`
+- Link style with chevron icons for "Learn more" actions
+
+## Visual Effects & Interactions
+
+### Backdrop Effects
+- **Glass-morphism**: `bg-white/80 backdrop-blur-md`
+- **Dark glass**: `bg-primary-800/50 backdrop-blur-sm`
+- **Overlay gradients**: `bg-gradient-to-t from-primary-900/40 to-transparent`
+
+### Decorative Elements
+- **Floating blurred circles**: Positioned absolutely with `blur-3xl`
+- **Gradient overlays**: Multi-layer gradients for depth
+- **Pattern grids**: Subtle `pattern-grid` class with 20px spacing
+- **Transform effects**: `hover:scale-[1.02]` for cards, `group-hover:translate-x-1` for icons
+
+### Animation Principles
+- **Duration**: `duration-500` for major transitions, `duration-300` for micro-interactions
+- **Easing**: Default Tailwind easing (ease-in-out)
+- **Hover states**: Consistent scale and shadow changes
+- **Focus states**: Ring-based focus indicators
+
+## Section Design Patterns
+
+### 1. Hero Section
+- **Background**: Layered with image, gradients, and patterns
+- **Layout**: Asymmetric two-column with visual hierarchy
+- **CTA Placement**: Primary and secondary buttons side-by-side
+- **Stats Integration**: Floating stats bar with backdrop-blur
+
+### 2. About Section (Dark Theme)
+- **Background**: Dark primary with decorative elements
+- **Content**: Side-by-side text and image card
+- **Typography**: Light font weights with bold spans
+- **Links**: Underline-on-hover with chevron icons
+
+### 3. Events Section (Light Theme)
+- **Background**: Clean white with subtle shadows
+- **Layout**: Three-column card grid
+- **Images**: Consistent aspect ratios with gradient overlays
+- **Actions**: Link-style buttons with trailing icons
+
+### 4. Apple-Inspired Membership Section
+- **Background**: Gradient from gray-100 to white
+- **Cards**: Large rounded corners (`rounded-[2rem]`)
+- **Layout**: 2x2 grid with consistent spacing
+- **CTA**: Full-width green banner with decorative background
+
+### 5. Real Estate Areas (Dark Theme)
+- **Background**: Rich dark with multiple decorative elements
+- **Cards**: Transparent dark cards with hover glow effects
+- **Icons**: Lucide icons with consistent sizing
+- **Spacing**: Generous padding for breathing room
+
+## Image Treatment
+
+### Image Specifications
+- **Aspect Ratios**: 16:9 for hero images, 4:3 for cards
+- **Quality**: High-resolution Unsplash images (800px+ width)
+- **Overlays**: Gradient overlays for text readability
+- **Hover Effects**: Subtle scale transforms (`hover:scale-105`)
+
+### Image Sources Pattern
+- Real estate photography from Unsplash
+- Professional, modern aesthetic
+- Consistent color grading (warm, inviting tones)
+- Focus on architectural details and lifestyle
+
+## Responsive Design Principles
+
+### Breakpoint Strategy
+- **Mobile-first**: Base styles for mobile, enhance for larger screens
+- **Key breakpoints**: `md:` (768px), `lg:` (1024px), `xl:` (1280px)
+- **Grid adaptation**: Single column on mobile, multi-column on desktop
+- **Typography scaling**: Responsive text sizes with `text-base md:text-lg`
+
+### Mobile Optimizations
+- **Touch targets**: Minimum 44px for buttons
+- **Spacing reduction**: Smaller padding and margins on mobile
+- **Image stacking**: Vertical layout for image-text combinations
+- **Navigation**: Simplified mobile navigation patterns
+
+## Accessibility Standards
+
+### Color Contrast
+- **Text on white**: Minimum 4.5:1 ratio (primary-700 and darker)
+- **Text on dark**: White text on primary-800+ backgrounds
+- **Interactive elements**: Clear focus states with ring utilities
+
+### Typography Accessibility
+- **Line height**: `leading-relaxed` (1.625) for body text
+- **Font sizes**: Minimum 16px for body text
+- **Hierarchy**: Clear heading structure (h1-h6)
+
+## Brand Voice in Design
+
+### Visual Personality
+- **Professional**: Clean layouts, consistent spacing, quality imagery
+- **Trustworthy**: Dark navy primary color, established typography
+- **Approachable**: Rounded corners, warm accent colors, friendly imagery
+- **Modern**: Backdrop-blur effects, subtle animations, contemporary layouts
+
+### Content Presentation
+- **Hierarchy**: Clear information architecture with visual weight
+- **Scannability**: Generous whitespace, bullet points, clear sections
+- **Credibility**: Statistics prominently displayed, professional photography
+- **Action-oriented**: Clear CTAs with descriptive button text
+
+## Implementation Guidelines
+
+### CSS Architecture
+- **Utility-first**: Tailwind CSS v4 with custom color variables
+- **Component classes**: Minimal custom CSS, prefer utility combinations
+- **Responsive utilities**: Mobile-first responsive design
+- **Custom properties**: CSS variables for brand colors
+
+### Performance Considerations
+- **Image optimization**: WebP format, lazy loading, size attributes
+- **Animation performance**: Transform and opacity changes only
+- **Bundle optimization**: Code splitting for non-critical components
+- **Loading states**: Suspense boundaries with fallback UI
+
+### Maintenance Standards
+- **Consistency**: Reuse established patterns and components
+- **Documentation**: Comment complex utility combinations
+- **Testing**: Cross-browser and device testing for all components
+- **Accessibility**: Regular accessibility audits and testing
+
+---
+
+*This design guide serves as the foundation for all GSBOR website pages. When creating new pages or components, reference these patterns to maintain visual consistency and brand integrity.*
