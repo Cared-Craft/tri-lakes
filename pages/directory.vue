@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <HeroSection
       title="Member Directory"
-      subtitle="Search our comprehensive member directory to find REALTOR® professionals in the Greater Springfield area."
+      subtitle="Search our comprehensive member directory to find REALTOR® professionals in the Tri-Lakes area."
       variant="compact"
       class="bg-gradient-to-r from-blue-900 to-blue-700"
     />
@@ -23,7 +23,7 @@
       <div class="bg-white rounded-lg shadow-lg overflow-hidden">
         <div class="p-4 bg-gray-50 border-b">
           <h2 class="text-xl font-semibold text-gray-900">
-            GSBOR Member Search Portal
+            Member Search Portal
           </h2>
           <p class="text-sm text-gray-600 mt-1">
             Use the search tools below to find REALTOR® professionals in our
@@ -34,9 +34,9 @@
         <!-- Iframe Container -->
         <div class="relative" style="height: 1000px">
           <iframe
-            src="https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx"
+            src="#"
             class="w-full h-full border-0"
-            title="GSBOR Member Directory Search"
+            title="Member Directory Search"
             loading="lazy"
             sandbox="allow-scripts allow-same-origin allow-forms allow-top-navigation"
           />
@@ -107,7 +107,7 @@
           Prefer to access the directory in a new window?
         </p>
         <a
-          href="https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           class="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors"
@@ -135,12 +135,12 @@
 <script setup lang="ts">
 // SEO Meta
 useSeoMeta({
-  title: "Member Directory - Greater Springfield Board of Realtors",
+  title: "Member Directory - Tri-Lakes Board of Realtors",
   description:
-    "Search our comprehensive member directory to find REALTOR® professionals in the Greater Springfield area.",
+    "Search our comprehensive member directory to find REALTOR® professionals in the Tri-Lakes area.",
   ogTitle: "Member Directory - Greater Springfield Board of Realtors",
   ogDescription:
-    "Search our comprehensive member directory to find REALTOR® professionals in the Greater Springfield area.",
+    "Search our comprehensive member directory to find REALTOR® professionals in the Tri-Lakes area.",
   ogType: "website",
 });
 
@@ -169,7 +169,7 @@ onMounted(() => {
           </div>
           <p class="text-gray-600 mb-4">Unable to load the member directory.</p>
           <a 
-            href="https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx" 
+            href="#" 
             target="_blank"
             class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
           >

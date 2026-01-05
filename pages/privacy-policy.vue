@@ -1,12 +1,12 @@
 <script setup lang="ts">
 // SEO metadata
 useHead({
- title: "Privacy Policy | GSBOR",
+  title: "Privacy Policy | Tri-Lakes Board of Realtors",
  meta: [
   {
    name: "description",
    content:
-    "GSBOR's privacy policy outlines how we collect, use, and protect your personal information.",
+    "Tri-Lakes Board of Realtors' privacy policy outlines how we collect, use, and protect your personal information.",
   },
  ],
 });
@@ -44,7 +44,7 @@ useHead({
        </h2>
 
        <p class="text-gray-700 leading-relaxed mb-6">
-        The Greater Springfield Board of REALTORS® (GSBOR) collects
+        The Tri-Lakes Board of Realtors collects
         information you provide when you use our website, including when
         you:
        </p>
@@ -75,7 +75,7 @@ useHead({
        <h3 class="text-2xl mb-4">Information Sharing</h3>
 
        <p class="text-gray-700 leading-relaxed mb-8">
-        GSBOR does not sell, trade, or otherwise transfer your personal
+        Tri-Lakes Board of Realtors does not sell, trade, or otherwise transfer your personal
         information to third parties without your consent, except as
         described in this policy or as required by law. We may share
         information with trusted service providers who assist us in
@@ -119,9 +119,9 @@ useHead({
          <p>
           <strong>Email:</strong>
           <a
-           href="mailto:support@gsbor.com"
+           href="mailto:sherri@tlbor.com"
            class="text-primary-600 hover:text-primary-800"
-           >support@gsbor.com</a
+           >sherri@tlbor.com</a
           >
          </p>
          <p>

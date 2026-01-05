@@ -66,8 +66,8 @@ interface Props {
 const props = withDefaults(defineProps<Props>(), {
  title: "Need Help?",
  description:
-  "Our support team is here to help you make the most of your GSBOR membership",
- email: "support@gsbor.com",
+  "Our support team is here to help you make the most of your Tri-Lakes Board of Realtors membership",
+  email: "sherri@tlbor.com",
  emailText: "Email Support",
  phone: "(417) 883-1226",
  variant: "gray",

@@ -1,11 +1,11 @@
 <script setup lang="ts">
 // SEO metadata
 useHead({
- title: "Terms of Use | GSBOR",
+  title: "Terms of Use | Tri-Lakes Board of Realtors",
  meta: [
   {
    name: "description",
-   content: "Read GSBOR's terms of use for our website and services.",
+    content: "Read Tri-Lakes Board of Realtors' terms of use for our website and services.",
   },
  ],
 });
@@ -44,7 +44,7 @@ useHead({
 
        <p class="text-gray-700 leading-relaxed mb-8">
         By accessing and using the Greater Springfield Board of
-        REALTORS® (GSBOR) website, you accept and agree to be bound by
+        Tri-Lakes Board of Realtors website, you accept and agree to be bound by
         the terms and provision of this agreement.
        </p>
 
@@ -52,7 +52,7 @@ useHead({
 
        <p class="text-gray-700 leading-relaxed mb-6">
         Permission is granted to temporarily download one copy of the
-        materials on GSBOR's website for personal, non-commercial
+        materials on Tri-Lakes Board of Realtors' website for personal, non-commercial
         transitory viewing only. This is the grant of a license, not a
         transfer of title, and under this license you may not:
        </p>
@@ -76,8 +76,8 @@ useHead({
        <h3 class="text-2xl mb-4">Disclaimer</h3>
 
        <p class="text-gray-700 leading-relaxed mb-8">
-        The materials on GSBOR's website are provided on an 'as is'
-        basis. GSBOR makes no warranties, expressed or implied, and
+        The materials on Tri-Lakes Board of Realtors' website are provided on an 'as is'
+        basis. Tri-Lakes Board of Realtors makes no warranties, expressed or implied, and
         hereby disclaims and negates all other warranties including
         without limitation, implied warranties or conditions of
         merchantability, fitness for a particular purpose, or
@@ -88,19 +88,19 @@ useHead({
        <h3 class="text-2xl mb-4">Limitations</h3>
 
        <p class="text-gray-700 leading-relaxed mb-8">
-        In no event shall GSBOR or its suppliers be liable for any
+        In no event shall Tri-Lakes Board of Realtors or its suppliers be liable for any
         damages (including, without limitation, damages for loss of data
         or profit, or due to business interruption) arising out of the
-        use or inability to use the materials on GSBOR's website, even
-        if GSBOR or an authorized representative has been notified
+        use or inability to use the materials on Tri-Lakes Board of Realtors' website, even
+        if Tri-Lakes Board of Realtors or an authorized representative has been notified
         orally or in writing of the possibility of such damage.
        </p>
 
        <h3 class="text-2xl mb-4">Accuracy of Materials</h3>
 
        <p class="text-gray-700 leading-relaxed mb-8">
-        The materials appearing on GSBOR's website could include
-        technical, typographical, or photographic errors. GSBOR does not
+        The materials appearing on Tri-Lakes Board of Realtors' website could include
+        technical, typographical, or photographic errors. Tri-Lakes Board of Realtors does not
         warrant that any of the materials on its website are accurate,
         complete, or current.
        </p>
@@ -108,16 +108,16 @@ useHead({
        <h3 class="text-2xl mb-4">Links</h3>
 
        <p class="text-gray-700 leading-relaxed mb-8">
-        GSBOR has not reviewed all of the sites linked to our website
+        Tri-Lakes Board of Realtors has not reviewed all of the sites linked to our website
         and is not responsible for the contents of any such linked site.
-        The inclusion of any link does not imply endorsement by GSBOR of
+        The inclusion of any link does not imply endorsement by Tri-Lakes Board of Realtors of
         the site.
        </p>
 
        <h3 class="text-2xl mb-4">Modifications</h3>
 
        <p class="text-gray-700 leading-relaxed mb-8">
-        GSBOR may revise these terms of service for its website at any
+        Tri-Lakes Board of Realtors may revise these terms of service for its website at any
         time without notice. By using this website, you are agreeing to
         be bound by the then current version of these terms of service.
        </p>
@@ -142,9 +142,9 @@ useHead({
          <p>
           <strong>Email:</strong>
           <a
-           href="mailto:support@gsbor.com"
+           href="mailto:sherri@tlbor.com"
            class="text-primary-600 hover:text-primary-800"
-           >support@gsbor.com</a
+           >sherri@tlbor.com</a
           >
          </p>
          <p>

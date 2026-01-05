@@ -18,8 +18,8 @@
                 <div>
                   <h3 class="font-semibold text-gray-900">Address</h3>
                   <p class="text-gray-600">
-                    1310 E Primrose St.<br />
-                    Springfield, MO 65804
+                    2875 State Hwy. 265<br />
+                    Branson, Missouri 65616
                   </p>
                 </div>
               </div>
@@ -30,10 +30,10 @@
                   <h3 class="font-semibold text-gray-900">Phone</h3>
                   <p class="text-gray-600">
                     <a
-                      href="tel:4178831226"
+                      href="tel:4173384555"
                       class="hover:text-primary-600 transition-colors"
                     >
-                      (417) 883-1226
+                      Main: 417-338-4555
                     </a>
                   </p>
                 </div>
@@ -45,10 +45,10 @@
                   <h3 class="font-semibold text-gray-900">Fax</h3>
                   <p class="text-gray-600">
                     <a
-                      href="tel:4175200977"
+                      href="tel:4173384387"
                       class="hover:text-primary-600 transition-colors"
                     >
-                      (417) 520-0977
+                      417-338-4387
                     </a>
                   </p>
                 </div>
@@ -57,15 +57,39 @@
               <div class="flex items-start">
                 <div class="text-primary text-xl mr-4">📧</div>
                 <div>
-                  <h3 class="font-semibold text-gray-900">Email</h3>
-                  <p class="text-gray-600">
-                    <a
-                      href="mailto:support@gsbor.com"
-                      class="hover:text-primary-600 transition-colors"
-                    >
-                      support@gsbor.com
-                    </a>
-                  </p>
+                  <h3 class="font-semibold text-gray-900 mb-2">Email</h3>
+                  <div class="space-y-2 text-gray-600">
+                    <div>
+                      <span class="font-medium">Sherri Cordell</span>
+                      <span class="text-sm text-gray-500"> (Association Executive/CEO)</span><br />
+                      <a
+                        href="mailto:sherri@tlbor.com"
+                        class="hover:text-primary-600 transition-colors"
+                      >
+                        sherri@tlbor.com
+                      </a>
+                    </div>
+                    <div>
+                      <span class="font-medium">Jake Lawrence</span>
+                      <span class="text-sm text-gray-500"> (Member Services/MLS Coordinator)</span><br />
+                      <a
+                        href="mailto:jake@tlbor.com"
+                        class="hover:text-primary-600 transition-colors"
+                      >
+                        jake@tlbor.com
+                      </a>
+                    </div>
+                    <div>
+                      <span class="font-medium">Shay Mouser</span>
+                      <span class="text-sm text-gray-500"> (Communications/Social Media Coordinator)</span><br />
+                      <a
+                        href="mailto:shay@tlbor.com"
+                        class="hover:text-primary-600 transition-colors"
+                      >
+                        shay@tlbor.com
+                      </a>
+                    </div>
+                  </div>
                 </div>
               </div>
 

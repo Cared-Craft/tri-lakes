@@ -6,6 +6,35 @@
     variant="compact"
   />
 
+  <!-- Communities Section -->
+  <section class="py-16 bg-gray-50">
+    <div class="container mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-light text-primary-900 mb-4">
+          Communities We Serve
+        </h2>
+        <p class="text-lg text-primary-700">
+          Explore information about the communities in the Tri-Lakes area.
+        </p>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+        <NuxtLink
+          v-for="city in cities"
+          :key="city.slug"
+          :to="`/consumers/${city.slug}`"
+          class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-6 group"
+        >
+          <h3 class="text-xl font-semibold text-gray-900 mb-2 group-hover:text-primary-600 transition-colors">
+            {{ city.name }}
+          </h3>
+          <p class="text-gray-600 text-sm">
+            Learn more about {{ city.name }}
+          </p>
+        </NuxtLink>
+      </div>
+    </div>
+  </section>
+
   <!-- REALTOR Directory Section -->
   <section class="py-16 bg-white">
     <div class="container mx-auto px-6">
@@ -18,7 +47,7 @@
           directory for trusted professionals in your area.
         </p>
         <Button
-          to="https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx?selmenid=men4"
+          to="/directory"
           color="primary"
           class="px-8 py-3 rounded-full shadow-lg hover:shadow-xl transition-all cursor-pointer"
           external
@@ -181,10 +210,10 @@
       <div class="max-w-3xl mx-auto">
         <div class="bg-gray-100 rounded-xl p-6 text-center">
           <h3 class="text-xl text-gray-900 mb-4">
-            While GSBOR cannot provide specific advice on buying or selling a home or recommend individual REALTORS®, we're here to help you get started.
+            While Tri-Lakes Board of Realtors cannot provide specific advice on buying or selling a home or recommend individual REALTORS®, we're here to help you get started.
           </h3>
           <p class="text-gray-700 mb-6 text-sm">
-            Use our REALTOR® directory above to connect with a licensed professional in our area. For questions about GSBOR or our services, please send us a message.
+            Use our REALTOR® directory above to connect with a licensed professional in our area. For questions about Tri-Lakes Board of Realtors or our services, please send us a message.
           </p>
           <Button
             to="/contact-us/"
@@ -230,12 +259,24 @@ import Button from "~/components/ui/Button.vue";
 
 // Page metadata
 definePageMeta({
-  title: "Buyers and Sellers - Greater Springfield Board of Realtors",
+  title: "Buyers and Sellers - Tri-Lakes Board of Realtors",
   description:
     "Resources for home buyers and sellers, affiliate directory, and expert guidance for your real estate needs.",
 });
 
 // Page data derived from JSON content
+const cities = [
+  { name: "Blue Eye", slug: "blue-eye" },
+  { name: "Branson", slug: "branson" },
+  { name: "Branson West", slug: "branson-west" },
+  { name: "Forsyth", slug: "forsyth" },
+  { name: "Hollister", slug: "hollister" },
+  { name: "Reeds Spring", slug: "reeds-spring" },
+  { name: "Lampe", slug: "lampe" },
+  { name: "Kimberling City", slug: "kimberling-city" },
+  { name: "Bradleyville", slug: "bradleyville" },
+];
+
 const pageData = {
   title: "Home Buyers and Sellers",
   description:
@@ -247,12 +288,12 @@ const affiliatesData = {
   description:
     "Check out some of our excellent affiliate members with a searchable affiliate directory.",
   ctaText: "View Affiliate Directory",
-  ctaLink: "https://gsbor.com/find-an-affiliate/",
+  ctaLink: "/find-an-affiliate",
 };
 
 const accessibilityData = {
   commitment:
-    "Greater Springfield Board of Realtors®, Inc. is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying relevant accessibility standards.",
+    "Tri-Lakes Board of Realtors®, Inc. is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying relevant accessibility standards.",
   contact:
     "If you have difficulty accessing content, have difficulty viewing a file on the website, or notice any accessibility problems, please contact us to specify the nature of the accessibility issue and any assistive technology you use. We will strive to provide the content you need in the format you require.",
 };

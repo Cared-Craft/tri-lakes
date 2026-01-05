@@ -8,7 +8,7 @@
       :cta-buttons="[
         {
           text: 'Member Portal Login',
-          link: 'https://gsborportal.ramcoams.net/Login.aspx?ReturnUrl=%2f',
+          link: '#',
           variant: 'primary',
         },
       ]"
@@ -30,25 +30,25 @@
           <PortalCard
             title="Member Portal"
             description="Access your member dashboard, directory, and account information"
-            link="https://gsborportal.ramcoams.net/Login.aspx?ReturnUrl=%2f"
+            link="#"
             cta-text="Login Now"
             variant="emerald"
             :external="true"
           />
 
           <PortalCard
-            title="GSBOR Dashboard"
+            title="Member Dashboard"
             description="Quick access to all your member resources and programs in one place"
-            link="http://dash.gsbor.com/"
+            link="#"
             cta-text="View Dashboard"
             variant="blue"
             :external="true"
           />
 
           <PortalCard
-            title="GSBOR Help Hub"
+            title="Help Hub"
             description="Get online support and access guides, FAQs, and help articles"
-            link="http://support.gsbor.com"
+            link="mailto:sherri@tlbor.com"
             cta-text="Get Support"
             variant="orange"
             :external="true"
@@ -65,7 +65,7 @@
             Upcoming <span>Events</span>
           </h2>
           <p class="text-gray-700 max-w-2xl mx-auto mb-8">
-            Check out upcoming GSBOR events and meetings.
+            Check out upcoming events and meetings.
           </p>
         </div>
 
@@ -89,7 +89,7 @@
             </Button>
             <div class="text-sm text-gray-600">
               <a
-                href="https://gsborportal.ramcoams.net/Meetings/RegisteredEvents.aspx?selmenid=men3"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="text-primary-600 hover:text-primary-800"
@@ -220,7 +220,7 @@
           <ResourceCard
             title="Member Directory"
             description="Search and connect with fellow REALTORS®"
-            link="https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx"
+            link="#"
             cta-text="Search Directory"
             variant="indigo"
             :external="true"
@@ -240,7 +240,7 @@
     <!-- Contact Support -->
     <SupportSection
       title="Need Help?"
-      description="Our support team is here to help you make the most of your GSBOR membership"
+      description="Our support team is here to help you make the most of your membership"
       variant="gray"
       :buttons="[
         { text: 'Contact Us', link: '/contact-us', variant: 'primary' },
@@ -252,13 +252,13 @@
 <script setup>
 // SEO Meta
 useSeoMeta({
-  title: "Current Members - Greater Springfield Board of Realtors",
+  title: "Current Members - Tri-Lakes Board of Realtors",
   description:
-    "Access member resources, tools, and support services including Supra key management, forms, political advocacy, and more.",
-  ogTitle: "Current Members - GSBOR",
+    "Access member resources, tools, and support services including political advocacy and more.",
+  ogTitle: "Current Members - Tri-Lakes Board of Realtors",
   ogDescription:
-    "Comprehensive member resources and services for GSBOR members.",
-  ogImage: "/images/index_GSBOR-Logo_2.jpg",
+    "Comprehensive member resources and services for Tri-Lakes Board of Realtors members.",
+  ogImage: "/images/logos/tri-lakes-logo.png",
   twitterCard: "summary_large_image",
 });
 </script>

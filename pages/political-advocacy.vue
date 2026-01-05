@@ -1,7 +1,7 @@
 <script setup lang="ts">
 // SEO metadata
 useHead({
-  title: "Political Advocacy - Greater Springfield Board of Realtors",
+  title: "Political Advocacy - Tri-Lakes Board of Realtors",
   meta: [
     {
       name: "description",
@@ -38,7 +38,7 @@ onMounted(() => {
           </div>
           <p class="text-gray-600 mb-4">Unable to load the RPAC contribution portal.</p>
           <a 
-            href="https://gsborportal.ramcoams.net/Login.aspx?ReturnUrl=%2fpac%2fhistory.aspx%3fselmenid%3dmen5&selmenid=men5" 
+            href="#" 
             target="_blank"
             class="inline-flex items-center px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700"
           >
@@ -58,9 +58,11 @@ onMounted(() => {
       <HeroSection
         title="Political Advocacy"
         subtitle="REALTOR® Political Action Committee"
-        description="Welcome to the REALTOR® Political Action Committee (RPAC) page. RPAC is designed to help promote the election of pro-REALTOR® candidates across the U.S."
+        description="Supporting pro-REALTOR® candidates and protecting the interests of real estate professionals since 1969."
         variant="compact"
       >
+        <!-- Image placeholder - add RPAC logo when available -->
+        <!--
         <template #visual>
           <div
             class="relative z-20 rounded-2xl overflow-hidden shadow-2xl mx-auto max-w-md"
@@ -75,25 +77,108 @@ onMounted(() => {
             ></div>
           </div>
         </template>
+        -->
       </HeroSection>
 
-      <!-- Realtor Party Section -->
-      <ContentSection
-        title="Realtor Party"
-        content="Our advocacy efforts represent GSBOR and the Missouri REALTOR® Party. We are the voice for real estate in our area and in partnership with the state association; working to protect REALTORS®, their business and the American Dream of homeownership. Our goal is to encourage property ownership, support small business and foster a vibrant real estate sector."
-        theme="light"
-        layout="default"
-        :image="{
-          src: '/images/political-advocacy_RealtorParty_4.svg',
-          alt: 'Realtor Party Logo',
-        }"
-        cardTitle="Missouri REALTOR® Party"
-        cardContent="Working together to protect REALTORS®, their business, and the American Dream of homeownership."
-        :ctaLink="{
-          to: 'https://www.missourirealtor.org/advocacy',
-          text: 'Learn More About Missouri REALTOR® Party',
-        }"
-      />
+      <!-- What is RPAC Section -->
+      <section class="py-16 bg-white">
+        <div class="container mx-auto px-6">
+          <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-light mb-8 text-gray-900">
+              What is RPAC?
+            </h2>
+            <div class="prose prose-lg max-w-none text-gray-700 space-y-6">
+              <p>
+                Since 1969, the REALTOR® Political Action Committee (RPAC) has promoted the election of pro-REALTOR® candidates across the United States. The purpose of RPAC is clear: REALTORS® raise and spend money to elect candidates who understand and support their interests.
+              </p>
+              <p>
+                The money to accomplish this comes from voluntary contributions made by REALTORS®. These are not members' dues; this is money given freely by REALTORS® in recognition of how important campaign fundraising is to the political process. RPAC doesn't buy votes. RPAC enables REALTORS® to support candidates that support the issues that are important to their profession and livelihood.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Reasons to Donate Section -->
+      <section class="py-16 bg-gray-50">
+        <div class="container mx-auto px-6">
+          <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-light mb-12 text-center text-gray-900">
+              Reasons to Donate to RPAC
+            </h2>
+            
+            <div class="space-y-8">
+              <!-- Reason 01 -->
+              <div class="bg-white rounded-xl shadow-sm p-8 border-l-4 border-primary-600">
+                <div class="flex items-start gap-6">
+                  <div class="flex-shrink-0">
+                    <span class="text-4xl font-light text-primary-600">01</span>
+                  </div>
+                  <div class="flex-1">
+                    <h3 class="text-2xl font-light mb-4 text-gray-900">
+                      To prevent a sales tax on services
+                    </h3>
+                    <p class="text-lg text-gray-700 leading-relaxed">
+                      Nearly every year government officials propose a 6 or 7 percent tax on REALTOR® commissions. RPAC is constantly protecting you from such a law.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Reason 02 -->
+              <div class="bg-white rounded-xl shadow-sm p-8 border-l-4 border-primary-600">
+                <div class="flex items-start gap-6">
+                  <div class="flex-shrink-0">
+                    <span class="text-4xl font-light text-primary-600">02</span>
+                  </div>
+                  <div class="flex-1">
+                    <h3 class="text-2xl font-light mb-4 text-gray-900">
+                      To protect against transfer taxes
+                    </h3>
+                    <p class="text-lg text-gray-700 leading-relaxed">
+                      A 5 percent transfer tax, which could not be financed into a mortgage, would cost $12,500 for a $250,000 house. This extra cost would prevent many would-be clients from becoming homeowners.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Reason 03 -->
+              <div class="bg-white rounded-xl shadow-sm p-8 border-l-4 border-primary-600">
+                <div class="flex items-start gap-6">
+                  <div class="flex-shrink-0">
+                    <span class="text-4xl font-light text-primary-600">03</span>
+                  </div>
+                  <div class="flex-1">
+                    <h3 class="text-2xl font-light mb-4 text-gray-900">
+                      To keep mortgage interest benefits
+                    </h3>
+                    <p class="text-lg text-gray-700 leading-relaxed">
+                      If the mortgage interest deduction was eliminated, the average REALTOR® would lose more than $7,000 in commissions. Every year RPAC works to maintain this tool for increasing homeownership.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Reason 04 -->
+              <div class="bg-white rounded-xl shadow-sm p-8 border-l-4 border-primary-600">
+                <div class="flex items-start gap-6">
+                  <div class="flex-shrink-0">
+                    <span class="text-4xl font-light text-primary-600">04</span>
+                  </div>
+                  <div class="flex-1">
+                    <h3 class="text-2xl font-light mb-4 text-gray-900">
+                      To reduce your liability
+                    </h3>
+                    <p class="text-lg text-gray-700 leading-relaxed">
+                      Bills are constantly being proposed that would increase your risk of being sued. RPAC defeats bills that would hold REALTORS® responsible for mold, meth and other contamination issues.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <!-- RPAC Contribution Section -->
       <section class="py-16 bg-gray-50">

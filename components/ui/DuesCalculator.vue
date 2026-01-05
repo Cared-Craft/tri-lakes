@@ -48,7 +48,7 @@
        <div>
         <div class="text-gray-900">Primary Membership</div>
         <div class="text-sm text-gray-500">
-         Full GSBOR membership with all benefits
+         Full Tri-Lakes Board of Realtors membership with all benefits
         </div>
        </div>
       </div>
@@ -205,7 +205,7 @@
        </div>
        <div>
         <div class="text-gray-900">New Member</div>
-        <div class="text-sm text-gray-500">First-time GSBOR member</div>
+        <div class="text-sm text-gray-500">First-time Tri-Lakes Board of Realtors member</div>
        </div>
       </div>
      </label>
@@ -240,7 +240,7 @@
        </div>
        <div>
         <div class="text-gray-900">Returning Member</div>
-        <div class="text-sm text-gray-500">Previous GSBOR member</div>
+        <div class="text-sm text-gray-500">Previous Tri-Lakes Board of Realtors member</div>
        </div>
       </div>
      </label>
@@ -340,7 +340,7 @@
        <li>• Dues are payable annually by January 31st</li>
        <li>• Late fees apply after February 1st</li>
        <li>• Previous members may have different rates</li>
-       <li>• Contact support@gsbor.com for specific questions</li>
+       <li>• Contact jake@tlbor.com for specific questions</li>
       </ul>
      </div>
     </div>
@@ -377,7 +377,7 @@ const includeSupra = ref(false);
 const includeTechSuite = ref(false);
 const showResults = ref(false);
 
-// Dues structure (example rates - should be updated with actual GSBOR rates)
+// Dues structure (example rates - should be updated with actual Tri-Lakes Board of Realtors rates)
 const duesStructure = {
  primary: {
   new: 450,

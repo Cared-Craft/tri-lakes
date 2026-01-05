@@ -2,8 +2,8 @@
   <div>
     <!-- Compact Header -->
     <HeroSection
-      title="About GSBOR"
-      subtitle="The leading voice for real estate professionals in Greater Springfield"
+      title="About Us"
+      subtitle="The leading voice for real estate professionals in the Tri-Lakes area"
       variant="compact"
       class="bg-gradient-to-r from-primary-800 to-primary-600"
     />
@@ -12,10 +12,10 @@
       <div class="max-w-4xl mx-auto">
         <div class="prose max-w-none mb-12">
           <p class="text-lg text-gray-700 leading-relaxed mb-6">
-            The Greater Springfield Board of REALTORS® (GSBOR) has been the voice for real estate in southwest Missouri since 1933. With more than 2,800 members across Greene, Christian, and Webster counties, we provide REALTORS® the tools, advocacy, and education they need to serve clients with professionalism and integrity. Every member of GSBOR commits to the REALTOR® Code of Ethics, setting a standard of trust that benefits both our industry and the communities we call home.
+            Tri-Lakes Board of Realtors serves as the voice for real estate in the Tri-Lakes area. We provide REALTORS® the tools, advocacy, and education they need to serve clients with professionalism and integrity. Every member commits to the REALTOR® Code of Ethics, setting a standard of trust that benefits both our industry and the communities we call home.
           </p>
           <p class="text-lg text-gray-700 leading-relaxed mb-8">
-            In addition to serving our members, GSBOR works to advance the real estate industry and strengthen the communities we represent. By equipping REALTORS® with the resources to succeed and supporting policies that strengthen property rights and homeownership, we help ensure that real estate remains a cornerstone of opportunity and growth in southwest Missouri.
+            In addition to serving our members, Tri-Lakes Board of Realtors works to advance the real estate industry and strengthen the communities we represent. By equipping REALTORS® with the resources to succeed and supporting policies that strengthen property rights and homeownership, we help ensure that real estate remains a cornerstone of opportunity and growth in the Tri-Lakes area.
           </p>
 
           <div class="bg-blue-50 border-l-4 border-blue-400 p-6 mb-8">
@@ -39,53 +39,132 @@
           </div>
         </div>
 
-        <div class="grid md:grid-cols-2 gap-8 mb-12">
-          <NuxtLink
-            to="/about-gsbor/meet-our-board"
-            class="group block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200"
-          >
-            <div class="mb-4">
-              <h3 class="text-xl group-hover:text-blue-600 transition-colors">
-                Boards of Directors
+        <!-- Executive Team -->
+        <section class="mb-16">
+          <h2 class="text-3xl text-gray-900 mb-8">Executive Team</h2>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            <div
+              v-for="member in executiveTeam"
+              :key="member.name"
+              class="bg-white rounded-xl shadow-lg p-6 border border-gray-200"
+            >
+              <h3 class="text-lg font-semibold text-gray-900 mb-1">
+                {{ member.name }}
               </h3>
+              <p class="text-sm text-gray-600 mb-4 capitalize">
+                {{ member.title }}
+              </p>
+              <a
+                :href="`mailto:${member.email}`"
+                class="text-primary-600 hover:text-primary-800 text-sm transition-colors"
+              >
+                {{ member.email }}
+              </a>
             </div>
-            <p class="text-gray-600">
-              View our current MLS and GSBOR board members.
-            </p>
-          </NuxtLink>
+          </div>
+        </section>
 
-          <NuxtLink
-            to="/about-gsbor/leadership-academy"
-            class="group block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200"
-          >
-            <div class="mb-4">
-              <h3 class="text-xl group-hover:text-green-600 transition-colors">
-                Leadership Academy
+        <!-- State Directors -->
+        <section class="mb-16">
+          <h2 class="text-3xl text-gray-900 mb-8">State Directors</h2>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            <div
+              v-for="director in stateDirectors"
+              :key="director.name"
+              class="bg-white rounded-xl shadow-lg p-6 border border-gray-200"
+            >
+              <h3 class="text-lg font-semibold text-gray-900 mb-4">
+                {{ director.name }}
               </h3>
+              <a
+                :href="`mailto:${director.email}`"
+                class="text-primary-600 hover:text-primary-800 text-sm transition-colors"
+              >
+                {{ director.email }}
+              </a>
             </div>
-            <p class="text-gray-600">
-              Get the latest info about the GSBOR Leadership Academy.
-            </p>
-          </NuxtLink>
+          </div>
+        </section>
 
-          <NuxtLink
-            to="/about-gsbor/awards"
-            class="group block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200"
-          >
-            <div class="mb-4">
-              <h3 class="text-xl group-hover:text-yellow-600 transition-colors">
-                Awards
+        <!-- SOMO Directors -->
+        <section class="mb-16">
+          <h2 class="text-3xl text-gray-900 mb-8">SOMO Directors</h2>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            <div
+              v-for="director in somoDirectors"
+              :key="director.name"
+              class="bg-white rounded-xl shadow-lg p-6 border border-gray-200"
+            >
+              <h3 class="text-lg font-semibold text-gray-900 mb-4">
+                {{ director.name }}
               </h3>
+              <a
+                :href="`mailto:${director.email}`"
+                class="text-primary-600 hover:text-primary-800 text-sm transition-colors"
+              >
+                {{ director.email }}
+              </a>
             </div>
-            <p class="text-gray-600">View our past award winners here.</p>
-          </NuxtLink>
-        </div>
+          </div>
+        </section>
+
+        <!-- Board Members -->
+        <section class="mb-16">
+          <h2 class="text-3xl text-gray-900 mb-8">Board Members</h2>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            <div
+              v-for="member in boardMembers"
+              :key="member.name"
+              class="bg-white rounded-xl shadow-lg p-6 border border-gray-200"
+            >
+              <h3 class="text-lg font-semibold text-gray-900 mb-4 capitalize">
+                {{ member.name }}
+              </h3>
+              <a
+                :href="`mailto:${member.email}`"
+                class="text-primary-600 hover:text-primary-800 text-sm transition-colors"
+              >
+                {{ member.email }}
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <!-- Staff -->
+        <section class="mb-16">
+          <h2 class="text-3xl text-gray-900 mb-8">Staff</h2>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            <div
+              v-for="member in staff"
+              :key="member.name"
+              class="bg-white rounded-xl shadow-lg p-6 border border-gray-200"
+            >
+              <h3 class="text-lg font-semibold text-gray-900 mb-1">
+                {{ member.name }}
+              </h3>
+              <p class="text-sm text-gray-600 mb-4">
+                {{ member.title }}
+              </p>
+              <a
+                :href="`mailto:${member.email}`"
+                class="text-primary-600 hover:text-primary-800 text-sm transition-colors"
+              >
+                {{ member.email }}
+              </a>
+            </div>
+          </div>
+        </section>
 
         <div
           class="bg-gray-50 border border-gray-200 rounded-lg p-8 text-center"
         >
           <h2 class="text-2xl font-semibold text-gray-900 mb-4">
-            Want to Learn More About GSBOR?
+            Want to Learn More About Us?
           </h2>
           <NuxtLink
             to="/contact-us"
@@ -102,13 +181,141 @@
 <script setup lang="ts">
 // SEO Meta
 useHead({
-  title: "About GSBOR - Greater Springfield Board of REALTORS®",
+  title: "About Us - Tri-Lakes Board of Realtors",
   meta: [
     {
       name: "description",
       content:
-        "Learn about the Greater Springfield Board of REALTORS®, serving Greene, Christian and Webster counties since 1933. Meet our board of directors, discover our leadership academy, and explore our awards program.",
+        "Learn about Tri-Lakes Board of Realtors, serving the Tri-Lakes area. Meet our executive team, board members, directors, and staff.",
     },
   ],
 });
+
+// Executive Team
+const executiveTeam = [
+  {
+    name: "David Gubin",
+    title: "Immediate Past President",
+    email: "DavidGubin@ReeceNichols.com",
+  },
+  {
+    name: "Dave Dove",
+    title: "President",
+    email: "dave@gerkenandassociates.com",
+  },
+  {
+    name: "Jon Hulsizer",
+    title: "President-Elect",
+    email: "jon.hulsizer@century21.com",
+  },
+  {
+    name: "Audrey Spratt",
+    title: "Secretary-Treasurer",
+    email: "audrey@teamspratt.com",
+  },
+  {
+    name: "Cole Currier",
+    title: "MLS Vice President",
+    email: "cole@foggyriver.com",
+  },
+];
+
+// State Directors
+const stateDirectors = [
+  {
+    name: "David Gubin",
+    email: "davidgubin@reecenichols.com",
+  },
+  {
+    name: "Gerrie Moore",
+    email: "GerrieKW@Gmail.com",
+  },
+  {
+    name: "Jon Holloway",
+    email: "Jon@GerkenandAssociates.com",
+  },
+  {
+    name: "Matthew Brock",
+    email: "matthew@gerkenandassociates.com",
+  },
+  {
+    name: "Deana Wolfe",
+    email: "bigbadwolfe@reecenichols.com",
+  },
+  {
+    name: "Bradley Gore",
+    email: "bradg@reecenichols.com",
+  },
+];
+
+// SOMO Directors
+const somoDirectors = [
+  {
+    name: "Cole Currier",
+    email: "cole@foggyriver.com",
+  },
+  {
+    name: "Jessica Brock",
+    email: "Jessica@gerkenandassociates.com",
+  },
+];
+
+// Board Members
+const boardMembers = [
+  {
+    name: "Rick Billington",
+    email: "rickbillington@reecenichols.com",
+  },
+  {
+    name: "Matthew Brock",
+    email: "Matthew@gerkenandassociates.com",
+  },
+  {
+    name: "jim robertson",
+    email: "jim@bransonlistings.com",
+  },
+  {
+    name: "Thayne robertson",
+    email: "thayne.kw@gmail.com",
+  },
+  {
+    name: "Nichole Lawrence",
+    email: "nichole@myhomerunagents.com",
+  },
+  {
+    name: "Deb mundell",
+    email: "debmundell@gmail.com",
+  },
+  {
+    name: "Bradley Gore",
+    email: "bradg@reecenichols.com",
+  },
+  {
+    name: "Jon Holloway",
+    email: "jon@gerkenandassociates.com",
+  },
+  {
+    name: "tammy sherrell-shortt",
+    email: "tammy@sherrellrealty.com",
+  },
+];
+
+// Staff
+const staff = [
+  {
+    name: "Sherri Cordell",
+    title: "Association Executive/CEO",
+    email: "sherri@tlbor.com",
+  },
+  {
+    name: "Jake Lawrence",
+    title: "Member Services/MLS Coordinator",
+    email: "jake@tlbor.com",
+  },
+  {
+    name: "Shay Mouser",
+    title: "Communications/Social Media Coordinator",
+    email: "shay@tlbor.com",
+  },
+];
 </script>

@@ -8,9 +8,8 @@
         <div class="max-w-4xl mx-auto text-center">
           <h1 class="text-4xl md:text-5xl mb-6">Affiliate Directory</h1>
           <p class="text-xl mb-8 text-primary-100">
-            Greater Springfield Board of REALTORS® Affiliate members are experts
-            in all areas of the real estate industry. There are more than 100
-            Affiliate members within the Association. Our Affiliate members are
+            Tri-Lakes Board of Realtors Affiliate members are experts
+            in all areas of the real estate industry. Our Affiliate members are
             committed to strong ethical practices, have high professional
             standards, and provide quality customer satisfaction.
           </p>
@@ -229,12 +228,12 @@ import { ref, computed } from "vue";
 
 // Meta
 useHead({
-  title: "Find an Affiliate | Greater Springfield Board of REALTORS",
+  title: "Find an Affiliate | Tri-Lakes Board of Realtors",
   meta: [
     {
       name: "description",
       content:
-        "Search our directory of expert affiliate members. Greater Springfield Board of REALTORS affiliate members provide quality services across all areas of the real estate industry.",
+        "Search our directory of expert affiliate members. Tri-Lakes Board of Realtors affiliate members provide quality services across all areas of the real estate industry.",
     },
   ],
 });

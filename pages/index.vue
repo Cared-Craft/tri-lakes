@@ -3,19 +3,16 @@ import { ref, onMounted } from "vue";
 
 // SEO metadata
 useHead({
-  title: "GSBOR | Greater Springfield Board of REALTORS®",
+  title: "Tri-Lakes Board of Realtors",
   meta: [
     {
       name: "description",
       content:
-        "The Greater Springfield Board of REALTORS® serves as the leading advocate for real estate professionals in Greene, Christian, and Webster Counties.",
+        "Tri-Lakes Board of Realtors serves as the leading advocate for real estate professionals in the Tri-Lakes area.",
     },
   ],
 });
 
-// YouTube Video handling
-const videoId = "L14dttEW6Vo";
-const { videoLoaded, videoError, containerRef } = useYouTubeVideo(videoId);
 
 // Membership steps
 const membershipSteps = [
@@ -43,22 +40,31 @@ const membershipSteps = [
   },
 ];
 
-// Real estate areas
-const realEstateAreas = [
+// Applications
+const applications = [
   {
-    title: "Residential",
+    title: "Member Application",
     description:
-      "Homeownership is vital to promoting a strong economy and building wealth for families across America. Connecting families to the home of their dreams is one of the goals of REALTORS® across the nation.",
+      "Join Tri-Lakes Board of Realtors and access MLS, technology, training, and important legislative updates.",
+    file: "/documents/2025_Member_Application_ fillable.pdf",
   },
   {
-    title: "Agriculture",
+    title: "Affiliate Application",
     description:
-      "The United States economy depends on a thriving agricultural system. REALTORS® help farmers get the land they need to produce food and resources for our communities.",
+      "Become an affiliate member and connect with REALTORS® in the Tri-Lakes area.",
+    file: "/documents/2025 Affiliate Application.pdf",
   },
   {
-    title: "Commercial",
+    title: "New DR Application",
     description:
-      "REALTOR® agents and brokers bring aspiring and experienced business owners to properties that will help their businesses succeed and contribute to our local economy.",
+      "Apply to become a Designated REALTOR® and lead your brokerage team.",
+    file: "/documents/2025 New DR Application.pdf",
+  },
+  {
+    title: "ULA Application",
+    description:
+      "Apply for Unlicensed Assistant status to support REALTORS® in their daily operations.",
+    file: "/documents/2025 ULA Application.pdf",
   },
 ];
 </script>
@@ -70,31 +76,14 @@ const realEstateAreas = [
       <section
         class="hero-section relative overflow-hidden h-[55vh] md:h-[75vh] flex items-center"
       >
-        <!-- YouTube Video Background -->
-        <div
-          ref="containerRef"
-          id="youtube-player"
-          class="absolute inset-0 w-full h-full z-0"
-          style="
-            width: 100vw;
-            height: 56.25vw;
-            min-height: 100vh;
-            min-width: 177.77vh;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-          "
-        ></div>
-
-        <!-- Fallback solid background - show when video fails or is loading -->
-        <div
-          class="absolute inset-0 w-full h-full bg-primary-800 z-0 transition-opacity duration-1000"
-          :class="{
-            'opacity-100': videoError || !videoLoaded,
-            'opacity-0': videoLoaded && !videoError,
-          }"
-        ></div>
+        <!-- Background Image -->
+        <div class="absolute inset-0 w-full h-full z-0">
+          <img
+            src="/images/header-images/branson-mo-bg.jpg"
+            alt="Branson, Missouri"
+            class="w-full h-full object-cover"
+          />
+        </div>
 
         <!-- Dark overlay for better text readability -->
         <div class="absolute inset-0 bg-black/50 z-10"></div>
@@ -136,14 +125,14 @@ const realEstateAreas = [
                 class="text-3xl md:text-4xl font-light mb-6 leading-tight text-white relative"
               >
                 About
-                <span>Greater Springfield Board of REALTORS®</span>
+                <span>Tri-Lakes Board of Realtors</span>
               </h2>
               <p class="text-white mb-8 leading-relaxed relative text-lg">
-                For almost a century, the Greater Springfield Board of REALTORS® has supported members, strengthened the industry, and served the public with integrity. Today, we continue that legacy by providing tools, education, and advocacy that help REALTORS® and communities thrive.
+                Tri-Lakes Board of Realtors supports members, strengthens the industry, and serves the public with integrity. We provide tools, education, and advocacy that help REALTORS® and communities thrive.
               </p>
               <div class="relative">
                 <NuxtLink
-                  to="/about-gsbor"
+                  to="/about-us"
                   class="inline-flex items-center group text-white text-lg border-b border-transparent hover:border-white transition-colors duration-300"
                 >
                   <span>Learn more about us</span>
@@ -182,12 +171,12 @@ const realEstateAreas = [
               class="block group cursor-pointer"
             >
               <div
-                class="flex flex-col items-center text-center p-8 bg-gradient-to-b from-gray-100 via-gray-50 to-white rounded-[2rem] transition-all duration-300 hover:shadow-lg hover:-translate-y-1"
+                class="flex flex-col items-center text-center p-8 bg-gradient-to-b from-gray-100 via-gray-50 to-white rounded-[2rem] transition-all duration-300"
               >
                 <h3
                   class="text-2xl mb-3 text-gray-900 group-hover:text-primary-700 transition-colors"
                 >
-                  Join Greater Springfield Board of REALTORS®
+                  Join Tri-Lakes Board of Realtors
                 </h3>
                 <p class="text-gray-500 mb-6 text-lg max-w-sm">
                   Start your journey with a simple online application process.
@@ -198,7 +187,7 @@ const realEstateAreas = [
                   <img
                     src="https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c?auto=format&fit=crop&w=800&q=80"
                     alt="Apply Online"
-                    class="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-500"
+                    class="w-full h-full object-cover object-center"
                   />
                 </div>
               </div>
@@ -210,7 +199,7 @@ const realEstateAreas = [
               class="block group cursor-pointer"
             >
               <div
-                class="flex flex-col items-center text-center p-8 bg-gradient-to-b from-gray-100 via-gray-50 to-white rounded-[2rem] transition-all duration-300 hover:shadow-lg hover:-translate-y-1"
+                class="flex flex-col items-center text-center p-8 bg-gradient-to-b from-gray-100 via-gray-50 to-white rounded-[2rem] transition-all duration-300"
               >
                 <h3
                   class="text-2xl mb-3 text-gray-900 group-hover:text-primary-700 transition-colors"
@@ -226,7 +215,7 @@ const realEstateAreas = [
                   <img
                     src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800&q=80"
                     alt="Enjoy Benefits"
-                    class="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-500"
+                    class="w-full h-full object-cover object-center"
                   />
                 </div>
               </div>
@@ -273,7 +262,7 @@ const realEstateAreas = [
         </div>
       </section>
 
-      <!-- Real Estate Areas -->
+      <!-- Applications Section -->
       <section class="py-20 relative overflow-hidden">
         <!-- Rich background with subtle patterns and gradients -->
         <div class="absolute inset-0 z-0">
@@ -302,29 +291,45 @@ const realEstateAreas = [
             <h2
               class="text-3xl md:text-4xl font-light mb-6 leading-tight text-white relative"
             >
-              Three Areas of <span>Real Estate</span>
+              Applications
             </h2>
             <p class="text-white/90 max-w-2xl mx-auto">
-              REALTORS® do more than sell homes, we
-              broker transactions across all property types.
+              Download and complete the application forms to join Tri-Lakes Board of Realtors.
             </p>
           </div>
 
-          <div class="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto">
-            <div v-for="(area, index) in realEstateAreas" :key="index">
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+            <a
+              v-for="(app, index) in applications"
+              :key="index"
+              :href="app.file"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="block group"
+            >
               <div
-                class="bg-primary-800/40 backdrop-blur-md rounded-2xl overflow-hidden border border-primary-700/30 shadow-xl h-full"
+                class="bg-primary-800/40 backdrop-blur-md rounded-2xl overflow-hidden border border-primary-700/30 shadow-xl h-full transition-all duration-300 hover:bg-primary-800/60 hover:shadow-2xl hover:-translate-y-1"
               >
                 <div class="p-8 relative">
-                  <h3 class="text-2xl mb-3 text-white">
-                    {{ area.title }}
+                  <div class="flex items-center justify-between mb-4">
+                    <Icon
+                      name="i-lucide-file-text"
+                      class="w-8 h-8 text-white/80 group-hover:text-white transition-colors"
+                    />
+                    <Icon
+                      name="i-lucide-download"
+                      class="w-5 h-5 text-white/60 group-hover:text-white transition-colors"
+                    />
+                  </div>
+                  <h3 class="text-xl mb-3 text-white group-hover:text-white transition-colors">
+                    {{ app.title }}
                   </h3>
-                  <p class="text-white/85 leading-relaxed">
-                    {{ area.description }}
+                  <p class="text-white/85 leading-relaxed text-sm">
+                    {{ app.description }}
                   </p>
                 </div>
               </div>
-            </div>
+            </a>
           </div>
         </div>
       </section>
@@ -339,17 +344,6 @@ const realEstateAreas = [
   background-color: #000;
 }
 
-/* YouTube iframe styling */
-#youtube-player {
-  pointer-events: none;
-}
-
-#youtube-player iframe {
-  width: 100%;
-  height: 100%;
-  border: 0;
-  pointer-events: none;
-}
 
 .pattern-grid {
   background-image: linear-gradient(

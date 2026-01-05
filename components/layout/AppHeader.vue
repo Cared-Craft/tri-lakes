@@ -17,249 +17,49 @@ onUnmounted(() => {
   window.removeEventListener("scroll", handleScroll);
 });
 
-// Navigation items with dropdown menus
+// Navigation items - simplified to core pages only
 const navItems = [
   {
-    name: "Directory",
-    path: "/directory",
+    name: "Home",
+    path: "/",
+    color: "text-gray-600",
+    bgColor: "bg-gray-50",
+  },
+  {
+    name: "Consumers",
+    path: "/consumers",
     color: "text-blue-600",
     bgColor: "bg-blue-50",
   },
   {
-    name: "New Members",
-    path: "#",
+    name: "Affiliates",
+    path: "/find-an-affiliate",
     color: "text-blue-600",
     bgColor: "bg-blue-50",
-    dropdown: [
-      {
-        name: "Become a Member",
-        path: "/new-members/become-a-member/",
-      },
-      {
-        name: "Benefits of Membership",
-        path: "/new-members/benefits-of-membership/",
-      },
-      {
-        name: "Dues Calculator",
-        path: "/new-members/become-a-member/#dues-calculator",
-      },
-      {
-        name: "Supra",
-        path: "/supra/",
-      },
-      {
-        name: "GSBOR News",
-        path: "/news-events",
-      },
-    ],
   },
   {
-    name: "Current Members",
-    path: "/current-members",
+    name: "Members",
+    path: "/new-members",
+    color: "text-blue-600",
+    bgColor: "bg-blue-50",
+  },
+  {
+    name: "Advocacy",
+    path: "/political-advocacy",
     color: "text-emerald-600",
     bgColor: "bg-emerald-50",
-    dropdown: [
-      {
-        name: "Member Dashboard",
-        path: "https://dash.gsbor.com/dashboard",
-        external: true,
-      },
-      {
-        name: "Member FAQ",
-        path: "/member-faq/",
-      },
-      {
-        name: "Supra®",
-        path: "/supra/",
-      },
-      {
-        name: "Forms & Documents",
-        path: "/forms/#member-forms",
-      },
-      {
-        name: "Political Advocacy",
-        path: "/political-advocacy/",
-      },
-      {
-        name: "R Care Fund",
-        path: "/r-care-fund/",
-      },
-      {
-        name: "GSBOR Help Hub",
-        path: "http://support.gsbor.com",
-        external: true,
-      },
-    ],
   },
   {
-    name: "Education",
-    path: "/edu",
-    color: "text-purple-600",
-    bgColor: "bg-purple-50",
-    dropdown: [
-      {
-        name: "LEDR Designation",
-        path: "/education/ledr/",
-      },
-      {
-        name: "REALTOR® Education",
-        path: "/education/realtor-education/",
-      },
-      {
-        name: "Courses",
-        path: "/education/realtor-education/courses/",
-      },
-      {
-        name: "REALTOR® Safety Information",
-        path: "/education/realtor-safety-information/",
-      },
-      {
-        name: "Homeowners / Buyers & Sellers",
-        path: "/buyers-and-sellers/",
-      },
-    ],
-  },
-  {
-    name: "News & Events",
-    path: "/news-events",
-    color: "text-amber-600",
-    bgColor: "bg-amber-50",
-    dropdown: [
-      {
-        name: "Events Calendar",
-        path: "/events-calendar/",
-      },
-      {
-        name: "Market Statistics",
-        path: "/market-statistics/",
-      },
-    ],
-  },
-  {
-    name: "About GSBOR",
-    path: "/about-gsbor/",
+    name: "About Us",
+    path: "/about-us",
     color: "text-indigo-600",
     bgColor: "bg-indigo-50",
-    dropdown: [
-      {
-        name: "Boards of Directors",
-        path: "/about-gsbor/meet-our-board/",
-      },
-      {
-        name: "Leadership Academy",
-        path: "/about-gsbor/leadership-academy/",
-      },
-      {
-        name: "Awards",
-        path: "/about-gsbor/awards/",
-      },
-      { name: "Staff", path: "/about-gsbor/staff/" },
-      {
-        name: "Realtor Directory",
-        path: "/directory",
-      },
-      {
-        name: "Affiliate Directory",
-        path: "/find-an-affiliate/",
-      },
-    ],
   },
   {
-    name: "Quick Links",
-    path: "#",
-    color: "text-rose-600",
-    bgColor: "bg-rose-50",
-    isMegaMenu: true,
-    megaMenuColumns: [
-      {
-        title: "MLS",
-        links: [
-          { name: "Tech Helpline", path: "https://www.techhelpline.com/" },
-          { name: "Flex Help", path: "https://help.flexmls.com/" },
-          { name: "FlexMLS Login", path: "https://somo.flexmls.com/ticket" },
-          { name: "Flexmls Status", path: "https://fbs.statuspage.io/" },
-          {
-            name: "Supra Help",
-            path: "https://www.supraekey.com/CustomerSupport/Pages/CustomerSupport.aspx",
-          },
-          {
-            name: "Supra Log In",
-            path: "https://supraweb.suprakim.com/KimWeb/Showing.mvc/Showing",
-          },
-          {
-            name: "BrokerBay",
-            path: "https://www.brokerbay.com/mls/gsbor-brokerbay",
-          },
-          { name: "GSBOR Help Hub", path: "http://support.gsbor.com" },
-        ],
-      },
-      {
-        title: "License & Education",
-        links: [
-          {
-            name: "Missouri Real Estate Commission (MREC)",
-            path: "https://pr.mo.gov/realestate-licensee-search.asp",
-          },
-          {
-            name: "CE Shop",
-            path: "https://gsbor.theceshop.com/online-education/missouri/real-estate/broker-and-sales-license/continuing-education/courses.html",
-          },
-          {
-            name: "Real Estate Learning Library",
-            path: "https://realestatelearninglibrary.com/",
-          },
-          {
-            name: "Code of Ethics",
-            path: "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/code-of-ethics-training",
-          },
-        ],
-      },
-      {
-        title: "Missouri Realtors®",
-        links: [
-          {
-            name: "Missouri REALTORS® (MR)",
-            path: "https://www.missourirealtor.org/home",
-          },
-          {
-            name: "MR Forms",
-            path: "https://www.missourirealtor.org/risk-management/forms-index",
-          },
-          {
-            name: "MR Political Advocacy",
-            path: "https://www.missourirealtor.org/advocacy",
-          },
-          {
-            name: "MR The Landing",
-            path: "https://thelanding.missourirealtor.org/home",
-          },
-          {
-            name: "Professional Standards",
-            path: "https://www.missourirealtor.org/risk-management/professional-standards",
-          },
-          { name: "Tech Helpline", path: "https://www.techhelpline.com/" },
-        ],
-      },
-      {
-        title: "National Association of Realtors® (NAR)",
-        links: [
-          { name: "NAR Home", path: "https://www.nar.realtor/" },
-          {
-            name: "NAR Political Advocacy",
-            path: "https://www.nar.realtor/political-advocacy",
-          },
-          { name: "NAR The Hub", path: "https://thehub.realtor/home" },
-          {
-            name: "REALTORS® Property Resource (RPR)",
-            path: "https://www.narrpr.com/",
-          },
-          {
-            name: "Women's Council of REALTORS® (WCR)",
-            path: "https://www.wcr.org/",
-          },
-        ],
-      },
-    ],
+    name: "Contact Us",
+    path: "/contact-us",
+    color: "text-gray-600",
+    bgColor: "bg-gray-50",
   },
 ];
 
@@ -306,9 +106,9 @@ const toggleMegaMenu = () => {
           <div class="flex-shrink-0">
             <NuxtLink to="/" class="block">
               <img
-                src="/images/GSBOR-Horz_Full-Color-3.png"
-                alt="GSBOR Logo"
-                class="w-auto h-10 transition-all duration-300 ease-in-out"
+                src="/images/logos/tri-lakes-logo.png"
+                alt="Tri-Lakes Board of Realtors Logo"
+                class="w-auto h-16 transition-all duration-300 ease-in-out"
               />
             </NuxtLink>
           </div>
@@ -350,11 +150,19 @@ const toggleMegaMenu = () => {
               </template>
               <template v-else>
                 <NuxtLink
+                  v-if="item.path === '/'"
                   :to="item.path"
                   class="px-4 py-5 text-sm text-gray-800 hover:text-primary-700 flex items-center transition-colors duration-200 border-b-2 border-transparent hover:border-primary-600 mx-1"
                 >
                   {{ item.name }}
                 </NuxtLink>
+                <span
+                  v-else
+                  class="px-4 py-5 text-sm text-gray-400 flex items-center cursor-not-allowed mx-1"
+                  @click.prevent
+                >
+                  {{ item.name }}
+                </span>
               </template>
 
               <!-- Standard Dropdown Menu -->
@@ -369,26 +177,14 @@ const toggleMegaMenu = () => {
                   >
                     <!-- Standard dropdown item -->
                     <template v-if="!dropdownItem.submenu">
-                      <NuxtLink
-                        v-if="!dropdownItem.external"
-                        :to="dropdownItem.path"
-                        class="px-4 py-3 text-sm text-gray-700 hover:bg-gray-50 flex items-center group/item transition-all duration-200"
+                      <span
+                        class="px-4 py-3 text-sm text-gray-400 flex items-center cursor-not-allowed"
+                        @click.prevent
                       >
                         <div>
                           <div>{{ dropdownItem.name }}</div>
                         </div>
-                      </NuxtLink>
-                      <a
-                        v-else
-                        :href="dropdownItem.path"
-                        :target="'_blank'"
-                        :rel="'noopener noreferrer'"
-                        class="px-4 py-3 text-sm text-gray-700 hover:bg-gray-50 flex items-center group/item transition-all duration-200"
-                      >
-                        <div>
-                          <div>{{ dropdownItem.name }}</div>
-                        </div>
-                      </a>
+                      </span>
                     </template>
 
                     <!-- Nested dropdown item -->
@@ -410,20 +206,20 @@ const toggleMegaMenu = () => {
                         class="absolute left-full top-0 w-72 bg-white shadow-xl rounded-lg overflow-hidden z-50 opacity-0 invisible group-hover/nested:opacity-100 group-hover/nested:visible transition-all duration-300 border border-gray-100"
                       >
                         <div class="py-2">
-                          <NuxtLink
+                          <span
                             v-for="(
                               submenuItem, submenuIndex
                             ) in dropdownItem.submenu"
                             :key="submenuIndex"
-                            :to="submenuItem.path"
-                            class="px-4 py-3 text-sm text-gray-700 hover:bg-gray-50 flex items-center group/subitem transition-all duration-200"
+                            class="px-4 py-3 text-sm text-gray-400 flex items-center cursor-not-allowed"
+                            @click.prevent
                           >
                             <div>
                               <div>
                                 {{ submenuItem.name }}
                               </div>
                             </div>
-                          </NuxtLink>
+                          </span>
                         </div>
                       </div>
                     </div>
@@ -460,7 +256,7 @@ const toggleMegaMenu = () => {
                           Contact our support team for assistance.
                         </p>
                         <a
-                          href="http://support.gsbor.com"
+                          href="mailto:sherri@tlbor.com"
                           class="inline-flex items-center text-xs text-rose-600 hover:text-rose-800"
                         >
                           Visit Help Center
@@ -495,7 +291,15 @@ const toggleMegaMenu = () => {
                             v-for="(link, linkIndex) in column.links"
                             :key="linkIndex"
                           >
+                            <span
+                              v-if="link.path !== '/'"
+                              class="text-xs text-gray-400 flex items-center cursor-not-allowed"
+                              @click.prevent
+                            >
+                              {{ link.name }}
+                            </span>
                             <NuxtLink
+                              v-else
                               :to="link.path"
                               class="text-xs text-gray-600 hover:text-primary-900 flex items-center group/link"
                             >
@@ -539,18 +343,21 @@ const toggleMegaMenu = () => {
             @click="item.isMegaMenu ? toggleMegaMenu() : toggleDropdown(index)"
           >
             <div class="flex items-center">
-              <component
-                v-if="!item.dropdown && !item.isMegaMenu"
-                :is="item.external ? 'a' : 'NuxtLink'"
-                :to="!item.external ? item.path : undefined"
-                :href="item.external ? item.path : undefined"
-                :target="item.external ? '_blank' : undefined"
-                :rel="item.external ? 'noopener noreferrer' : undefined"
+              <NuxtLink
+                v-if="!item.dropdown && !item.isMegaMenu && item.path === '/'"
+                :to="item.path"
                 class="text-sm text-gray-900"
                 @click="isMobileMenuOpen = false"
               >
                 {{ item.name }}
-              </component>
+              </NuxtLink>
+              <span
+                v-else-if="!item.dropdown && !item.isMegaMenu"
+                class="text-sm text-gray-400 cursor-not-allowed"
+                @click.prevent
+              >
+                {{ item.name }}
+              </span>
               <span v-else class="text-sm text-gray-900">{{ item.name }}</span>
             </div>
           </div>
@@ -566,24 +373,12 @@ const toggleMegaMenu = () => {
             >
               <!-- Standard dropdown item -->
               <template v-if="!dropdownItem.submenu">
-                <NuxtLink
-                  v-if="!dropdownItem.external"
-                  :to="dropdownItem.path"
-                  class="py-2 text-sm text-gray-700 flex items-center hover:bg-white rounded-md px-2 transition-colors duration-200"
-                  @click="isMobileMenuOpen = false"
+                <span
+                  class="py-2 text-sm text-gray-400 flex items-center cursor-not-allowed px-2"
+                  @click.prevent
                 >
                   <div>{{ dropdownItem.name }}</div>
-                </NuxtLink>
-                <a
-                  v-else
-                  :href="dropdownItem.path"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="py-2 text-sm text-gray-700 flex items-center hover:bg-white rounded-md px-2 transition-colors duration-200"
-                  @click="isMobileMenuOpen = false"
-                >
-                  <div>{{ dropdownItem.name }}</div>
-                </a>
+                </span>
               </template>
 
               <!-- Nested dropdown item -->
@@ -592,18 +387,17 @@ const toggleMegaMenu = () => {
                   {{ dropdownItem.name }}
                 </div>
                 <div class="pl-6 space-y-2">
-                  <NuxtLink
+                  <span
                     v-for="(submenuItem, submenuIndex) in dropdownItem.submenu"
                     :key="submenuIndex"
-                    :to="submenuItem.path"
-                    class="text-sm text-gray-700 flex items-center hover:bg-white rounded-md py-1.5 px-2 transition-colors duration-200"
-                    @click="isMobileMenuOpen = false"
+                    class="text-sm text-gray-400 flex items-center cursor-not-allowed py-1.5 px-2"
+                    @click.prevent
                   >
                     <div
-                      :class="[item.color, 'w-1.5 h-1.5 rounded-full mr-2']"
+                      :class="[item.color, 'w-1.5 h-1.5 rounded-full mr-2 opacity-50']"
                     ></div>
                     {{ submenuItem.name }}
-                  </NuxtLink>
+                  </span>
                 </div>
               </div>
             </template>
@@ -633,7 +427,15 @@ const toggleMegaMenu = () => {
               </div>
               <ul class="pl-4 space-y-2">
                 <li v-for="(link, linkIndex) in column.links" :key="linkIndex">
+                  <span
+                    v-if="link.path !== '/'"
+                    class="text-sm text-gray-400 flex items-center cursor-not-allowed py-1.5 px-2"
+                    @click.prevent
+                  >
+                    {{ link.name }}
+                  </span>
                   <NuxtLink
+                    v-else
                     :to="link.path"
                     class="text-sm text-gray-700 flex items-center hover:bg-white rounded-md py-1.5 px-2 transition-colors duration-200"
                     @click="isMobileMenuOpen = false"

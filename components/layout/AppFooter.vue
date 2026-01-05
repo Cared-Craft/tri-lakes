@@ -1,56 +1,35 @@
 <script setup lang="ts">
-// Footer navigation categories - matches header structure
+// Footer navigation - organized by category
 const footerSections = [
   {
-    title: "New Members",
+    title: "For Consumers",
     links: [
-      { name: "Become A Member", path: "/new-members/become-a-member/" },
-      {
-        name: "Benefits of Membership",
-        path: "/new-members/benefits-of-membership/",
-      },
-      { name: "Dues Calculator", path: "/new-members/become-a-member/#dues-calculator" },
-      { name: "Supra", path: "/supra/" },
+      { name: "Buyers & Sellers", path: "/buyers-and-sellers" },
+      { name: "Communities", path: "/consumers" },
+      { name: "Find a REALTOR®", path: "/directory" },
+      { name: "Find an Affiliate", path: "/find-an-affiliate" },
     ],
   },
   {
-    title: "Current Members",
+    title: "For Members",
     links: [
-      { name: "Member Portal", path: "https://gsborportal.ramcoams.net/Login.aspx?ReturnUrl=%2f", external: true },
-      { name: "Member FAQ", path: "/member-faq/" },
-      { name: "Supra®", path: "/supra/" },
-      { name: "Forms & Documents", path: "/forms/#member-forms" },
-      { name: "Political Advocacy", path: "/political-advocacy/" },
-      { name: "R Care Fund", path: "/r-care-fund/" },
-      { name: "GSBOR Help Hub", path: "http://support.gsbor.com", external: true },
+      { name: "New Members", path: "/new-members" },
+      { name: "Current Members", path: "/current-members" },
     ],
   },
   {
-    title: "Education",
+    title: "About",
     links: [
-      { name: "REALTOR® Education", path: "/education/realtor-education/" },
-      { name: "Courses", path: "/education/realtor-education/courses/" },
-      { name: "REALTOR® Safety Information", path: "/education/realtor-safety-information/" },
-      { name: "Homeowners / Buyers & Sellers", path: "/buyers-and-sellers/" },
+      { name: "About Us", path: "/about-us" },
+      { name: "Political Advocacy", path: "/political-advocacy" },
     ],
   },
   {
-    title: "About GSBOR",
+    title: "Resources",
     links: [
-      { name: "Boards of Directors", path: "/about-gsbor/meet-our-board/" },
-      { name: "Leadership Academy", path: "/about-gsbor/leadership-academy/" },
-      { name: "Awards", path: "/about-gsbor/awards/" },
-      { name: "Staff", path: "/about-gsbor/staff/" },
-      { name: "Realtor Directory", path: "/directory" },
-      { name: "Affiliate Directory", path: "/find-an-affiliate/" },
-    ],
-  },
-  {
-    title: "News & Events",
-    links: [
-      { name: "Events Calendar", path: "/events-calendar/" },
-      { name: "Market Statistics", path: "/market-statistics/" },
-      { name: "GSBOR News", path: "/news-events" },
+      { name: "News & Updates", path: "/news" },
+      { name: "Accessibility", path: "/accessibility" },
+      { name: "Contact Us", path: "/contact-us" },
     ],
   },
 ];
@@ -59,12 +38,12 @@ const footerSections = [
 const socialLinks = [
   {
     icon: "i-fa-facebook-f",
-    url: "https://www.facebook.com/gsbor/",
+    url: "#",
     label: "Facebook",
   },
   {
     icon: "i-fa-instagram",
-    url: "https://www.instagram.com/gsbornews/",
+    url: "#",
     label: "Instagram",
   },
   {
@@ -82,8 +61,8 @@ const legalLinks = [
 
 // Contact information
 const contactInfo = {
-  phone: "(417) 883-1226",
-  address: "1310 E Primrose St. Springfield, MO 65804",
+  phone: "417-338-4555",
+  address: "2875 State Hwy. 265, Branson, Missouri 65616",
 };
 
 // Current year for copyright
@@ -96,12 +75,12 @@ const currentYear = new Date().getFullYear();
       <!-- Logo and Tagline -->
       <div class="w-full flex flex-col items-center mb-8">
         <img
-          src="/images/GSBOR-logo-white.png"
-          alt="Greater Springfield Board of REALTORS® Logo"
-          class="h-16 mb-6"
+          src="/images/logos/tri-lakes-logo.png"
+          alt="Tri-Lakes Board of Realtors Logo"
+          class="h-24 mb-6"
         />
         <p class="text-white text-center max-w-xl text-base font-light">
-          As the voice of Real Estate in Southwest Missouri, the Greater Springfield Board of REALTORS® is the leading advocate for real estate professionals in Greene, Christian, and Webster Counties.
+          Tri-Lakes Board of Realtors serves as the leading advocate for real estate professionals in the Tri-Lakes area.
         </p>
       </div>
 
@@ -126,14 +105,15 @@ const currentYear = new Date().getFullYear();
           </h4>
           <div class="flex flex-col gap-2 items-center md:items-start">
             <component
-              :is="link.external ? 'a' : 'NuxtLink'"
+              :is="link.path === '/' ? (link.external ? 'a' : 'NuxtLink') : 'span'"
               v-for="link in section.links"
               :key="link.name"
-              :to="!link.external ? link.path : undefined"
-              :href="link.external ? link.path : undefined"
-              :target="link.external ? '_blank' : undefined"
-              :rel="link.external ? 'noopener noreferrer' : undefined"
-              class="text-white hover:text-white/80 hover:underline text-sm transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 rounded"
+              :to="link.path === '/' && !link.external ? link.path : undefined"
+              :href="link.path === '/' && link.external ? link.path : undefined"
+              :target="link.path === '/' && link.external ? '_blank' : undefined"
+              :rel="link.path === '/' && link.external ? 'noopener noreferrer' : undefined"
+              :class="link.path === '/' ? 'text-white hover:text-white/80 hover:underline text-sm transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 rounded cursor-pointer' : 'text-white/50 text-sm cursor-not-allowed'"
+              @click.prevent="link.path !== '/' && $event.preventDefault()"
             >
               {{ link.name }}
             </component>
@@ -183,18 +163,18 @@ const currentYear = new Date().getFullYear();
           <!-- Legal links and Copyright -->
           <div class="mt-6 flex flex-col gap-2">
             <div class="text-xs text-white/50">
-              &copy; Copyright {{ currentYear }}. Greater Springfield Board of
+              &copy; Copyright {{ currentYear }}. Tri-Lakes Board of
               Realtors&reg;, Inc.
             </div>
             <div class="flex gap-4">
-              <NuxtLink
+              <span
                 v-for="link in legalLinks"
                 :key="link.name"
-                :to="link.path"
-                class="text-xs text-white/50 hover:text-white transition"
+                class="text-xs text-white/30 cursor-not-allowed"
+                @click.prevent
               >
                 {{ link.name }}
-              </NuxtLink>
+              </span>
             </div>
           </div>
         </div>
@@ -210,16 +190,15 @@ const currentYear = new Date().getFullYear();
               Accessibility Commitment
             </h3>
             <p class="text-white text-sm mb-3">
-              Greater Springfield Board of Realtors®, Inc. is committed to
+              Tri-Lakes Board of Realtors®, Inc. is committed to
               ensuring digital accessibility for people with disabilities.
             </p>
-            <NuxtLink
-              to="/accessibility"
-              class="inline-flex items-center text-white/70 hover:text-white text-sm gap-1.5 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 rounded cursor-pointer"
+            <span
+              class="inline-flex items-center text-white/50 text-sm gap-1.5 cursor-not-allowed"
             >
               <span>Learn more about our accessibility commitment</span>
               <Icon name="i-lucide-chevron-right" class="w-3 h-3" />
-            </NuxtLink>
+            </span>
           </div>
         </div>
       </div>

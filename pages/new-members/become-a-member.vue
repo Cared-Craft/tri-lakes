@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <HeroSection
       title="Become A Member"
-      description="Joining the Greater Springfield Board Of REALTORS® is the first step to real estate brokerage success. Your local GSBOR membership provides access to industry trend information, local statistics, MLS, technology, training and important legislative updates, in addition to membership in the Missouri Association of REALTORS® (MR) and the National Association of REALTORS® (NAR)."
+      description="Joining Tri-Lakes Board of Realtors is the first step to real estate brokerage success. Your membership provides access to industry trend information, local statistics, MLS, technology, training and important legislative updates, in addition to membership in the Missouri Association of REALTORS® (MR) and the National Association of REALTORS® (NAR)."
       variant="compact"
       :show-floating-card="true"
       :floating-card-content="{
@@ -48,7 +48,7 @@
           </h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Membership Application - Take the first step towards joining the
-            Greater Springfield Board of REALTORS®
+            Tri-Lakes Board of Realtors
           </p>
           <div class="mt-8">
             <Button
@@ -111,7 +111,7 @@
                     class="w-6 h-6 text-white mr-4 mt-1 flex-shrink-0"
                   />
                   <p class="text-white/90 text-lg">
-                    An application for Greater Springfield Board of REALTORS®
+                    An application for Tri-Lakes Board of Realtors
                     and SOMO MLS (the Regional Multiple Listing Service vendor)
                   </p>
                 </div>
@@ -149,7 +149,7 @@
             <p class="text-xl text-gray-600 leading-relaxed mb-8 text-center">
               Membership is granted to all applicants for REALTOR® membership
               upon submission of the following paperwork (subject to final
-              approval by the Board of Directors of the Greater Springfield
+              approval by the Board of Directors of Tri-Lakes Board of Realtors
               Board of REALTORS®):
             </p>
           </div>
@@ -176,7 +176,7 @@
                       Association.
                     </h3>
                     <p class="text-gray-600">
-                      Your designated broker must already be a member of GSBOR
+                      Your designated broker must already be a member
                       to sponsor your membership application.
                     </p>
                   </div>
@@ -204,7 +204,7 @@
                       <Icon name="i-lucide-clock" class="w-4 h-4 inline mr-2" />
                       *If your license is active at the Missouri Real Estate
                       Commission, under a qualifying broker that holds
-                      membership at GSBOR, you have up to 30 days to join from
+                      membership, you have up to 30 days to join from
                       your license active date.
                     </p>
                   </div>
@@ -331,12 +331,12 @@
 <script setup lang="ts">
 // Page metadata
 useHead({
-  title: "Become A Member - Greater Springfield Board of REALTORS®",
+  title: "Become A Member - Tri-Lakes Board of Realtors",
   meta: [
     {
       name: "description",
       content:
-        "Join the Greater Springfield Board of REALTORS® and take the first step towards real estate success. Learn about membership types, application process, and benefits including SOMO MLS access and Supra keys.",
+        "Join Tri-Lakes Board of Realtors and take the first step towards real estate success. Learn about membership types, application process, and benefits.",
     },
   ],
 });
@@ -347,8 +347,8 @@ const membershipApplications = [
     id: "primary",
     title: "Primary Membership Application",
     content: `
-   <p class="mb-4">If you are a new agent joining Greater Springfield Board of REALTORS® or you are changing Associations and Greater Springfield Board of REALTORS® is your ONLY Association, fill out a primary application. This applies for REALTORS® and Appraisers.</p>
-   <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-sm text-white rounded-lg hover:bg-blue-700 transition-colors ">GSBOR Application</a></p>
+   <p class="mb-4">If you are a new agent joining Tri-Lakes Board of Realtors or you are changing Associations and Tri-Lakes Board of Realtors is your ONLY Association, fill out a primary application. This applies for REALTORS® and Appraisers.</p>
+   <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-sm text-white rounded-lg hover:bg-blue-700 transition-colors ">Application</a></p>
   `,
     defaultOpen: true,
   },
@@ -356,8 +356,8 @@ const membershipApplications = [
     id: "secondary",
     title: "Secondary Membership Application",
     content: `
-   <p class="mb-4">If you are currently a member with another Association and want to participate in the same great benefits as a Greater Springfield Board of REALTORS® primary member, complete the secondary membership application.</p>
-   <p class="mb-4"><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-sm text-white rounded-lg hover:bg-blue-700 transition-colors ">GSBOR Application</a></p>
+   <p class="mb-4">If you are currently a member with another Association and want to participate in the same great benefits as a Tri-Lakes Board of Realtors primary member, complete the secondary membership application.</p>
+   <p class="mb-4"><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-sm text-white rounded-lg hover:bg-blue-700 transition-colors ">Application</a></p>
    <p class="text-sm text-gray-600 italic">*Secondary membership requires a letter of good standing from your primary association</p>
   `,
   },
@@ -366,7 +366,7 @@ const membershipApplications = [
     title: "Transfer Membership Application",
     content: `
    <p class="mb-4">Transferring from another board of REALTORS®? Fill out an application for transfer here.</p>
-   <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-sm text-white rounded-lg hover:bg-blue-700 transition-colors ">GSBOR Application</a></p>
+   <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-sm text-white rounded-lg hover:bg-blue-700 transition-colors ">Application</a></p>
   `,
   },
   {
@@ -374,14 +374,14 @@ const membershipApplications = [
     title: "Appraiser",
     content: `
    <p class="mb-4">Joining as a REALTOR® gives Appraisers access to SOMO MLS and Supra keys. This trade name sets you apart from non-members. Proudly display the REALTOR® logo on your marketing literature.</p>
-   <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">GSBOR Application</a></p>
+   <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">Tri-Lakes Board of Realtors Application</a></p>
   `,
   },
   {
     id: "rejoining",
     title: "Rejoining Members",
     content: `
-   <p class="mb-4">Agents who have been a member with us or another Board of REALTORS® previously may have varying dues and application fees. Please email the Membership Department at: <a href="mailto:support@gsbor.com" class="text-blue-600 underline">support@gsbor.com</a> for additional information.</p>
+   <p class="mb-4">Agents who have been a member with us or another Board of REALTORS® previously may have varying dues and application fees. Please email the Membership Department at: <a href="mailto:jake@tlbor.com" class="text-blue-600 underline">jake@tlbor.com</a> for additional information.</p>
    <p><a href="https://form.jotform.com/243164896458168" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors ">GSBOR Application</a></p>
   `,
   },
@@ -415,8 +415,8 @@ const membershipApplications = [
     id: "affiliate",
     title: "Affiliate",
     content: `
-   <p class="mb-4">Greater Springfield Board of REALTORS® Affiliate members are experts in all areas of the real estate industry. There are more than 100 Affiliate members within the Association. Our Affiliates are committed to strong ethical practices, have high professional standards, and provide quality customer satisfaction.</p>
-   <p class="mb-4"><a href="https://gsborportal.ramcoams.net/Membership/Directory/MemberSearch.aspx" target="_blank" rel="noopener" class="inline-flex items-center px-3
+   <p class="mb-4">Tri-Lakes Board of Realtors Affiliate members are experts in all areas of the real estate industry. Our Affiliates are committed to strong ethical practices, have high professional standards, and provide quality customer satisfaction.</p>
+   <p class="mb-4"><a href="/directory" target="_blank" rel="noopener" class="inline-flex items-center px-3
    <p class="mb-4">Are you a prospective Affiliate member interested in connecting with more than 2,000 members? Download our Affiliate Application to build your network today</p>
    <p><a href="https://form.jotform.com/222005105666143" target="_blank" rel="noopener" class="inline-flex items-center px-3 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors ">Affiliate Application</a></p>
   `,

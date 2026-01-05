@@ -1,5 +1,6 @@
 import { defineNuxtConfig } from "nuxt/config";
 import tailwindcss from "@tailwindcss/vite";
+import handleMissingAssets from "./vite-plugins/handle-missing-assets";
 
 export default defineNuxtConfig({
   // Static Site Generation for Netlify
@@ -56,7 +57,16 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   vite: {
-    plugins: [tailwindcss()],
+    plugins: [tailwindcss(), handleMissingAssets()],
+    css: {
+      devSourcemap: true,
+    },
+    server: {
+      fs: {
+        // Allow serving files from the project root
+        allow: [".."],
+      },
+    },
   },
 
   modules: [
@@ -153,15 +163,15 @@ export default defineNuxtConfig({
   // SEO and performance for static sites
   runtimeConfig: {
     public: {
-      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || "https://gsbor.com",
-      siteName: "Greater Springfield Board of Realtors",
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || "https://tlbor.com",
+      siteName: "Tri-Lakes Board of Realtors",
       siteDescription:
-        "Professional real estate services and resources for Springfield, Missouri realtors and home buyers.",
+        "Professional real estate services and resources for Tri-Lakes area realtors and home buyers.",
     },
   },
 
   // Site configuration for sitemap
   site: {
-    url: process.env.NUXT_PUBLIC_SITE_URL || "https://gsbor.com",
+    url: process.env.NUXT_PUBLIC_SITE_URL || "https://tlbor.com",
   },
 });

@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <HeroSection
       title="Benefits of Membership"
-      description="Thank you for your interest in Greater Springfield Board of REALTORS®. Membership at GSBOR connects you with exclusive products, programs and services which extend to the Missouri REALTORS® (MR) and the National Association of REALTORS® (NAR)."
+      description="Thank you for your interest in Tri-Lakes Board of Realtors. Membership connects you with exclusive products, programs and services which extend to the Missouri REALTORS® (MR) and the National Association of REALTORS® (NAR)."
       :cta-buttons="[
         {
           text: 'Become a Member',
@@ -81,7 +81,7 @@
             "
           ></div>
           <div class="p-6 text-center">
-            <h3 class="text-2xl mb-3 text-gray-900">Local GSBOR</h3>
+            <h3 class="text-2xl mb-3 text-gray-900">Local Membership</h3>
             <p class="text-gray-500 mb-6 text-lg">
               Your local board provides essential tools and resources for daily
               operations.
@@ -204,7 +204,7 @@
             Member <span>Services</span>
           </h2>
           <p class="text-gray-700 max-w-2xl mx-auto">
-            By becoming a member of the Greater Springfield Board of REALTORS®,
+            By becoming a member of Tri-Lakes Board of Realtors,
             Inc., you also receive the benefits of membership with Missouri
             REALTORS®, and the National Association of REALTORS®.
           </p>
@@ -221,11 +221,18 @@
             <div
               class="h-48 bg-white relative flex items-center justify-center p-8"
             >
+              <!-- Image placeholder - add SOMO Logo when available -->
+              <div class="text-center">
+                <Icon name="i-lucide-building-2" class="w-16 h-16 text-gray-400 mx-auto mb-2" />
+                <p class="text-sm text-gray-500">SOMO MLS</p>
+              </div>
+              <!--
               <img
                 src="/images/logos/SOMO Logo.png"
                 alt="SOMO MLS Logo"
                 class="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform duration-300"
               />
+              -->
             </div>
             <div class="p-6">
               <h3
@@ -256,11 +263,18 @@
             <div
               class="h-48 bg-white relative flex items-center justify-center p-8"
             >
+              <!-- Image placeholder - add Supra Logo when available -->
+              <div class="text-center">
+                <Icon name="i-lucide-key" class="w-16 h-16 text-gray-400 mx-auto mb-2" />
+                <p class="text-sm text-gray-500">Supra</p>
+              </div>
+              <!--
               <img
                 src="/images/logos/Supra-logo.png"
                 alt="Supra Logo"
                 class="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform duration-300"
               />
+              -->
             </div>
             <div class="p-6">
               <h3
@@ -355,11 +369,12 @@
           <ServiceCard
             title="Form Simplicity"
             description="Enjoy using the Ultimate Edition of Form Simplicity to manage your paperless transactions, obtain digital signatures quickly and to protect your transactions with Form Simplicity's stringent security measures."
-            :image="'/images/home-new-version-icons_simplicity-logo_30.png'"
             link="https://www.formsimplicity.com/"
             variant="large"
             :external="true"
           />
+          <!-- Image placeholder - add Form Simplicity logo when available -->
+          <!-- :image="'/images/home-new-version-icons_simplicity-logo_30.png'" -->
 
           <!-- NAR Benefits -->
           <NuxtLink
@@ -368,12 +383,19 @@
             target="_blank"
             class="group bg-white rounded-xl overflow-hidden shadow-sm card-hover block cursor-pointer"
           >
-            <div class="h-48 bg-primary-200 relative">
+            <div class="h-48 bg-primary-200 relative flex items-center justify-center">
+              <!-- Image placeholder - add NAR Benefits logo when available -->
+              <div class="text-center text-white">
+                <Icon name="i-lucide-award" class="w-16 h-16 mx-auto mb-2" />
+                <p class="text-sm">NAR Benefits</p>
+              </div>
+              <!--
               <img
                 src="/images/logos/NAR-realtor-benefits.png"
                 alt="NAR Benefits"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
+              -->
               <div
                 class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"
               ></div>
@@ -407,11 +429,18 @@
             <div
               class="h-48 bg-white relative flex items-center justify-center p-8"
             >
+              <!-- Image placeholder - add RPR Logo when available -->
+              <div class="text-center">
+                <Icon name="i-lucide-map-pin" class="w-16 h-16 text-gray-400 mx-auto mb-2" />
+                <p class="text-sm text-gray-500">RPR</p>
+              </div>
+              <!--
               <img
                 src="/images/logos/rpr-logo.png"
                 alt="RPR Logo"
                 class="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform duration-300"
               />
+              -->
             </div>
             <div class="p-6">
               <h3
@@ -612,12 +641,12 @@
 <script setup lang="ts">
 // Page metadata
 useHead({
-  title: "Benefits of Membership - Greater Springfield Board of REALTORS®",
+  title: "Benefits of Membership - Tri-Lakes Board of Realtors",
   meta: [
     {
       name: "description",
       content:
-        "Discover the exclusive benefits of GSBOR membership including MLS access, Supra keys, legal support, education, and advocacy at local, state, and national levels.",
+        "Discover the exclusive benefits of Tri-Lakes Board of Realtors membership including MLS access, legal support, education, and advocacy at local, state, and national levels.",
     },
   ],
 });
